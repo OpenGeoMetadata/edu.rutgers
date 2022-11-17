@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3CJ8HVG",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Property of the Passaic Park Company, Passaic Park, opposite Passaic City, N.J.",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:57028",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1880",
+  "dc_description_s": "Map shows blocks A-Z divided into lots. Streets are labeled and lot dimensions are given. The map is an advertisement for an auction held Friday and Saturday, July 4 and 5th, 1890. Map also provides additional contact information.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57028\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57028/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Passaic River",
+    "Passaic (Passaic County, New Jersey)",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:36:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1880"
+}

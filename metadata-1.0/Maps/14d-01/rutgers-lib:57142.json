@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3348PRK",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing property lines and borough boundary of Fair Haven and Red Bank.",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:57142",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1915",
+  "dc_description_s": "A map showing property lots near the borough boundary that separates Red Bank and Fairhaven.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57142\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57142/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "North Shrewsbury River, New Jersey",
+    "Monmouth County",
+    "Red Bank, New Jersey",
+    "Monmouth County",
+    "Fair Haven, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:36:03Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1915-06-10"
+}

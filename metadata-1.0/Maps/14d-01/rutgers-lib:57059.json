@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3G44TMB",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Salem County Index Map",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:57059",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1952",
+  "dc_description_s": "Shows main roads, control monuments, benchmarks rivets, and triangulation stations. All municipalities for Salem County shown.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57059\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57059/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Delaware River",
+    "Oldmans Township, New JerseySalem County",
+    "Pilesgrove, New Jersey",
+    "Salem County",
+    "Pittsgrove, New Jersey",
+    "Salem County",
+    "Mannington Township, New JerseySalem County",
+    "Lower Alloways Creek",
+    "(N .J. : Township)Salem County",
+    "Elsinboro Township, New JerseySalem County",
+    "Quinton, New Jersey",
+    "Salem County",
+    "Alloway, New Jersey",
+    "Salem County",
+    "Upper Penns Neck (New Jersey: Township)",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:36:02Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1952"
+}

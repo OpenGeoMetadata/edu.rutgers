@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3TT4VJV",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing pierhead and bulkhead line on Twilight Lake in the Borough of Bay Head in the County of Ocean",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:58572",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1932",
+  "dc_description_s": "Map showing pierhead and bulkhead line on Twilight Lake in the Borough of Bay Head in the County of Ocean. Board of Commerce and Navigation Map No. 430.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58572\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58572/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Twilight Lake",
+    "Ocean County",
+    "Bay Head, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:36:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1932-11-21"
+}

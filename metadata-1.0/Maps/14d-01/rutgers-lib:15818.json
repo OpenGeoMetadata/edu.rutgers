@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3CZ383Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Camp Dix and Vicinity 1917 Part 6",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:15818",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1917",
+  "dc_description_s": "Map of the vicinity of Camp Dix. One of multiple plates in map. Map emphasizes topography including mountains and vegetation. Based on U.S.G.S. map. Legend designates Metalled roads, ordinary roads, private or unimproved roads, telegraph lines, division headquarters and U.S. reservation boundaries. Paragraph in bottom right corner details the scale used to measure distance. Map created by Lithographer Chas Hart.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15818/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15818/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15818\"}",
+  "dct_spatial_sm": [
+    "Burlington",
+    "Camp Dix",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:33:36Z",
+  "dc_publisher_s": "Chas Hart, Lithographer, 36 Vesey St. New York NY",
+  "dct_issued_s": "1917"
+}

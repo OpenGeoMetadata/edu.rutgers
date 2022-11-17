@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3GB22GR",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the Inside Beach and Sand Hills Beach sections of Absecon Island, New Jersey",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:38527",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1878",
+  "dc_description_s": "Land grant map from the late 1870's describing transactions of beach front property. This map depicts the Inside Beach and Sand Hills Beach sections of what is now known as Absecon Island, encompassing Chelsea Heights in Atlantic City, Ventnor Heights and other portions of Ventnor City, a portion of Margate City, and all of Longport Borough.|Title: Map has no title; title is created|Name of Old Lafayette Island on Map is ambiguous|Note on map states date of copy; unknown whether the map was originally created on that date or copied|Scale unknown",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38527/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38527/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38527\"}",
+  "dct_spatial_sm": [
+    "Atlantic County",
+    "Atlantic City, New Jersey",
+    "Atlantic County",
+    "Longport, New Jersey",
+    "Atlantic County",
+    "Margate City, New Jersey",
+    "Atlantic County",
+    "Ventnor City, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1878-03-13"
+}

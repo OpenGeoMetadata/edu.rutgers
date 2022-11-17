@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3BZ648C",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of New Jersey, Board of Commerce & Navigation, riparian survey of Banta's Mill Creek at its confluence with Overpeck Creek, Borough of Ridgefield, Bergen County, N.J.",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:43462",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1931",
+  "dc_description_s": "Riparian survey of the confluence of Banta's Mill and Overpeck Creek as pertaining to local properties|Source map supplied by New Jersey Department of Environmental Protection|Blue Lines represent U.S. government data|Red lines represent the property of Conrad Klemmer|Black lines represent adjacent property|A party is mentioned of C.L. King, F.B. Cogan, E.J. Chevailier",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43462\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43462/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Overpeck Creek",
+    ", New Jersey",
+    "Bergen County",
+    "Ridgefield Township, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1931-02-02"
+}

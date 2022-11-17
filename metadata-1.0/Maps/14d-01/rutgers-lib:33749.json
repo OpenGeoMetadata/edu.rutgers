@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T34F1Q2S",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bedloes Island to Fort Lee (sheet no. 1 of 2)",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:33749",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1914",
+  "dc_description_s": "Scale: 1:9600|Surveyed in compliance with River and Harbor Act of June 25, 1910.|Horizontal measurements and azimuths as obtained from Steamer U.S.S. Manisees, New York Harbor Improvement Surveys, Jan. 22, 1905, are based on a line between triangulation stations 1 and 3 located on Castle William, Governors Island and on the Barge Office, New York City respectively.|Contains tabulation of triangulation and bench marks.|Prepared under the direction of Colonel W.M. Black, Corps of Engineers, U.S. Army. Assistants: J.H. Rostock, Prin. Asst. Engr., A.P. Morris, Chief Draftsman, C.H. Gardner, Jun. Engr. in charge of surveys. Drafting by H.R. Glutzbeck, Jun. Engr., G.L. Reeder, Surveyor. Field Work by G.L. Reeder, Surveyor.|March 4, 1912",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33749/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33749/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33749\"}",
+  "dct_spatial_sm": [
+    "Bedloe's Island",
+    "Hudson River",
+    "New York",
+    " Harbor",
+    "Fort Lee",
+    "East River",
+    "New York",
+    "New York",
+    " (N.Y.)",
+    "Hudson County",
+    "Jersey City, New Jersey",
+    "Hudson County",
+    "Hoboken, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1914"
+}

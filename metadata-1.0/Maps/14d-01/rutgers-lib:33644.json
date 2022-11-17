@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3K073MB",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan of Margate Park",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:33644",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1909",
+  "dc_description_s": "Map covers area from Vendome Avenue to Mansfield Avenue along the Atlantic Ocean.|\"Scale: 1 inch = 200 feet|Date: November 1909|Map shows property lots with measurements. Map also depicts Sunset Canal, The Raceway, Orient Canal, and Beach Thoroughfare. Map names local Avenues.\"",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33644\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33644/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Atlantic County",
+    "Margate City, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:03Z",
+  "dct_issued_s": "1909"
+}

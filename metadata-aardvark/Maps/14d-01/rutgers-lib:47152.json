@@ -1,0 +1,51 @@
+{
+  "dct_title_s": "Map of South River [then known as the village of Washington, part of North Brunswick]",
+  "dct_description_sm": [
+    "Map of South River [then known as the village of Washington, part of North Brunswick]. Surveyed and drawn by R[ichard] Van Dyke Reid, March, 1851. Original map is 21.25\" x 29.25\" ��� Scan is of an 8\" x10\" glossy photograph of the original"
+  ],
+  "schema_provider_s": "Rutgers University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "IIIF active",
+    "Geography",
+    "History"
+  ],
+  "dct_issued_s": "1851",
+  "gbl_indexYear_im": [
+    "1851"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1851 TO 1851]"
+  ],
+  "dct_spatial_sm": [
+    "Middlesex County, New Jersye",
+    "South River (New Jersey : Borough)",
+    "New Jersey"
+  ],
+  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
+  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "dcat_centroid": "40.074200000000005,-74.7285",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "14d-01"
+  ],
+  "dct_rights_sm": [
+    "This resource may be copyright protected. You may make use of this resource, with proper attribution, for educational and other non-commercial uses only. Contact the contributing organization to obtain permission for reproduction, publication, and commercial use."
+  ],
+  "dct_rightsHolder_sm": [
+    "South River Historical and Preservation Society, Inc."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/47152\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/47152/PDF/1/play/\"}]}",
+  "id": "rutgers-lib:47152",
+  "dct_identifier_sm": [
+    "https://doi.org/doi:10.7282/T3WD42CK"
+  ],
+  "gbl_mdModified_dt": "2022-09-29T21:35:43Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

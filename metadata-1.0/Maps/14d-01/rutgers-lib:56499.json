@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T36976TZ",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan of Sections D & E of the Ocean City Association, Cape May County N.J. I",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:56499",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1900",
+  "dc_description_s": "Map showing real estate plots from 14th Street to 23rd Street in Ocean City, Cape May County. Map area covers Fourteenth Street to the north, Bay Avenue to the west, Wesley Avenue to the east and Twenty Third Street to the south.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56499\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56499/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Cape May County",
+    "Ocean City, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1900"
+}

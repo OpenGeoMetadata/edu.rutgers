@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3PV6M7S",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New Milford, New Jersey, fire department",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:16337",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1960",
+  "dc_creator_sm": [
+    "New Milford Fire Department"
+  ],
+  "dc_description_s": "Map of New Milford borough produced by the town's fire department is divided into fire zones. Along the sides of the map are a street index and a directory of emergency phone extensions.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Historical Maps of New Jersey"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16337/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16337/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16337\"}",
+  "dct_spatial_sm": [
+    "New Milford",
+    "Bergen",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:33:41Z",
+  "dct_issued_s": "1960"
+}

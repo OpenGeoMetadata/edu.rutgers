@@ -1,0 +1,69 @@
+{
+  "dct_title_s": "Map of the Inside Beach and Sand Hills Beach sections of Absecon Island, New Jersey",
+  "dct_description_sm": [
+    "Land grant map from the late 1870's describing transactions of beach front property. This map depicts the Inside Beach and Sand Hills Beach sections of what is now known as Absecon Island, encompassing Chelsea Heights in Atlantic City, Ventnor Heights and other portions of Ventnor City, a portion of Margate City, and all of Longport Borough.",
+    "Title: Map has no title; title is created",
+    "Name of Old Lafayette Island on Map is ambiguous",
+    "Note on map states date of copy; unknown whether the map was originally created on that date or copied",
+    "Scale unknown"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Rutgers University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dcat_keyword_sm": [
+    "IIIF in process",
+    "Coastal zone",
+    "Beach",
+    "Land grants",
+    "Islands"
+  ],
+  "dct_issued_s": "1878-03-13",
+  "gbl_indexYear_im": [
+    "1878"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1878 TO 1878]"
+  ],
+  "dct_spatial_sm": [
+    "Atlantic County",
+    "Atlantic City, New Jersey",
+    "Atlantic County",
+    "Longport, New Jersey",
+    "Atlantic County",
+    "Margate City, New Jersey",
+    "Atlantic County",
+    "Ventnor City, New Jersey",
+    "New Jersey"
+  ],
+  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
+  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "dcat_centroid": "40.074200000000005,-74.7285",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "14d-01"
+  ],
+  "dct_rights_sm": [
+    "This resource may be copyright protected. You may make use of this resource, with proper attribution, for educational and other non-commercial uses only. Contact the contributing organization to obtain permission for reproduction, publication, and commercial use."
+  ],
+  "dct_rightsHolder_sm": [
+    "Rutgers University Libraries"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38527/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38527/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38527\"}",
+  "id": "rutgers-lib:38527",
+  "dct_identifier_sm": [
+    "https://doi.org/doi:10.7282/T3GB22GR"
+  ],
+  "gbl_mdModified_dt": "2022-09-29T21:34:42Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

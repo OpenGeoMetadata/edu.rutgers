@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T36T0MK9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Riparian & stream survey",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:28438",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1938",
+  "dc_description_s": "Project: 1782-0|Scale: 1:120 (vert) 1:2400 (horiz); 1:240 (vert) 1:240 (horiz); 1: 120 (vert) 1:600 (horiz); 1:240 (vert) 1:600 (horiz)|Drainage Basin: Delaware River|Image is from a copy of the original on Mylar.|Sept. 1938|Drawn by J. B. Saltzer|Contains profile and cross section graphs of datum elevation for multiple Camden streams.|For plan see sheets 5, 8, 9, 11, 14, 19, 29.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28438/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28438/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28438\"}",
+  "dct_spatial_sm": [
+    "Pennsauken Creek",
+    "Camden County",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1938"
+}

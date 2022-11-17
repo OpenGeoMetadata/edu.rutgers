@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T32N55JD",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sections A, B, & C: Plan of Lots on Money Island, Lands of Stites and Bateman Downe Township - Cumberland County New Jersey",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:56650",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1940",
+  "dc_description_s": "Section A covers area from Nantuxent Creek to Nantuxent Point. Map shows the property lots along Bayview Road, the property line, and division gut. Also shown is the approximate MLW Line and a part of section B. |Section B shows lots 1 to 25 along Nantuxent Creek. Map shows property lots, proposed new road, Nantuxent Creek, Newport Neck to Nantuxent Creek Road, and part of Section A.|Section C shows Money Island along Nantuxent Creek. Map shows real estate lots, mean high water line, proposed new road, and a part of section B.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56650\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56650/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Maurice River, New Jersey",
+    "Cumberland County",
+    "Downe Township",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1940"
+}

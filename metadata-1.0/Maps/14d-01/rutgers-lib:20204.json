@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T32J6CDF",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new map of East and West New Jersey 1700",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:20204",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1700",
+  "dc_description_s": "This is an early map of east and west New Jersey, the incorrect spelling in the title is taken off the map itself. The map details mainly wet areas and the surveyor is billed as a hydrographer in the title.|Top corner missing and there is a large tear through half the image. Possible tape damage on bottom of map.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Historical Maps of New Jersey"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20204/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20204/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20204\"}",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:33:58Z",
+  "dct_issued_s": "1700"
+}

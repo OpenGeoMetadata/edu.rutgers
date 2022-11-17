@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/t3-fp3s-cb54",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of New Jersey Department of Environmental Protection Island Beach (K) - Seaside Park",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:63764",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1978",
+  "dc_description_s": "Aerial photographic map of Island Beach (K) - Seaside Park in accordance with The Wetlands Act of 1970.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63764/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63764/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63764\"}",
+  "dct_spatial_sm": [
+    "Ocean County",
+    "Seaside Park, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1978-08-19"
+}

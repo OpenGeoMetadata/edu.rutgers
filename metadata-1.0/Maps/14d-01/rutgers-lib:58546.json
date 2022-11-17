@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3668HR4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing pierhead line and bulkhead line on Little Egg Harbor Bay in the Township of Long Beach in the County of Ocean",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:58546",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1931",
+  "dc_description_s": "Map showing pierhead line and bulkhead line on Little Egg Harbor Bay in the Township of Long Beach in the County of Ocean. Board of Commerce and Navigation Map No. 390.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58546\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58546/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Little Egg Harbor Bay",
+    "Ocean County",
+    "Little Egg Harbor, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:36:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1931-12-21"
+}
