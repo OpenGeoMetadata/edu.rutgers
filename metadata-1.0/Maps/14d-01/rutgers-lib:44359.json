@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3Z60MDP",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing the survey of lands under the waters of the Hudson River and Bay of New York and of lands adjacent thereto",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:44359",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1920",
+  "dc_description_s": "Riparian map of the Hudson River, featuring the waterfront road and railway system from Hoboken in Hudson County to Harrinton Township, Bergen County|Source map supplied by New Jersey Department of Environmental Protection|Traced by S.B. Scales|Map is a tracing, made in 1920 of an original created in 1865",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44359\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44359/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Hudson River",
+    "Hoboken, New Jersey",
+    "Bergen County",
+    "Hackensack, New Jersey",
+    "Bergen County",
+    "Harrington Township, New Jersey",
+    "Hudson County",
+    "Bergen Township",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1920-08-03"
+}

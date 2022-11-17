@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3D2224W",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of part of the Kill Von Kull and New York Bay showing riparian lines to be applied for.",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:57876",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1978",
+  "dc_description_s": "Map showing riparian lines along the New York Bay and Kill Von Kull.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57876\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57876/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "New York",
+    " Bay (N.Y. and New Jersey)New York",
+    "Richmond County",
+    "Staten Island, New York",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:36:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1978"
+}

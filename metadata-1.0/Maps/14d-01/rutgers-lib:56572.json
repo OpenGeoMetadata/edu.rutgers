@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3RV0S02",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Grove Street to the Cohansey River in Upper Deerfield Township",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:56572",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1882",
+  "dc_description_s": "Map covers area from Grove Street to the Cohansey River in Upper Deerfield Township and includes Mill Creek. |Map shows the various property owners surrounding Mill Creek. Exterior lines for filling are also shown.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56572\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56572/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Cohansey River, New Jersey",
+    "Cumberland County",
+    "Upper Deerfield, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1882-06-17"
+}

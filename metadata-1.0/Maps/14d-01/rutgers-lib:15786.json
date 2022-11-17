@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3N87BRD",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Asbury Park map 1890",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:15786",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1890",
+  "dc_description_s": "City map. No information shown for map&apos;s creators. An oval stamp in blue ink describes changes made to map as well as proposed changes.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "SPCOL Map Collection"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15786/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15786/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15786\"}",
+  "dct_spatial_sm": [
+    "Asbury Park",
+    "Monmouth",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:33:34Z",
+  "dct_issued_s": "1890"
+}

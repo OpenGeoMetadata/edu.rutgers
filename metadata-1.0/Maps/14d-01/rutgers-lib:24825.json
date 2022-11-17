@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T38K79D6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Noreg Village [now Brooklawn Borough], Camden County, N.J.",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:24825",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1920",
+  "dc_description_s": "3813/C20/207/1920AA",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "Historical Maps of New Jersey"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24825\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24825/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Camden County",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "[s.n.]",
+  "dct_issued_s": "1920"
+}

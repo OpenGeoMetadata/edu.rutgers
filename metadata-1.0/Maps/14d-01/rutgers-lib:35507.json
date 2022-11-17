@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3445KMQ",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing paths for mails and telegrams to and from Puchi (Puqi) Hsien (Xian) [China], published by PuChi (Puqi) Hsien (Xian) on December 1, 1945 = ������������������������������������ , 1945���12���1������������������������������",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:35507",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1945",
+  "dc_description_s": "A color map showing paths for mails and telegrams to and from Puchi (Puqi) Hsien (Xian), published by PuChi (Puqi) Hsien (Xian) on December 1, 1945|Galaida Survey Material",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Central China Relief Records"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/35507/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/35507/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/35507\"}",
+  "dct_spatial_sm": [
+    "Puqi (China)",
+    "CHINA"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:40Z",
+  "dc_language_sm": [
+    "eng",
+    "chi"
+  ],
+  "dct_issued_s": "1945"
+}

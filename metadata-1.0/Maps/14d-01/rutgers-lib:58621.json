@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T39G5RCN",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing pierhead and bulkhead lines on Delaware River in the Township of Logan in the County of Gloucester",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:58621",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1933",
+  "dc_description_s": "Map showing pierhead and bulkhead lines on the Delaware River in Logan Township. Board of Commerce and Navigation map number 439.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58621\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58621/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Delaware River",
+    "Logan, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:36:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1933-02-20"
+}

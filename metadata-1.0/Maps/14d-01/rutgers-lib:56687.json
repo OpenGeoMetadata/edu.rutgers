@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3TT4V88",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map Showing Riparian lands located North of Emergency Fleet Corp't'n",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:56687",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1917",
+  "dc_description_s": "Map shows area to be dredged in Newark Bay. Area to be dredged is within the newly implemented U.S. bulkhead/pierhead lines of 1916.|The westernmost point is the shoreline of Newark Bay, continuing north is Avenue R, continuing east & south is the U.S. Govt. Channel within the Newark Bay.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56687\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56687/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Pennsylvania RailroadEssex County",
+    "Newark, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1917-09-16"
+}

@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3T43TNH",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Dodd Tract, Bloomfield, New Jersey 1908",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:19446",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1908",
+  "dc_description_s": "Map of Dodd Tract property of New Jersey Dwelling Construction Co. situated in the town of Bloomfield, N.J. encompassing the area of Bay Ave., Chapman St., and Franklin Ave.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Historical Maps of New Jersey"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/19446/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/19446/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/19446\"}",
+  "dct_spatial_sm": [
+    "Bloomfield",
+    "Essex",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:33:53Z",
+  "dct_issued_s": "1908"
+}

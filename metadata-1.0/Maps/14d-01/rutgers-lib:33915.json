@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3KD1X8N",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Port facilities at Port of New York: Passaic River (sheet no. 20)",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:33915",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1934",
+  "dc_description_s": "June 1934|Soundings are expressed in feet and tenths below local plane of mean low water as determined from gauge set by U.S.Engineer Office.|Soundings taken from Apr. 25 to May 2, 1934.|Work done by C.W.S.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33915/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33915/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33915\"}",
+  "dct_spatial_sm": [
+    "Newark Bay",
+    "Passaic RiverEssex County",
+    "Newark, New Jersey",
+    "Hudson County",
+    "Kearny, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1934"
+}

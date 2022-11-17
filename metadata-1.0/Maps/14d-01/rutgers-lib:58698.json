@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3WS8XT2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing modified pierhead line on Grassy Sound Channel in the Township of Lower in the County of Cape May",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:58698",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1954",
+  "dc_description_s": "State of New Jersey Department of Conservation and Economic Development, Division of Planning and Development map showing modified pierhead line on Grassy Sound Channel in the Township of Lower in the County of Cape May. Map no. 509.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58698\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58698/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Grassy Sound Channel",
+    "Cape May County",
+    "Lower Township, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:36:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1954-06-07"
+}

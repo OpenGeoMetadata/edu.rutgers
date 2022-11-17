@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3P84BRK",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Riparian & stream survey",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:29321",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1936",
+  "dc_description_s": "Project: ST-70|Scale: 1:2400|Drainage Basin|Image is from a copy of the original on Mylar.|Drawn by M. Hauseu|7-2-36",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29321/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29321/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29321\"}",
+  "dct_spatial_sm": [
+    "Barnegat Bay",
+    "Ocean County",
+    "Barnegat Bay, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1936"
+}

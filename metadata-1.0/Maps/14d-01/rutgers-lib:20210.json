@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T35H7GSK",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New Brunswick, New Jersey 1829",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:20210",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1829",
+  "dc_description_s": "Plan of the City of New Brunswick, Middlesex County, N.J. from actual survey. Map in center includes illustration of Rutgers College and the town seal. Surrounding map are historical sketches of the town and local churches and directory of the most permanent residents.|Mounted on linen and shellaced. Paper in fragile condition with discoloration and wear throughout.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Historical Maps of New Jersey"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20210/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20210/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20210\"}",
+  "dct_spatial_sm": [
+    "Expansion and Reform (1801-1861)",
+    "New Brunswick",
+    "Middlesex",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:33:58Z",
+  "dc_publisher_s": "A. A. Marcules and Terhune and Letson",
+  "dct_issued_s": "1829"
+}

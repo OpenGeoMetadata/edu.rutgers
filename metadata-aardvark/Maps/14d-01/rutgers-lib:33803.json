@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Pennsauken Township, Camden County, New Jersey",
+  "dct_description_sm": [
+    "Map covers the area from Delair Avenue to Bannard Avenue along Delaware River. Map shows the various numbered properties in Pennsauken Township. Six of the numbered properties have corresponding owners on the key in the upper left corner.",
+    "sheet number: 16"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Rutgers University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dcat_keyword_sm": [
+    "IIIF active",
+    "Tidelands",
+    "Geographic Information Systems"
+  ],
+  "dct_issued_s": "1916-05-20",
+  "gbl_indexYear_im": [
+    "1916"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River",
+    "Pennsaucken, New Jersey",
+    "New Jersey"
+  ],
+  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
+  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "dcat_centroid": "40.074200000000005,-74.7285",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "14d-01"
+  ],
+  "dct_rights_sm": [
+    "\"This resource may be copyright protected. You may make use of this resource, with proper attribution, for educational and other non-commercial uses only. Contact the contributing organization to obtain permission for reproduction, publication, and commercial use.\""
+  ],
+  "dct_rightsHolder_sm": [
+    "Rutgers University Libraries"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33803\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33803/PDF/1/play/\"}]}",
+  "id": "rutgers-lib:33803",
+  "dct_identifier_sm": [
+    "https://doi.org/doi:10.7282/T33R0S6T"
+  ],
+  "gbl_mdModified_dt": "2022-09-29T21:35:05Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

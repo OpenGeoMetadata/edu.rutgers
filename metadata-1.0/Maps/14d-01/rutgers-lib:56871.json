@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3J969P4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Property belonging to James Fountain & the Estate of Asbury Fountain situated in Sayreville, Middlesex Co., NJ",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:56871",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1926",
+  "dc_description_s": "Map depicts properties marked with bearings and distances. Map also shows bearings and distances along the low water line of South River and Slover's Creek.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56871\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56871/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "South River (New Jersey : River)Middlesex County, New Jersye",
+    "Sayreville, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1926"
+}

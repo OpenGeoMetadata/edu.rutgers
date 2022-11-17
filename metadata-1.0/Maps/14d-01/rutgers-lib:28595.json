@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3X34XDK",
+  "dc_rights_s": "Public",
+  "dc_title_s": "1930 Real Estate Plat-Book of the City of Trenton and Borough of Princeton, Mercer County, New Jersey (Index Map of Trenton)",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:28595",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1930",
+  "dc_description_s": "Color Index map delineating 48 sections of the city of Trenton referenced by number to the corresponding plate within the Plat-Book.|There is also a map key that includes building construction materials, building types, transportation systems, ward and city lines.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Trentoniana Historic Map Collection"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28595/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28595/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28595\"}",
+  "dct_spatial_sm": [
+    "Mercer County",
+    "Trenton, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:17Z",
+  "dc_publisher_s": "Franklin Survey Company",
+  "dct_issued_s": "1930"
+}

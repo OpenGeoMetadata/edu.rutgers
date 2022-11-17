@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T30P0ZB2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Port facilities at Port of New York: Arthur Kill (sheet no. 15)",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:33748",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1934",
+  "dc_description_s": "Scale: 1:3000|June 1934",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33748/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33748/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33748\"}",
+  "dct_spatial_sm": [
+    "Arthur Kill (New Jersey and New York",
+    ")",
+    "Staten Island, New York",
+    "Tufts Point",
+    "Cedar PointUnion County",
+    "Carteret, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1934"
+}

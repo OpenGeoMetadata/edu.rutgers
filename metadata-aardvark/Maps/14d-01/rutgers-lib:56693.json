@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Plans for rebuilding the Holly Beach Turnpike extending from Rio Grande to Holly Beach, Cape May County, New Jersey",
+  "dct_description_sm": [
+    "There are twelve sheets in this map packet. Maps show the plans for the Holly Beach Turnpike including detailed sketches of certain points along the road. The packet contains a map of location, five sheets of cross sections, four pages of profiles, and one page of bulkhead elevation."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Rutgers University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dcat_keyword_sm": [
+    "IIIF active",
+    "Tidelands",
+    "Geographic Information Systems",
+    "Bridges--Design and construction"
+  ],
+  "dct_issued_s": "1909",
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Richardson's Channel",
+    "Cape May County",
+    "Middle Township, New Jersey",
+    "New Jersey"
+  ],
+  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
+  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "dcat_centroid": "40.074200000000005,-74.7285",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "14d-01"
+  ],
+  "dct_rights_sm": [
+    "This resource may be copyright protected. You may make use of this resource, with proper attribution, for educational and other non-commercial uses only. Contact the contributing organization to obtain permission for reproduction, publication, and commercial use."
+  ],
+  "dct_rightsHolder_sm": [
+    "Rutgers University Libraries"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56693\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56693/PDF/1/play/\"}]}",
+  "id": "rutgers-lib:56693",
+  "dct_identifier_sm": [
+    "https://doi.org/doi:10.7282/T32B929F"
+  ],
+  "gbl_mdModified_dt": "2022-09-29T21:35:55Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3H70J6G",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Jersey Shore, sheets 115 and 116",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:51760",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1884",
+  "dc_description_s": "This long folded map depicts Monmouth County and Ocean County shores. The map also lists bodies of water, some land forms, and man-made features, including what look like property lot lines. Latitude and longitude lines are visible. It is undated but likely from the 19th century. There is much foxing, and one piece is torn from the edge.|Source map supplied by New Jersey Department of Environmental Protection|No indication to attribute responsibility for this map.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51760\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51760/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Barnegat Bay, New Jersey",
+    "Ocean CountyMonmouth County",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1884"
+}

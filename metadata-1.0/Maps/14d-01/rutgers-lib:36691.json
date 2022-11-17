@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3W37V97",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plate-V: Distribution of shellfish resources in relation to the New Jersey Intracoastal Waterway, Longport to Cape May",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:36691",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1963",
+  "dc_description_s": "Connects to Charts: 826, 1217, 1218, 1219|Image is from a copy of the original on Mylar.|Prepared by the U.S. Department of the Interior, Fish and Wildlife Service, Bureau of Sport Fisheries and Wildlife, Boston, Massachusetts, based on information supplied by the Division of Shell Fisheries, Department of Conservation and Economic Development, Trenton, New Jersey.|Shellfish resources charted on the map include oysters, hard clams, and soft clams.|Note A: Navigation regulations are published in Chapter 2. Coast Pilot 2, or subsequent yearly supplements and weekly Notices to Mariners. Copies of the regulations may be obtained at the office of the District Engineer, Corps of Engineers in New York. Refer to section numbers shown with area designation.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36691/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36691/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36691\"}",
+  "dct_spatial_sm": [
+    "Corson Inlet",
+    "Cape May County",
+    "Cape May (N.J)",
+    "Atlantic County",
+    "Longport, New Jersey",
+    "Atlantic County",
+    "Great Egg Harbor Township, New Jersey",
+    "Atlantic County",
+    "Ocean City, New Jersey",
+    "Cape May County",
+    "Stone Harbor, New Jersey",
+    "Cape May County",
+    "Wildwood, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:41Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1963"
+}

@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3S46R1F",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sheet 61 from Pier map of New York Harbor : including Manhattan, Bronx, Brooklyn, Long Island City, Staten Island, New Jersey shore / Sanborn Map Company.",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:36002",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1922",
+  "dc_description_s": "Pier map of New York Harbor : including Manhattan, Bronx, Brooklyn, Long Island City, Staten Island, New Jersey shore / Sanborn Map Company (New York, 1921). Sheet 61. All aboard! Railroads and New Jersey, 1812-1930.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Pier map of New York Harbor"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36002/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36002/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36002\"}",
+  "dct_spatial_sm": [
+    "New York",
+    " Harbor (New York",
+    " and New Jersey)",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:34:40Z",
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_issued_s": "1922"
+}

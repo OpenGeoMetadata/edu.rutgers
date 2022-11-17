@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3DV1P4W",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Line of High Water Mark from 1st St. and Bay Ave. on Thoroughfare to S.W. Line of 6th St. on the Atlantic Ocean",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:56505",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1900",
+  "dc_description_s": "Map shows high water mark and streets between Bay Avenue and Wave Avenue in Ocean City.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56505\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56505/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Cape May County",
+    "Ocean City, New Jersey",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1900-11-05"
+}

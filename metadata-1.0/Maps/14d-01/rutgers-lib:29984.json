@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3X34X7B",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New Jersey Pinelands land capability map (management areas)",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:29984",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "2005",
+  "dc_description_s": "Map of NJ Pinelands, with markers for preservation area district, forest area, agriculture production area, rural development area, regional growth area, pinelands town, military and federal installation area, pinelands village, and special agricultural production area.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29984\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29984/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Not given",
+  "dct_issued_s": "2005"
+}

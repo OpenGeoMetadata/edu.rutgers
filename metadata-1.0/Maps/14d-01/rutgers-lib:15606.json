@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3R49RTK",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Town of Lambertville, Hunderdon County 1869",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:15606",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1869",
+  "dc_creator_sm": [
+    "Lambertville Homestead Association"
+  ],
+  "dc_description_s": "Map includes listing of officers and directors of association.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "SPCOL Map Collection"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15606/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15606/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15606\"}",
+  "dct_spatial_sm": [
+    "Lambertville",
+    "Hunterdon",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:33:33Z",
+  "dct_issued_s": "1869"
+}

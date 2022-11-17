@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/doi:10.7282/T3DJ5JV2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hudson River: New York to Haverstraw I",
+  "dct_provenance_s": "Rutgers University",
+  "layer_slug_s": "rutgers-lib:56226",
+  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_year_i": "1902",
+  "dc_description_s": "Hudson River at the New York-New Jersey Boundary Line. North along Hudson River to Haverstraw, NY & Ossining, NY & south along Hudson River to Fort Lee, NJ & New York City, NY.|Map shows river depths and tidal flows at various locations along the Hudson River. Map includes topography of Linwood, NJ, Englewood, NJ, Piermont, NY, Nyack, NY, Tarrytown, NY, Dobbs Ferry, NY, Yonkers, NY, and Mt.Vernon, NY.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "New Jersey Environmental Digital Library"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56226\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56226/PDF/1/play/\"}]}",
+  "dct_spatial_sm": [
+    "Hudson River",
+    "Englewood Township, New Jersey",
+    "Bergen County",
+    "Tenafly, New Jersey",
+    "Bergen County",
+    "Cresskill, New Jersey",
+    "Bergen County",
+    "Closter, New Jersey",
+    "New York",
+    "New York",
+    " (N.Y.)",
+    "New York",
+    "Yonkers (N.Y.)",
+    "New York",
+    "Tarrytown (N.Y.)",
+    "New York",
+    "Ossining (N.Y.)",
+    "New York",
+    "Haverstraw (N.Y.)",
+    "New York",
+    "Nyack (N.Y.)",
+    "New York",
+    "Piermont (N.Y.)",
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-09-29T21:35:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1902"
+}
