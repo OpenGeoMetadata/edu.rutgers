@@ -3,12 +3,12 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3BV7HJV",
   "dc_rights_s": "Public",
   "dc_title_s": "Watchung, New Jersey 1971",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:16421",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1971",
   "dc_creator_sm": [
-    "League of Women Voters"
+    "League of Women Voters (U.S.)"
   ],
   "dc_description_s": "Map was part of the \"Know Your Town\" guide published by the League of Women Voters. Map designates election districts and polling places and includes full street index. Legend indicates borough and voting district boundaries, streams and ponds.",
   "dc_format_s": "JPEG",
@@ -17,10 +17,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16421/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16421/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16421\"}",
   "dct_spatial_sm": [
-    "Watchung",
-    "Somerset",
+    "New Jersey--Somerset County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:33:44Z",
+  "layer_modified_dt": "2023-03-14T19:54:19Z",
   "dct_issued_s": "1971"
 }

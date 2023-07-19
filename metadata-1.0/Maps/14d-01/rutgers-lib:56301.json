@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3QJ7MJD",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Longport and Oberon",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56301",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
   "solr_year_i": "1881",
   "dc_description_s": "Map covers area from South Avenue to 30th Street. Map shows the grants and leases highlighted in pink and Steamboat Pier to Ocean City.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56301\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56301/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Beach Thoroughfare",
-    "Atlantic County",
-    "Longport, New Jersey",
+    "New Jersey--Atlantic County",
+    "New Jersey--Longport",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:47Z",
+  "layer_modified_dt": "2023-03-14T19:52:16Z",
   "dc_language_sm": [
     "eng"
   ],

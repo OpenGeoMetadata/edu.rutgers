@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3833QDT",
   "dc_rights_s": "Public",
   "dc_title_s": "Subdivision plat of East Rutherford Industrial Park section a for Bergen County Associates, et als, Borough of East Rutherford, Bergen County, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44761",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
   "solr_year_i": "1968",
   "dc_description_s": "This map shows the riparian line along Berry's Creek for subdivision East Rutherford Industrial Park, Section A.|Source map supplied by New Jersey Department of Environmental Protection|Being a subdivision of lots 5F, 7D, 8A, 8B, and part of lots 9, 10 & 11 Block 106 Sheet 11 East Rutherford tax assessment map.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44761\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44761/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Berry's Creek",
-    "Bergen County",
-    "East Rutherford, New Jersey",
+    "New Jersey--Bergen County",
+    "New Jersey--East Rutherford",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:42Z",
+  "layer_modified_dt": "2023-03-14T19:54:12Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3VM4GK0",
   "dc_rights_s": "Public",
   "dc_title_s": "Bay Head- Manasquan Canal",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56884",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1933",
   "dc_description_s": "Map covers area of Manasquan Canal in Bay Head up to and including the Manasquan River. Map shows proposed Creo. Timber Bulkheads along the Manasquan Canal as well as showing the varying water depths of the canal. Map notes the total yards of the completed job; Manasquan River to Barnegat Bay as being 72,967 yards.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56884\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56884/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Manasquan River, New Jersey",
-    "Ocean County",
-    "Bay Head, New Jersey",
+    "New Jersey--Manasquan River",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:59Z",
+  "layer_modified_dt": "2023-03-14T19:51:14Z",
   "dc_language_sm": [
     "eng"
   ],

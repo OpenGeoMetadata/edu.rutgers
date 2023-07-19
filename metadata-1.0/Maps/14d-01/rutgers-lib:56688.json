@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3Q52SW8",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Riverside along Rococas River in Burlington County, NJ",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56688",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.9730,-74.9368,40.0445,40.0239)",
   "solr_year_i": "1900",
   "dc_description_s": "A map of Riverside New Jersey along the Rococas River.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56688\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56688/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Rancocas River, New Jersey",
-    "Burlington County",
-    "Riverside Township, New Jersey",
+    "New Jersey--Rancocas River",
+    "New Jersey--Burlington County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:55Z",
+  "layer_modified_dt": "2023-03-14T19:52:19Z",
   "dc_language_sm": [
     "eng"
   ],

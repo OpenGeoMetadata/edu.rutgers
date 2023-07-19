@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3H41RB3",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian & stream survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:29034",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.5229,-74.4906,39.3448,39.3169)",
   "solr_year_i": "1935",
   "dc_description_s": "Project: S-F2-198|Scale: 1:600,.5:12, vertical 1:12 horizontal 1:360|Image is from a copy of the original on Mylar.|Drawn by Lowe|Sept. 1935|For level datum see note on sheet no 18|includes profiles of jetty & beach|Topography taken Sept. 1935|all bearings given with reference to U.S.C. & G.S. N.A. 1927",
   "dc_format_s": "JPEG",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29034/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29034/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29034\"}",
   "dct_spatial_sm": [
-    "Atlantic County",
-    "Margate City, New Jersey",
+    "New Jersey--Atlantic County",
+    "New Jersey--Margate City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:24Z",
+  "layer_modified_dt": "2023-03-14T19:53:31Z",
   "dc_language_sm": [
     "eng"
   ],

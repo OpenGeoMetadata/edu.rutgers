@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3ZS2TT5",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian map of Hudson River featuring New York and New Jersey shorelines, with a handwritten note for the application of N.Y Dock Department for U.S. pierhead and bulkhead line",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44234",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1921",
@@ -14,14 +14,12 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44234\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44234/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Fort Lee (New Jersey : Borough)",
+    "United States--Hudson River",
+    "New Jersey--Fort Lee",
     "New York",
-    "New York",
-    " (N.Y.)",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:40Z",
+  "layer_modified_dt": "2023-03-14T19:53:35Z",
   "dc_language_sm": [
     "eng"
   ],

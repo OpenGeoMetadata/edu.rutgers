@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3GQ72C3",
   "dc_rights_s": "Public",
   "dc_title_s": "Revised map of pierhead and bulkhead lines for both shores of Arthur Kill or Staten Island Sound from Rahway River to Newark Bay",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58837",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1911",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58837\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58837/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Arthur Kill (New Jersey and New York",
-    ")New York",
+    "Atlantic Ocean--Arthur Kill (Newark Bay)",
+    "New York",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:23Z",
+  "layer_modified_dt": "2023-03-14T19:53:16Z",
   "dc_language_sm": [
     "eng"
   ],

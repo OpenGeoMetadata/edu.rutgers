@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3Z89CB0",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian & stream survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:28436",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.059913,-74.389708,40.183651,39.541198)",
   "solr_year_i": "1938",
   "dc_description_s": "Project: 1782-0|Scale: 1:2400|Drainage Basin: Delaware River|Connects to Sheet: 9|Image is from a copy of the original on Mylar.|June 1938|Drawn by C. Latini|Contains profile and cross section graphs of datum elevation for sections of Stream 128-3-11.",
   "dc_format_s": "JPEG",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28436/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28436/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28436\"}",
   "dct_spatial_sm": [
-    "Pennsauken Creek",
-    "Burlington County",
-    "Chester, New Jersey",
+    "New Jersey--Burlington County",
+    "New Jersey--Chester",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:16Z",
+  "layer_modified_dt": "2023-03-14T19:53:23Z",
   "dc_language_sm": [
     "eng"
   ],

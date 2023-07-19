@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3H70FGT",
   "dc_rights_s": "Public",
   "dc_title_s": "Surficial geological map of the Branchville quadrangle, Sussex County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:30810",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.992015,-74.36751,41.357607,40.899165)",
   "solr_year_i": "2008",
   "dc_creator_sm": [
     "Witte, Ron W."
@@ -17,11 +17,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/30810\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/30810/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Kittatinny ValleySussex County",
-    "Branchville, New Jersey",
+    "New Jersey--Branchville",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:20Z",
+  "layer_modified_dt": "2023-03-14T19:54:13Z",
   "dc_language_sm": [
     "eng"
   ],

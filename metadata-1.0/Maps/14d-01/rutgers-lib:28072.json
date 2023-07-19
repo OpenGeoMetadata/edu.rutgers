@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3FF3SC6",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian & stream survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:28072",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.139832,-74.736216,39.996081,39.608352)",
   "solr_year_i": "1938",
   "dc_description_s": "Project: 1782-0|Scale: Profile scales 1:60 (vert) 1:1200 (horiz); Cross section scales 1:60 (vert) 1:240 (horiz)|Drainage Basin: Delaware River|Image is from a copy of the original on Mylar.|Mar. 1938|Drawn by F. G. Keenard|For plan of these sections and profile, see sheet no. 17.|Contains profile and cross section graphs of elevation datum for multiple Camden streams.",
   "dc_format_s": "JPEG",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28072/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28072/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28072\"}",
   "dct_spatial_sm": [
-    "Pennsauken Creek",
-    "Camden County",
+    "New Jersey--Camden County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:12Z",
+  "layer_modified_dt": "2023-03-14T19:53:22Z",
   "dc_language_sm": [
     "eng"
   ],

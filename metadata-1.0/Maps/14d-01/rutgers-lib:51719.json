@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3K939W0",
   "dc_rights_s": "Public",
   "dc_title_s": "Survey of beach channel at Ship Bottom Beach, Arlington, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51719",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
   "solr_year_i": "1928",
   "dc_description_s": "This map shows Ship Bottom Beach, Arlington, and its streets and railroad. It also appears to show water depth information and sounding measurements. The map is a mimeo with attached Xerox copy.|Source map supplied by New Jersey Department of Environmental Protection|Additional information is faintly handwritten and is not clearly legible.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51719\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51719/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Long Beach Island, New Jersey",
-    "Atlantic County",
-    "Ship Bottom, New Jersey",
+    "New Jersey--Long Beach Island",
+    "New Jersey--Atlantic County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:43Z",
+  "layer_modified_dt": "2023-03-14T19:54:13Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3GT5RQ4",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead line and bulkhead line on Delaware River in the Township of Logan in the County of Gloucester",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58164",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.4298,-75.2857,39.8437,39.7451)",
   "solr_year_i": "1928",
   "dc_description_s": "Map showing pierhead line and bulkhead line on the Delaware River in the Township of Logan (Raccoon Island). Board of Commerce and Navigation Map No. 266.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58164\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58164/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Logan, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Logan",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:10Z",
+  "layer_modified_dt": "2023-03-14T19:52:33Z",
   "dc_language_sm": [
     "eng"
   ],

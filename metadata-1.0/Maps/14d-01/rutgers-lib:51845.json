@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3XS5XRB",
   "dc_rights_s": "Public",
   "dc_title_s": "Tuckerton Creek, New Jersey, examination made in 1905",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51845",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1905",
   "dc_description_s": "This blueprint on linen map depicts Tuckerton Creek in Ocean County. The map shows the extent of the creek from the Tuckerton Manufacturing Company site and Parker's Landing in the west to Little Egg Harbor in the east.|Source map supplied by New Jersey Department of Environmental Protection",
   "dc_format_s": "PDF",
@@ -14,13 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51845\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51845/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Tuckerton Creek",
-    "(Creek",
-    ")",
-    "Ocean County",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:44Z",
+  "layer_modified_dt": "2023-03-14T19:54:17Z",
   "dc_language_sm": [
     "eng"
   ],

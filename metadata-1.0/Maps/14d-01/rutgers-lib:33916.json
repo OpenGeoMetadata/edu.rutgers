@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3Q52P0C",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing ownership of land on New York Bay, Bayonne on which it is proposed to locate a Marine Terminal and Industrial City project",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33916",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1916",
   "dc_description_s": "November 1916|It should be noted that the State of New Jersey owns practically all of the lands under water and that the upland constitutes a very small proportion of the total land necessary to carry out this project.",
   "dc_format_s": "JPEG",
@@ -15,12 +15,10 @@
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33916/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33916/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33916\"}",
   "dct_spatial_sm": [
     "New York",
-    " Bay",
-    "Hudson County",
-    "Bayonne, New Jersey",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:40Z",
+  "layer_modified_dt": "2023-03-14T19:52:25Z",
   "dc_language_sm": [
     "eng"
   ],

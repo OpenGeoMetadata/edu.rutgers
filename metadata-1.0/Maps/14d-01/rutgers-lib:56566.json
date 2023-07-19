@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3J969NP",
   "dc_rights_s": "Public",
   "dc_title_s": "Camden County 1",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56566",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.1371,-75.0661,39.9695,39.8984)",
   "solr_year_i": "1875",
   "dc_description_s": "Map shows area along Coopers Creek from State Street to 15th Street and along the Delaware River from the city of Camden to the Burlington/Camden county line. |Map shows grants and land owners. Also shows Philadelphia, Camden, Pettys Island, Delaware River, and Coopers Creek.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56566\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56566/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Camden, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Camden County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:52Z",
+  "layer_modified_dt": "2023-03-14T19:51:26Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3HM58C3",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian & stream survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:28739",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
   "solr_year_i": "1938",
   "dc_description_s": "Project: 1782|Scale: 1:200, 1:600|Image is from a copy of the original on Mylar.|Drawn by H.C.B.|Aug. 2, '38",
   "dc_format_s": "JPEG",
@@ -14,16 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28739/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28739/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28739\"}",
   "dct_spatial_sm": [
-    "Risley's Channel",
-    "Whirlpool Channel",
-    "Atlantic County",
-    "Egg Harbor (New Jersey: Township)",
-    "Atlantic County",
-    "Northfield (",
-    "Atlantic County, New Jersey)",
+    "New Jersey--Atlantic County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:21Z",
+  "layer_modified_dt": "2023-03-14T19:53:31Z",
   "dc_language_sm": [
     "eng"
   ],

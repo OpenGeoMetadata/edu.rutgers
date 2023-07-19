@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3T15608",
   "dc_rights_s": "Public",
   "dc_title_s": "Sunset Island, formerly Pelican Island, Dover Township, Ocean County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51846",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1928",
   "dc_description_s": "This map is a reduced size negative photostat, one of two identical copies. As the main feature, it depicts a map of the Sunset Island street and lot set up, divided into sections A to J and 1 to 25. There is also a small inset map that shows Sunset Island's location in the larger context of main highways and connections to Long Beach Island, the New Jersey shore, and Philadelphia.|Source map supplied by New Jersey Department of Environmental Protection|Handwritten inscription to the bottom left says: \" The boundary line shown herewith is per Dover Township map - and not officially accepted by Berkeley. See file 4526. F.C.F. 9-4-31\"",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51846\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51846/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:45Z",
+  "layer_modified_dt": "2023-03-14T19:54:12Z",
   "dc_language_sm": [
     "eng"
   ],

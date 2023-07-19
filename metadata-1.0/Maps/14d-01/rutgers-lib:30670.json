@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3P55N6G",
   "dc_rights_s": "Public",
   "dc_title_s": "Butterfly Bogs wildlife management area",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:30670",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.4695,-74.2414,40.1724,39.9989)",
   "solr_year_i": "2010",
   "dc_description_s": "4/20/10",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/30670\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/30670/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Ocean County",
-    "Jackson Township, New Jersey",
+    "New Jersey--Ocean County",
+    "New Jersey--Jackson Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:19Z",
+  "layer_modified_dt": "2023-03-14T19:51:25Z",
   "dc_language_sm": [
     "eng"
   ],

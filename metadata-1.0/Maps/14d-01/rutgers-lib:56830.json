@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3CV4N2D",
   "dc_rights_s": "Public",
   "dc_title_s": "Property of American Dredging Company located on Mantua Creek",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56830",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.429061,-74.87726,39.888317,39.514967)",
   "solr_year_i": "1901",
   "dc_description_s": "Map shows Mantua Creek with new cut off channel and the abandoned path of Mantua Creek. Map also shows land owners.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56830\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56830/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Mantua Creek",
-    "Gloucester County",
-    "West Deptford Township, New Jersey",
+    "New Jersey--Gloucester County",
+    "New Jersey--West Deptford Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:57Z",
+  "layer_modified_dt": "2023-03-14T19:53:13Z",
   "dc_language_sm": [
     "eng"
   ],

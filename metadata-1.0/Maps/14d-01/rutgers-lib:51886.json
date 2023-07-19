@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3377C4F",
   "dc_rights_s": "Public",
   "dc_title_s": "Inland waterway from cape sheet 3",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51886",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1923",
   "dc_description_s": "This is a map showing bodies of water and islands along Long Beach Island. It includes Barnegat Bay, Manahawken Bay, Little Egg Harbor, Great Bay, and all of the smaller waterways in between like creeks and coves. The map also provides some information on water levels across this area described along the bottom of the map. Some major towns along these waterways are also labelled.|Source map supplied by New Jersey Department of Environmental Protection",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51886\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51886/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:45Z",
+  "layer_modified_dt": "2023-03-14T19:52:05Z",
   "dc_language_sm": [
     "eng"
   ],

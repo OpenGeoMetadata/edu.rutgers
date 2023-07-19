@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3DZ08TJ",
   "dc_rights_s": "Public",
   "dc_title_s": "Rutgers College, New Jersey 1878, tunnel views",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:20212",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
   "solr_year_i": "1878",
   "dc_description_s": "Map showing the location of a tunnel constructed for copper mining about 1750 near Rutgers College, New Brunswick, N.J. drawn by Cornelius Clarkson Vermeule, Esq., Rutgers Class of 1878. Map depicts both horizontal and vertical views of the tunnel which bisected the present College Avenue campus of Rutgers University parallel to Hamilton St.|Multiple stains from adhesive tape used to repair tears.",
   "dc_format_s": "JPEG",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20212/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20212/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20212\"}",
   "dct_spatial_sm": [
-    "New Brunswick, New Jersey",
-    "Middlesex County, New Jersye",
+    "New Jersey--New Brunswick",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:33:59Z",
+  "layer_modified_dt": "2023-03-14T19:53:37Z",
   "dct_issued_s": "1878"
 }

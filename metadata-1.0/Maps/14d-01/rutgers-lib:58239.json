@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3N301GQ",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead line on Cohansey River in the City of Bridgeton in the County of Cumberland",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58239",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.444751,-74.851794,39.568746,39.056179)",
   "solr_year_i": "1930",
   "dc_description_s": "Map showing pierhead line on the Cohansey River in the city of Bridgeton. Board of Commerce and Navigation map number 312.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58239\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58239/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cohansey River, New Jersey",
-    "Cumberland County",
-    "Bridgeton, New Jersey",
+    "New Jersey--Cohansey River",
+    "New Jersey--Cumberland County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:11Z",
+  "layer_modified_dt": "2023-03-14T19:52:36Z",
   "dc_language_sm": [
     "eng"
   ],

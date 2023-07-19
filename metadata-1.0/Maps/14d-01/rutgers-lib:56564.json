@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3ST7T4W",
   "dc_rights_s": "Public",
   "dc_title_s": "Along the Delaware River between Howard (Dupont) Street and Cooper Ave (27th Street)",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56564",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.1371,-75.0661,39.9695,39.8984)",
   "solr_year_i": "1919",
   "dc_description_s": "Map shows the Delaware River along Camden between Howard (Dupont) Street and Cooper Ave (27th Street).  |Map shows the lands leased, deeded, and granted. The highwater line, the low water line, and exterior wharf line. Many of the leases, deeds, and grants are from the Pavonia Land Association",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56564\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56564/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Camden, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Camden County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:52Z",
+  "layer_modified_dt": "2023-03-14T19:51:06Z",
   "dc_language_sm": [
     "eng"
   ],

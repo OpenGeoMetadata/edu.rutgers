@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T38G8JJ7",
   "dc_rights_s": "Public",
   "dc_title_s": "High water line survey showing accretion on north side of Absecon Inlet jetty, city of Atlantic City and city of Brigantine, County of Atlantic",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:38609",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.5013,-74.4060,39.4176,39.3427)",
   "solr_year_i": "1957",
   "dc_description_s": "Survey showing the high water line on north side of Absecon Inlet Jetty for Atlantic and Ventnor City.",
   "dc_format_s": "JPEG",
@@ -14,14 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38609/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38609/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38609\"}",
   "dct_spatial_sm": [
-    "Absecon Inlet",
-    "Atlantic County",
-    "Brigantine, New Jersey",
-    "Atlantic County",
-    "Atlantic City, New Jersey",
+    "New Jersey--Atlantic County",
+    "New Jersey--Brigantine",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:43Z",
+  "layer_modified_dt": "2023-03-14T19:52:02Z",
   "dc_language_sm": [
     "eng"
   ],

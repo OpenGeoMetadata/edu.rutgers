@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T31G0QTP",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead line on Rancocas Creek in the Township of Mount Laurel in the County of Burlington",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58555",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.059913,-74.389708,40.183651,39.541198)",
   "solr_year_i": "1932",
   "dc_description_s": "Map showing pierhead and bulkhead line on Rancocas Creek in the Township of Mount Laurel in the County of Burlington. Board of Commerce and Navigation Map No. 399.",
   "dc_format_s": "PDF",
@@ -14,13 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58555\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58555/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Rancocas Creek",
-    " New Jersey",
-    "Burlington County",
-    "Mount Laurel, New Jersey",
+    "New Jersey--Burlington County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:17Z",
+  "layer_modified_dt": "2023-03-14T19:52:29Z",
   "dc_language_sm": [
     "eng"
   ],

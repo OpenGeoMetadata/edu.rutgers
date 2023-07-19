@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3JW8HC6",
   "dc_rights_s": "Public",
   "dc_title_s": "Greenwood Lake phase II implementation, project site locations",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:52309",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.503212,-74.106786,41.203241,40.819938)",
   "solr_year_i": "2001",
   "dc_description_s": "A map showing designated Phase II project construction sites involved with an ongoing effort to upgrade and maintain facilities related to water management for nearby Greenwood Lake.|Source map supplied by New Jersey Department of Environmental Protection",
   "dc_format_s": "PDF",
@@ -14,14 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/52309\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/52309/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Greenwood Lake (New Jersey and N.Y.)Passaic County",
-    "West Milford, New Jersey",
+    "New Jersey--West Milford",
     "New York",
-    "Orange County",
-    "Greenwood Lake",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:46Z",
+  "layer_modified_dt": "2023-03-14T19:52:00Z",
   "dc_language_sm": [
     "eng"
   ],

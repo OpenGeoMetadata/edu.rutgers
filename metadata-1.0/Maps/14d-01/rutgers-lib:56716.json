@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3DF6VJ3",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Passaic River from Clarks Spool Factory Dock to Jersey City Pumping Station",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56716",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1865,-74.1379,40.8095,40.7744)",
   "solr_year_i": "1889",
   "dc_description_s": "Map shows depths of the water in the Passaic River form Clarks Spool Factory Dock to Jersey City Pumping Station.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56716\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56716/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Passaic River",
-    "Belleville, New Jersey",
+    "New Jersey--Passaic River",
+    "New Jersey--Belleville",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:56Z",
+  "layer_modified_dt": "2023-03-14T19:52:17Z",
   "dc_language_sm": [
     "eng"
   ],

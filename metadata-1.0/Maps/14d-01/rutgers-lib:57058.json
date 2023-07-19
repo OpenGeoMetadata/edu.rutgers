@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3KW5KC6",
   "dc_rights_s": "Public",
   "dc_title_s": "Pierhead and Bulkhead Lines for the Easterly Shore of the Delaware River between Pennsgrove and Cedar Point",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57058",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.4773,-75.4600,39.7391,39.7180)",
   "solr_year_i": "1916",
   "dc_description_s": "Map shows area west of Cedar Point to Pennsgrove along the shore of the Delaware River.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57058\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57058/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Penns Grove, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Penns Grove",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:01Z",
+  "layer_modified_dt": "2023-03-14T19:53:03Z",
   "dc_language_sm": [
     "eng"
   ],

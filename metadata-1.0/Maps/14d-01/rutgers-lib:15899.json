@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3N017GJ",
   "dc_rights_s": "Public",
   "dc_title_s": "Newark map 1904",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:15899",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.2516,-74.1136,40.7884,40.6737)",
   "solr_year_i": "1904",
   "dc_description_s": "City map features a full street index at the bottom. Railroads and street car lines are also indicated. A red star seems to indicate the home of an Edward Sayre but with no other explanation of his role in the creation of the map.|Significant markings and damage left by strips of tape.",
   "dc_format_s": "JPEG",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15899/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15899/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15899\"}",
   "dct_spatial_sm": [
-    "Newark",
-    "Essex",
+    "New Jersey--Newark",
+    "New Jersey--Essex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:33:37Z",
+  "layer_modified_dt": "2023-03-14T19:52:49Z",
   "dc_publisher_s": "Interstate Map Company, Engravers and Publishers, Newark NJ",
   "dct_issued_s": "1904"
 }

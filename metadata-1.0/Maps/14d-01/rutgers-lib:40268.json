@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3V69H7P",
   "dc_rights_s": "Public",
   "dc_title_s": "Raritan Township, Including Fire District No. 2, Menlo Park, Fire District No. 4, Fire District No. 5, Oak Tree, Middlesex County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:40268",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
   "solr_year_i": "1953",
   "dc_description_s": "This is one in a series of 455 mid 20th century fire insurance maps produced by the Fire Insurance Rating Organization of New Jersey.|Municipal Fire Insurance Maps",
   "dc_format_s": "PDF",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40268\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40268/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Middlesex County, New Jersye",
-    "Raritan (Middlesex County, New Jersey : Township)",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:29Z",
+  "layer_modified_dt": "2023-03-14T19:53:15Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3JM2DX3",
   "dc_rights_s": "Public",
   "dc_title_s": "Woodbury Creek",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56821",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.429061,-74.87726,39.888317,39.514967)",
   "solr_year_i": "1911",
   "dc_description_s": "Map 1: Woodbury Creek from Red Highway drawbridge to Woodbury. |Map shows Woodbury Creek along with a Red Highway Drawbridge, West Jersey and Seashore Rail Road. Shows a dredged location along the creek and also includes a locality map and diagrams of the Red Drawbridge, the West Jersey and Seashore Railroad fixed bridge, and a plan for the fixed highway bridge at Broad Street.|Map 2: Woodbury Creek from Delaware River to Red Highway Drawbridge. |Map shows soundings of Woodbury Creek, proposed cutoffs, the Red Highway drawbridge, and the white highway drawbridge. Includes a diagram of the white highway drawbridge.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56821\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56821/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "West Deptford Township, New JerseyGloucester County",
-    "Woodbury, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Gloucester County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:57Z",
+  "layer_modified_dt": "2023-03-14T19:54:22Z",
   "dc_language_sm": [
     "eng"
   ],

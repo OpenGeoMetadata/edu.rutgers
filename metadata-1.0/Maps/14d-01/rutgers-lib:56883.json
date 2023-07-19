@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T30C5034",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of proposed bulkhead under contract 92 in the Bayhead-Manasquan Canal, Borough of Point Pleasant",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56883",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1934",
   "dc_description_s": "Map 1: Map covers the area of the Bayhead-Manasquan Canal up to the Manasquan River.Map shows the plans for the proposed bulkhead in the Bayhead-Manasquan Canal as well as noting some water depths.|Map 2: Map shows sections I, II, V, and VI of the proposed bulkhead. Map shows the plans for the proposed bulkhead, the elevations of each section, and the dimensions of the bulkhead.|Map 3: Map shows a detail plan for Sections I, II, III, and IV of bulkhead. Map provides a cross section view, elevation, and detail plan for the proposed bulkhead.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56883\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56883/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Manasquan River, New Jersey",
-    "Ocean County",
-    "Point Pleasant, New Jersey",
+    "New Jersey--Manasquan River",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:59Z",
+  "layer_modified_dt": "2023-03-14T19:53:07Z",
   "dc_language_sm": [
     "eng"
   ],

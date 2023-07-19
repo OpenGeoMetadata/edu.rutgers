@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3BK1GP6",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Cape May County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56583",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.168462,-74.46493,39.324375,38.788657)",
   "solr_year_i": "1912",
   "dc_description_s": "Map of Cape May County showing Atlantic County to the north, Cumberland County to the west, the Atlantic Ocean to the east and Cape May City to the south.",
   "dc_format_s": "PDF",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56583\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56583/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cape May County",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:52Z",
+  "layer_modified_dt": "2023-03-14T19:52:13Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3X63N7P",
   "dc_rights_s": "Public",
   "dc_title_s": "Driving road chart of Monmouth County, compiled expressly for the Atlas of Monmouth County, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:24797",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.614576,-73.88506,40.519095,40.07913)",
   "solr_year_i": "1889",
   "dc_description_s": "3813/M60/081/0000AA|Directory of hotels",
   "dc_format_s": "JPEG",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24797/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24797/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24797\"}",
   "dct_spatial_sm": [
-    "Monmouth County",
+    "New Jersey--Monmouth County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:08Z",
+  "layer_modified_dt": "2023-03-14T19:51:45Z",
   "dc_language_sm": [
     "eng"
   ],

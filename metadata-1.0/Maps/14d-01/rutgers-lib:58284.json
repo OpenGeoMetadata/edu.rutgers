@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3BC432N",
   "dc_rights_s": "Public",
   "dc_title_s": "Pierhead and bulkhead line on northwesterly shore of Inside Thoroughfare from a point 100 feet northeast of Washington Avenue northeastwardly to a point in line with the center line of block between Lafayette and Wyoming Avenues",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58284",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.5064,-74.4640,39.3586,39.3305)",
   "solr_year_i": "1924",
   "dc_description_s": "Pierhead and bulkhead line on northwesterly shore of Inside Thoroughfare from a point 100 feet northeast of Washington Avenue northeastwardly to a point in line with the center line of block between Lafayette and Wyoming Avenues. Board of Commerce and Navigation Map No. 181.",
   "dc_format_s": "PDF",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58284\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58284/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Fredericksburg AvenueVentnor City, New Jersey",
+    "New Jersey--Ventnor City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:12Z",
+  "layer_modified_dt": "2023-03-14T19:53:00Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3H70K6W",
   "dc_rights_s": "Public",
   "dc_title_s": "Central Railroad of N.J. - Bridge No. 177 over Hackensack River - Plan showing proposed elevation and renewal to provide a width of clear channel opening of 100 feet and an under clearance for movable span of 25 feet above mean high water",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57162",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1911",
   "dc_description_s": "Map shows location and plans for reconstruction of bridge across the Hackensack River on the line of the Newark and New York Branch of the Central RR of NJ. Map shows soundings to one mile above and one half mile below bridge at 1\"=300'; map displays the plan of present and proposed structures at 1\"=30'.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57162\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57162/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Jersey City, New Jersey",
+    "United States--Hackensack River",
+    "New Jersey--Jersey City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:04Z",
+  "layer_modified_dt": "2023-03-14T19:51:29Z",
   "dc_language_sm": [
     "eng"
   ],

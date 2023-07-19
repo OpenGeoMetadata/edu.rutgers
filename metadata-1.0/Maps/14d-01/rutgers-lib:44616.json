@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3D798TQ",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of railroads in Hudson River Valley",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44616",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
   "solr_year_i": "1900",
   "dc_description_s": "Map showing a wide view of New York and New Jersey Hudson River Valley, and its railroads|Source map supplied by New Jersey Department of Environmental Protection|No date given|Written in pencil \"Extra copy of No. 3\"|Map contains sparse written information",
   "dc_format_s": "PDF",
@@ -14,17 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44616\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44616/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Hackensack, New Jersey",
-    "Bergen County",
-    "Englewood Township, New Jersey",
-    "Bergen County",
-    "Tenafly, New Jersey",
-    "Bergen County",
-    "Fort Lee (New Jersey : Borough)",
+    "United States--Hudson River",
+    "New Jersey--Hackensack",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:41Z",
+  "layer_modified_dt": "2023-03-14T19:52:19Z",
   "dc_language_sm": [
     "eng"
   ],

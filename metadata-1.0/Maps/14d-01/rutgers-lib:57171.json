@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3F76GXQ",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the boundary line between the states of New York and New Jersey in lands under water in Kill von Kull and New York Bay",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57171",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1889",
   "dc_description_s": "Map shows the represented shoreline from the earliest survey to be obtained subsequent to the agreement of 1833, shows points in the area, Elizabethport, latitudes and longitudes, and forts.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57171\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57171/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Kill Van Kull (New Jersey and New York",
-    "Hudson County",
-    "Jersey City, New Jersey",
+    "United States--Kill Van Kull",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:04Z",
+  "layer_modified_dt": "2023-03-14T19:52:20Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3WH2NNG",
   "dc_rights_s": "Public",
   "dc_title_s": "Rockleigh Borough, Bergen County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:40128",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
   "solr_year_i": "1951",
   "dc_description_s": "This is one in a series of 455 mid 20th century fire insurance maps produced by the Fire Insurance Rating Organization of New Jersey.|Municipal Fire Insurance Maps",
   "dc_format_s": "PDF",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40128\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40128/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Bergen County",
+    "New Jersey--Bergen County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:26Z",
+  "layer_modified_dt": "2023-03-14T19:53:36Z",
   "dc_language_sm": [
     "eng"
   ],

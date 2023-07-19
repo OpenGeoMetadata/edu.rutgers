@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3PV6PMJ",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Cohansey River, NJ from Nail Works Bridge in Bridgeton to Luptons Landing",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56588",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.444751,-74.851794,39.568746,39.056179)",
   "solr_year_i": "1905",
   "dc_description_s": "Map covers area from Nailworks Bridge in Bridgeton to Lupton's Landing.|Map shows the names of the various properties along the Cohansey River as well as some water depths.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56588\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56588/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cohansey River, New Jersey",
-    "Cumberland County",
-    "Bridgeton, New Jersey",
+    "New Jersey--Cohansey River",
+    "New Jersey--Cumberland County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:52Z",
+  "layer_modified_dt": "2023-03-14T19:52:14Z",
   "dc_language_sm": [
     "eng"
   ],

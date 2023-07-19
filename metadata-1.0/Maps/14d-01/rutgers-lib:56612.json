@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3SJ1PXH",
   "dc_rights_s": "Public",
   "dc_title_s": "Right of Way Map for Proposed New Jersey Ship Canal between Raritan Bay and Delaware River",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56612",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.7750,-74.6741,40.1837,40.1131)",
   "solr_year_i": "1900",
   "dc_description_s": "A map showing the proposed boundaries of a new ship canal between Hamilton and Bordentown.",
   "dc_format_s": "PDF",
@@ -14,14 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56612\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56612/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Raritan Bay (New Jersey and N.Y.)",
-    "Burlington County",
-    "Bordentown Township, New Jersey",
-    "Mercer County",
-    "Hamilton (Mercer County, New Jersey : Township)",
+    "New Jersey--Burlington County",
+    "New Jersey--Bordentown Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:53Z",
+  "layer_modified_dt": "2023-03-14T19:53:16Z",
   "dc_language_sm": [
     "eng"
   ],

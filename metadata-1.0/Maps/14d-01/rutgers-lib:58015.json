@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3FR013G",
   "dc_rights_s": "Public",
   "dc_title_s": "Passaic River Newark Bay to Two Bridges Flood Control Plan Sta. 905+50 to 933+79",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58015",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1954",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58015\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58015/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Passaic River",
+    "New Jersey--Passaic River",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:08Z",
+  "layer_modified_dt": "2023-03-14T19:52:58Z",
   "dc_language_sm": [
     "eng"
   ],

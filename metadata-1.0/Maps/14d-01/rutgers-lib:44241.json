@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T32J696X",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian map of properties and land leases along the Hudson River in Englewood, Palisade and Harrington Townships, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44241",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
   "solr_year_i": "1885",
   "dc_description_s": "Map featuring the properties of businesses and privately owned land along the Hudson River, among the three townships of Englewood, Harrington and Palisades. Personal names and some land lease dates are provided.|Source map supplied by New Jersey Department of Environmental Protection|No exact date given; latest date on map is 1885; used as inferred date.|Hand-drawn diagrams indicating where different numbered property sketches fit into various areas of the map.",
   "dc_format_s": "PDF",
@@ -14,14 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44241\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44241/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Englewood Township, New Jersey",
-    "Bergen County",
-    "Palisades Township, New JerseyBergen County",
-    "Harrington Township, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Englewood Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:40Z",
+  "layer_modified_dt": "2023-03-14T19:53:35Z",
   "dc_language_sm": [
     "eng"
   ],

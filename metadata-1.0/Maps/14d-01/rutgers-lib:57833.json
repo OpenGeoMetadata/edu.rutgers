@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T32V2KKR",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing mean high water line taken September 15, 1955 in the vicinity of Verona Avenue in the City of Newark in the County of Essex",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57833",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.377391,-74.112787,40.90889,40.674368)",
   "solr_year_i": "1955",
   "dc_description_s": "Map showing mean high water line taken September 15, 1955 in the vicinity of Verona Avenue in the City of Newark in the County of Essex. Mean high water line elevation = 2.80 feet above mean sea level.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57833\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57833/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Essex County",
-    "Newark, New Jersey",
+    "New Jersey--Essex County",
+    "New Jersey--Newark",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:06Z",
+  "layer_modified_dt": "2023-03-14T19:52:24Z",
   "dc_language_sm": [
     "eng"
   ],

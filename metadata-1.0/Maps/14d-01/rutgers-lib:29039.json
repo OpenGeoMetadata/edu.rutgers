@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T34X57PD",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian & stream survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:29039",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1398,-74.0825,40.8225,40.7615)",
   "solr_year_i": "1938",
   "dc_description_s": "Scale: 1:1200|Drainage Basin: Hudson|Image is from a copy of the original on Mylar.|Mch. 1938|Elevations refer to U.S.M. L.W. Sandy Hook. Coordinates refer to U.S.C. & G.S. Sta. Bogart s=20350, w=20250. Blue lines refer to U.S. Pierhead & Bulkhead. Red lines refer to Traverse Riparian Survey. N.J. Geodetic Contrl Survey coordinates for Sta. Bogart are x=2,152,870.49, y=644,725.43.",
   "dc_format_s": "JPEG",
@@ -14,15 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29039/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29039/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29039\"}",
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Secaucus, New Jersey",
-    "Bergen County",
-    "Rutherford, New Jersey",
-    "Bergen County",
-    "Lyndhurst Township, New Jersey",
+    "United States--Hackensack River",
+    "New Jersey--Secaucus",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:24Z",
+  "layer_modified_dt": "2023-03-14T19:53:18Z",
   "dc_language_sm": [
     "eng"
   ],

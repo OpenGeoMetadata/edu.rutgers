@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3MC938Q",
   "dc_rights_s": "Public",
   "dc_title_s": "Camden County No. 1",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56519",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.1386,-75.0961,39.9086,39.8778)",
   "solr_year_i": "1900",
   "dc_description_s": "Map showing Gloucester City along the Delaware River from the Gloucester/Camden County border to Jefferson Street. The other map shows a continuation from Morgan Street to Erie Street in the city of Camden. Map shows the streets of Camden and Gloucester City. Also on the map is the Delaware River, Newton Creek, Big Timber Creek, and Coopers Creek. The map also shows the land leased and granted",
   "dc_format_s": "PDF",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56519\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56519/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Camden, New Jersey",
-    "Gloucester County",
-    "Gloucester City, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Camden County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:52Z",
+  "layer_modified_dt": "2023-03-14T19:51:27Z",
   "dc_language_sm": [
     "eng"
   ],

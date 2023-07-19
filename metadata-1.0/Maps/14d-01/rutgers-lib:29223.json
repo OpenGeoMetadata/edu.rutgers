@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3J38SD1",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian & stream survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:29223",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.3053,-74.2554,40.6274,40.5918)",
   "solr_year_i": "1939",
   "dc_description_s": "Project: ST-70|Scale: Plan 1:1200; Profile 1:48 (vert) 1:1200 (horiz)|Drainage Basin: Rahway River|Connects to Sheet: 2|Dec. 1939|Date of survey June 1937|Drawn by J. W.|All Bearings refer to N. J. Geodetic Control Survey.|All elevations are based on N. J. Geodetic Control Datum.|Image is from a copy of the original on Mylar.",
   "dc_format_s": "JPEG",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29223/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29223/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29223\"}",
   "dct_spatial_sm": [
-    "Rahway River",
-    "Rahway, New Jersey",
+    "New Jersey--Rahway",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:27Z",
+  "layer_modified_dt": "2023-03-14T19:53:19Z",
   "dc_language_sm": [
     "eng"
   ],

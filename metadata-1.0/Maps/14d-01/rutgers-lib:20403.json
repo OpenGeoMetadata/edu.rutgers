@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T36Q1XS2",
   "dc_rights_s": "Public",
   "dc_title_s": "Middlesex County, New Jersey, during American Revolution",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:20403",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
   "solr_year_i": "1960",
   "dc_description_s": "Map of the County of Middlesex in the Province of New Jersey during the American Revolution compiled by John E. Brush of the Rutgers University Department of Geography for the Middlesex County Cultural and Heritage Commission. Color coded by geological characteristics of land. Inset of New Brunswick. Legend indicates churches, mills, taverns, ferries, public buildings and military barracks. Detailed history, descriptions of Points of Interest and traveller's accounts.",
   "dc_format_s": "JPEG",
@@ -14,10 +14,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20403/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20403/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20403\"}",
   "dct_spatial_sm": [
-    "Expansion and Reform (1801-1861)",
-    "Middlesex County, New Jersye",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:02Z",
+  "layer_modified_dt": "2023-03-14T19:52:41Z",
   "dct_issued_s": "1960"
 }

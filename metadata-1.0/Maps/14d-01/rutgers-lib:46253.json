@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T35M67DD",
   "dc_rights_s": "Public",
   "dc_title_s": "Ellis Island showing boundary between states of New Jersey and New York",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:46253",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1999",
   "dc_description_s": "Ellis Island today: Located in the Upper Bay west of Jersey City and southwest of Manhattan|This map of Ellis Island depicts the delineation of the jurisdictional boundary between New Jersey and New York, on Ellis Island, as per the Supreme Court ruling of 1998, New Jersey v. New York, 523 U.S. 767 (1998).|Map supplied by New Jersey Department of Environmental Protection, Bureau of Tidelands Management.|This map is a revised version (December 1, 1998) of the original dated April 30, 1997.",
   "dc_format_s": "PDF",
@@ -14,15 +14,12 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/46253\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/46253/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Ellis Island (New Jersey and N.Y.)",
-    "Hudson County",
-    "Ellis Island (New Jersey and N.Y.)",
-    "New York",
-    "New York",
-    "Ellis Island (New Jersey and N.Y.)",
+    "United States--Ellis Island",
+    "New Jersey--Hudson County",
+    "United States--Ellis Island",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:43Z",
+  "layer_modified_dt": "2023-03-14T19:51:47Z",
   "dc_language_sm": [
     "eng"
   ],

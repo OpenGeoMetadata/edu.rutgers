@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3H41W08",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead line on Oyster Landing Cove on Cedar Creek in the Township of Lacey in the County of Ocean",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58445",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.4341,-74.0869,39.9403,39.7962)",
   "solr_year_i": "1931",
   "dc_description_s": "Map showing pierhead and bulkhead line on Oyster Landing Cove on Cedar Creek in Lacey Township. Board of Commerce and Navigation map number 356.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58445\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58445/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cedar Creek",
-    "Ocean County",
-    "Lacey Township, New Jersey",
+    "New Jersey--Ocean County",
+    "New Jersey--Lacey Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:14Z",
+  "layer_modified_dt": "2023-03-14T19:52:29Z",
   "dc_language_sm": [
     "eng"
   ],

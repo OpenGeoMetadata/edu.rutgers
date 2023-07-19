@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T37P8ZPR",
   "dc_rights_s": "Public",
   "dc_title_s": "Public buildings and schools, Township of Hamilton, Mercer County, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:24816",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.942909,-74.481095,40.424156,40.136771)",
   "solr_year_i": "1966",
   "dc_description_s": "3813/M40/203/1966AA",
   "dc_format_s": "JPEG",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24816/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24816/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24816\"}",
   "dct_spatial_sm": [
-    "Mercer County",
-    "Hamilton (Mercer County, New Jersey : Township)",
+    "New Jersey--Mercer County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:09Z",
+  "layer_modified_dt": "2023-03-14T19:53:14Z",
   "dc_language_sm": [
     "eng"
   ],

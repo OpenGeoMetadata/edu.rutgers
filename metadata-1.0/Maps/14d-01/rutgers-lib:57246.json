@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3GF0XWR",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Ellis Island",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57246",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1864",
   "dc_description_s": "Map shows Ellis Island with its buildings and seawalls. There are special marking for additions since 1853.",
   "dc_format_s": "PDF",
@@ -14,12 +14,12 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57246\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57246/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Ellis Island (New Jersey and N.Y.)",
-    "Hudson County",
+    "United States--Ellis Island",
+    "New Jersey--Hudson County",
     "New York",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:06Z",
+  "layer_modified_dt": "2023-03-14T19:52:14Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3833T0P",
   "dc_rights_s": "Public",
   "dc_title_s": "Brielle map circa 1800s",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:15789",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.614576,-73.88506,40.519095,40.07913)",
   "solr_year_i": "1883",
   "dc_creator_sm": [
     "Weicke, Robert A."
@@ -17,10 +17,13 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15789/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15789/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15789\"}",
   "dct_spatial_sm": [
-    "Brielle, New Jersey",
-    "Monmouth County",
+    "New Jersey--Brielle",
+    "New Jersey--Monmouth County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:33:35Z",
+  "layer_modified_dt": "2023-03-14T19:51:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
   "dct_issued_s": "1883"
 }

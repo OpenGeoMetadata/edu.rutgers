@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3PK0GG7",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Passaic [City, Passaic County], New Jersey [for Rowland and Shafto, Inc., real estate].",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:24771",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.503212,-74.106786,41.203241,40.819938)",
   "solr_year_i": "1880",
   "dc_description_s": "3813/P30/207/0000AC",
   "dc_format_s": "JPEG",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24771/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24771/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24771\"}",
   "dct_spatial_sm": [
-    "Passaic County",
-    "Passaic (Passaic County, New Jersey)",
+    "New Jersey--Passaic County",
+    "New Jersey--Passaic County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:07Z",
+  "layer_modified_dt": "2023-03-14T19:52:17Z",
   "dc_language_sm": [
     "eng"
   ],

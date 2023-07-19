@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3H998GV",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Mouth of Cohansey River, NJ",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56574",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.444751,-74.851794,39.568746,39.056179)",
   "solr_year_i": "1906",
   "dc_description_s": "Map covers the mouth of Cohansey River and includes the Delaware Bay.|Map shows the varying water depths of the Cohansey River expressed in feet and tenths. Map also includes the cut-off dredged 1911-1912.",
   "dc_format_s": "PDF",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56574\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56574/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cohansey River, New Jersey",
-    "Cumberland County",
-    "Fairfield (",
-    "Cumberland County, New Jersey : Township)",
+    "New Jersey--Cohansey River",
+    "New Jersey--Cumberland County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:52Z",
+  "layer_modified_dt": "2023-03-14T19:52:17Z",
   "dc_language_sm": [
     "eng"
   ],

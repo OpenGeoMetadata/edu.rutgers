@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T34M97V2",
   "dc_rights_s": "Public",
   "dc_title_s": "New Jersey - Cape May County - Peck Beach - Emergency dune protection sections III",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56634",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.6554,-74.5402,39.3101,39.2068)",
   "solr_year_i": "1962",
   "dc_description_s": "Map of Ocean City covering area from 59th Street to 42nd Street. Map shows soundings, pilings, the edge of Berm, groins, and the condition of piers and bulkhead. Drainage ditches, Peck Beach, and marsh areas are located on the map. Attached are sheets 27 A and 27 B.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56634\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56634/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cape May County",
-    "Ocean City, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--Ocean City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:54Z",
+  "layer_modified_dt": "2023-03-14T19:52:46Z",
   "dc_language_sm": [
     "eng"
   ],

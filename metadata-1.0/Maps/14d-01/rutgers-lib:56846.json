@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3XP787G",
   "dc_rights_s": "Public",
   "dc_title_s": "Frontage of the New Jersey Steel and Iron Company on the Delaware River",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56846",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.942909,-74.481095,40.424156,40.136771)",
   "solr_year_i": "1878",
   "dc_description_s": "Map covers area from Federal Street to Landing Street.Map shows various properties such as those of William Dolton and Gershom Mott. Map depicts low water line and Commissioner's exterior line.|\"June - 1878\"",
   "dc_format_s": "PDF",
@@ -14,18 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56846\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56846/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Federal Street",
-    "Warren Street",
-    "Union Street",
-    "Lamberton Street",
-    "Cass Street",
-    "Race Street",
-    "Landing StreetMercer County",
-    "Trenton, New Jersey",
+    "United States--Delaware River",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:57Z",
+  "layer_modified_dt": "2023-03-14T19:51:57Z",
   "dc_language_sm": [
     "eng"
   ],

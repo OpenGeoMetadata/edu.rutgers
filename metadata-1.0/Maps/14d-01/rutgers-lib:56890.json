@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3348PQ4",
   "dc_rights_s": "Public",
   "dc_title_s": "Pre-dredging survey of a section of the inland waterway Manasquan-Bayhead Canal",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56890",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1932",
   "dc_description_s": "Sheet 1: Map covers area from the abandoned boats in Barnegat Bay to Herbert's Creek. Map shows proposed Creo. Timber Bulkheads along the Manasquan Canal as well as showing the varying water depths of the canal. Map notes the total yards of the completed job; Manasquan River to Barnegat Bay as being 72,967 yards.|Sheet 2: Map covers the canal itself as well as Riviera Park and Johnson Brothers Basin. Map shows the varying water depths of the canal and color-coded coordinates.|Sheet 3: Map covers area of Manasquan/Bayhead Canal starting at Bridge Avenue. Map also includes Howard Heights Basin. Map provides water depths of the canal as well as low/high water lines and the surrounding roads.|Sheet 4: Map shows the Manasquan/Bayhead Canal running through Point Pleasant Borough. Map shows the varying water depths of the canal as well as Bridge Avenue's bridge to Bayhead and the base line ties to Monuments.|Sheet 5: Map covers the area of the Manasquan/Bayhead Canal in Point Pleasant Borough. Map shows the varying water depths of the canal as well as a sketch showing base line ties to Monuments.|Sheet 6: Map covers area of the Bayhead-Manasquan Canal running through Point Pleasant Borough up to the Manasquan River. Map shows the varying water depths of the Bayhead-Manasquan canal as well as the mean low water lines.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56890\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56890/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Manasquan River, New Jersey",
-    "Ocean County",
-    "Point Pleasant, New Jersey",
+    "New Jersey--Manasquan River",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:59Z",
+  "layer_modified_dt": "2023-03-14T19:53:10Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3PG1WBR",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead line on New York Bay, in the City of Bayonne, County of Hudson",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58668",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1946",
   "dc_description_s": "Map showing pierhead line on New York Bay in Bayonne. Division of Navigation map number 493.",
   "dc_format_s": "PDF",
@@ -15,12 +15,10 @@
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58668\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58668/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
     "New York",
-    " Bay",
-    "Hudson County",
-    "Bayonne, New Jersey",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:20Z",
+  "layer_modified_dt": "2023-03-14T19:52:36Z",
   "dc_language_sm": [
     "eng"
   ],

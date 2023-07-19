@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3R78DJH",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Burlington County Front on the Delaware River",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33958",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.059913,-74.389708,40.183651,39.541198)",
   "solr_year_i": "1876",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
@@ -13,16 +13,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33958/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33958/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33958\"}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Pennsauken Creek",
-    "Rancocas River",
-    "Burlington County",
-    "Beverly, New Jersey",
-    "Burlington County",
-    "Cinnaminson, New Jersey",
+    "United States--Delaware River",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:40Z",
+  "layer_modified_dt": "2023-03-14T19:52:13Z",
   "dc_language_sm": [
     "eng"
   ],

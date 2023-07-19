@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3057K9J",
   "dc_rights_s": "Public",
   "dc_title_s": "Map depicting crossing of Pennsylvania Railroad over Hackensack River",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57055",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1648,-74.0746,40.7864,40.7095)",
   "solr_year_i": "1916",
   "dc_description_s": "Map covers area from the west bank to the east bank of the Hackensack River where it is crossed by the Pennsylvania Railroad.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57055\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57055/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Kearny, New Jersey",
+    "United States--Hackensack River",
+    "New Jersey--Kearny",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:01Z",
+  "layer_modified_dt": "2023-03-14T19:52:11Z",
   "dc_language_sm": [
     "eng"
   ],

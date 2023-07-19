@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T33T9MHW",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing the exterior wharf line on Post and Beach Creek, between Baker and Hildreth Avenues, at Holly Beach, Cape May County",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56619",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.168462,-74.46493,39.324375,38.788657)",
   "solr_year_i": "1909",
   "dc_description_s": "Map of North Wildwood showing land grants, exterior wharf lines, Beach Creek, Inland Waterway, and Post Creek. Map also shows the roads of the area and the Wildwood Harbor.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56619\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56619/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Grassy Sound Channel",
-    "Cape May County",
-    "North Wildwood, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--North Wildwood",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:53Z",
+  "layer_modified_dt": "2023-03-14T19:52:38Z",
   "dc_language_sm": [
     "eng"
   ],

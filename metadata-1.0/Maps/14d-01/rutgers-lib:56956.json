@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3FR00Z8",
   "dc_rights_s": "Public",
   "dc_title_s": "Survey of Artificial Sand Bar Formed by U.S. Government Dredging and unauthorized occupation on Toms River in Dover Township, Ocean County",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56956",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1924",
   "dc_description_s": "Map covers area of Toms River and surrounding areas including the C.R.R. of New Jersey Station. Map depicts bulkhead and pierhead lines along Toms River.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56956\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56956/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Toms River",
-    "Ocean County",
-    "Dover, New Jersey",
+    "New Jersey--Ocean County",
+    "New Jersey--Dover",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:00Z",
+  "layer_modified_dt": "2023-03-14T19:54:13Z",
   "dc_language_sm": [
     "eng"
   ],

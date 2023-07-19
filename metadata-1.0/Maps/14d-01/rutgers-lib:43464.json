@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T33F4MVP",
   "dc_rights_s": "Public",
   "dc_title_s": "Borough of Edgewater, north section",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:43464",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-73.9945,-73.9628,40.8480,40.8007)",
   "solr_year_i": "1900",
   "dc_description_s": "Map showing property lines along the Hudson River including parts of the borough of Cliffside to the township of Ridgefield|Source map supplied by New Jersey Department of Environmental Protection|no date available|there is an additional property line added in pencil",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43464\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43464/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Edgewater, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Edgewater",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:39Z",
+  "layer_modified_dt": "2023-03-14T19:51:22Z",
   "dc_language_sm": [
     "eng"
   ],

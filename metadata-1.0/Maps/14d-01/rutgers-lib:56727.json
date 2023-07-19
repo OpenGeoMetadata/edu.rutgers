@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3VH5S47",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of Lands Situated in West Deptford Township, Gloucester County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56727",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1914",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56727\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56727/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "West Deptford Township, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--West Deptford Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:56Z",
+  "layer_modified_dt": "2023-03-14T19:53:06Z",
   "dc_language_sm": [
     "eng"
   ],

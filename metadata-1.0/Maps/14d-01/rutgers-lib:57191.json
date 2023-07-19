@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3D50RB4",
   "dc_rights_s": "Public",
   "dc_title_s": "Coast Protection Survey, Long Branch, Monmouth County",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57191",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.614576,-73.88506,40.519095,40.07913)",
   "solr_year_i": "1933",
   "dc_description_s": "A map of survey results along the Atlantic Ocean in Long Branch, Monmouth County.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57191\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57191/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Ocean AvenueMonmouth County",
-    "Long Branch, New Jersey",
+    "New Jersey--Monmouth County",
+    "New Jersey--Long Branch",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:04Z",
+  "layer_modified_dt": "2023-03-14T19:51:33Z",
   "dc_language_sm": [
     "eng"
   ],

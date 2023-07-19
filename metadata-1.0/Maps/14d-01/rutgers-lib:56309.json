@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3PK0KC4",
   "dc_rights_s": "Public",
   "dc_title_s": "Properties: Gloucester Land Company & Gloucester Iron Works",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56309",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.0946,-75.0707,39.9101,39.8943)",
   "solr_year_i": "1870",
   "dc_description_s": "Map covers area from Old Kings Road to Newton Creek. Map depicts properties of Gloucester Iron Works and Gloucester Land Company from Warren Street to Newton Creek. Map also depicts high water and wharf lines of the Delaware River.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56309\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56309/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Oaklyn, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Oaklyn",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:47Z",
+  "layer_modified_dt": "2023-03-14T19:53:13Z",
   "dc_language_sm": [
     "eng"
   ],

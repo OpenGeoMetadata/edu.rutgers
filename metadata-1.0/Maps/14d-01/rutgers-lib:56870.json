@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3TT4V9Q",
   "dc_rights_s": "Public",
   "dc_title_s": "State of New Jersey Board of Commerce and Navigation: Map of waterfront on Arthur Kill or Staten Island Sound at Perth Amboy occupied by the Atlantic Terra Cotta Co.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56870",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
   "solr_year_i": "1919",
   "dc_description_s": "Map shows freeholders' Licenses given to Julia Peck - June 6, 1891 and to Perth Amboy Terra Cotta Company - June 6, 1891. Map also shows line for solid filling established by Riparian Commissioners (marked with distances). |Map was enlarged from 1/2500 to 1' = 50\" in December 1919.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56870\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56870/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Staten Island, New York",
-    "Middlesex County, New Jersye",
-    "Perth Amboy, New Jersey",
+    "New York--Staten Island",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:58Z",
+  "layer_modified_dt": "2023-03-14T19:53:42Z",
   "dc_language_sm": [
     "eng"
   ],

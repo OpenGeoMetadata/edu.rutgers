@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/t3-w2tv-1j20",
   "dc_rights_s": "Public",
   "dc_title_s": "Hudson and East Rivers from West 67th Street to Blackwells Island New York 1916",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:65120",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1916",
@@ -12,13 +12,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/65120\"}",
   "dct_spatial_sm": [
-    "Hudson River",
+    "United States--Hudson River",
     "New York",
-    "New York",
-    " (N.Y.)",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:31Z",
+  "layer_modified_dt": "2023-03-14T19:52:04Z",
   "dc_language_sm": [
     "eng"
   ],

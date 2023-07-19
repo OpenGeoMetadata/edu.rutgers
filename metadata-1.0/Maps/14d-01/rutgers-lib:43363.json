@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T34X561G",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of sanitary sewer system for the northern part of the Borough of Riverside",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:43363",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
   "solr_year_i": "1900",
   "dc_description_s": "Map of the sewer system of Riverside Borough, New Jersey|Source map supplied by New Jersey Department of Environmental Protection|No date given",
   "dc_format_s": "PDF",
@@ -14,12 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43363\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43363/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Midland TownshipBergen County",
-    "Riverside (Bergen County, New Jersey) [to 1930]",
+    "United States--Hackensack River",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:38Z",
+  "layer_modified_dt": "2023-03-14T19:53:07Z",
   "dc_language_sm": [
     "eng"
   ],

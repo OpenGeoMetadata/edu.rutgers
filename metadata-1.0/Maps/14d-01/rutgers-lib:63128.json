@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/t3-etbm-sf55",
   "dc_rights_s": "Public",
   "dc_title_s": "State of New Jersey Department of Environmental Protection Townsends Inlet West - Avalon",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:63128",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.7675,-74.7035,39.1185,39.0622)",
   "solr_year_i": "1972",
   "dc_description_s": "Aerial photographic map of Townsends Inlet West - Avalon in accordance with The Wetlands Act of 1970.",
   "dc_format_s": "PDF",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63128\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63128/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Avalon, New Jersey",
+    "New Jersey--Avalon",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:13Z",
+  "layer_modified_dt": "2023-03-14T19:54:09Z",
   "dc_language_sm": [
     "eng"
   ],

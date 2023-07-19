@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3KH0RPM",
   "dc_rights_s": "Public",
   "dc_title_s": "Modification in the pierhead and bulkhead lines for part of the Northwest shores of Arthur Kill and Newark Bay in front of Elizabethport, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57122",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.463291,-74.135775,40.73964,40.591925)",
   "solr_year_i": "1904",
   "dc_description_s": "Map shows modified pierhead and bulkhead lines as recommended by the NY Harbor Line Board along the shore of Arthur Kill and Newark Bay, bearings and distances are marked.",
   "dc_format_s": "PDF",
@@ -14,13 +14,12 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57122\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57122/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Arthur Kill (New Jersey and New York",
-    ")Union County",
+    "Atlantic Ocean--Arthur Kill (Newark Bay)",
+    "New Jersey--Union County",
     "New York",
-    "Staten Island, New York",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:03Z",
+  "layer_modified_dt": "2023-03-14T19:52:41Z",
   "dc_language_sm": [
     "eng"
   ],

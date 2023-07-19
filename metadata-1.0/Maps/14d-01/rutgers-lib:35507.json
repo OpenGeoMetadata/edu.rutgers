@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3445KMQ",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing paths for mails and telegrams to and from Puchi (Puqi) Hsien (Xian) [China], published by PuChi (Puqi) Hsien (Xian) on December 1, 1945 = ������������������������������������ , 1945���12���1������������������������������",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:35507",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1945",
@@ -14,10 +14,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/35507/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/35507/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/35507\"}",
   "dct_spatial_sm": [
-    "Puqi (China)",
-    "CHINA"
+    "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:40Z",
+  "layer_modified_dt": "2023-03-14T19:52:25Z",
   "dc_language_sm": [
     "eng",
     "chi"

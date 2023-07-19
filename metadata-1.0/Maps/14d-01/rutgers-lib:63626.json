@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/t3-gm5z-c720",
   "dc_rights_s": "Public",
   "dc_title_s": "State of New Jersey Department of Environmental Protection Teal Creek South - Green Bank",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:63626",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.059913,-74.389708,40.183651,39.541198)",
   "solr_year_i": "1977",
   "dc_description_s": "Aerial photographic map of Teal Creek South - Green Bank in accordance with The Wetlands Act of 1970.",
   "dc_format_s": "JPEG",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63626/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63626/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63626\"}",
   "dct_spatial_sm": [
-    "Burlington County",
-    "Green Bank, New Jersey",
+    "New Jersey--Burlington County",
+    "New Jersey--Green Bank",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:50Z",
+  "layer_modified_dt": "2023-03-14T19:54:08Z",
   "dc_language_sm": [
     "eng"
   ],

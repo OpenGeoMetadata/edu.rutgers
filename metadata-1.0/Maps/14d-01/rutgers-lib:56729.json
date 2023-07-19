@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3M3302R",
   "dc_rights_s": "Public",
   "dc_title_s": "West Jersey Sand Supply Company and William Cunningham properties along Big Timber Creek",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56729",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.0890,-74.9681,39.8529,39.7256)",
   "solr_year_i": "1918",
   "dc_description_s": "Map shows mean high water and mean low water and William Cunningham Property along Timber Creek. Map also shows specific property boundaries of William Cunningham and West Jersey Sand & Supply Company along Ladds Creek and Timber Creek.",
   "dc_format_s": "PDF",
@@ -14,18 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56729\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56729/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Big Timber Creek",
-    "Gloucester CountyGloucester County",
-    "Westville, New Jersey",
-    "Gloucester County",
-    "Woodbury, New Jersey",
-    "Gloucester County",
-    "Mount Ephraim, New Jersey",
-    "Gloucester County",
-    "Gloucester Township, New Jersey",
+    "New Jersey--Gloucester County",
+    "New Jersey--Westville",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:56Z",
+  "layer_modified_dt": "2023-03-14T19:54:20Z",
   "dc_language_sm": [
     "eng"
   ],

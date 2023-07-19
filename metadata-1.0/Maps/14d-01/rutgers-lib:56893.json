@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3PV6PPF",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Bergen Point showing proposed extension of pierhead and bulkhead lines on Kill Van Kull and Newark Bay",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56893",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1922",
   "dc_description_s": "State of New Jersey Board of Commerce and Navigation map of Bergen Point, Bayonne City showing proposed extension of pierhead and bulkhead lines on Kill Van Kull and Newark Bay as described in the petition of the City of Bayonne dated January 17, 1922. Map shows proposed pierhead and bulkhead lines and the Central Railroad of New Jersey.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56893\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56893/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Newark Bay, New Jersey",
-    "Hudson County",
-    "Bayonne, New Jersey",
+    "New Jersey--Newark Bay",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:59Z",
+  "layer_modified_dt": "2023-03-14T19:52:13Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3NS0SCC",
   "dc_rights_s": "Public",
   "dc_title_s": "Bare earth lidar topography-Gateway National Recreation Area",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:45248",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.614576,-73.88506,40.519095,40.07913)",
   "solr_year_i": "2007",
   "dc_description_s": "This Lidar derived topographic map was produced as a collaborative effort. The aims of the partnership that created this product are to develop advanced survey techniques for mapping geomorphology and habitats, and to enable the monitoring of ecological and geological change within National Park Units. This product is based on data from an innovative airborne Light Detection and Ranging (LiDAR) instrument under development at the NASA Wallops Flight Facility, the NASA Experimental Advanced Airborne Research Lidar (EAARL)|The map tile reference number for this mapping is: 582000e_4482000n.|The map also includes more detail about the map data as well as suggestions for further reading.",
   "dc_format_s": "PDF",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/45248\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/45248/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Gateway National Recreation Area (Agency : U.S.). Sandy Hook UnitMonmouth County",
+    "New Jersey--Monmouth County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:43Z",
+  "layer_modified_dt": "2023-03-14T19:51:12Z",
   "dc_language_sm": [
     "eng"
   ],

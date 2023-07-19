@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3X92FJW",
   "dc_rights_s": "Public",
   "dc_title_s": "Hydrographic survey of Great Egg Harbor Inlet",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56446",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.6554,-74.5402,39.3101,39.2068)",
   "solr_year_i": "1960",
   "dc_description_s": "Map shows depth soundings from Ocean City shoreline to several miles into Atlantic Ocean. Map covers area from Westly Road to Eleventh Street along the Atlantic Ocean.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56446\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56446/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cape May County",
-    "Ocean City, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--Ocean City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:50Z",
+  "layer_modified_dt": "2023-03-14T19:52:05Z",
   "dc_language_sm": [
     "eng"
   ],

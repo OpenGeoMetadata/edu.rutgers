@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3GQ6X3G",
   "dc_rights_s": "Public",
   "dc_title_s": "Topographical map of Jersey City, Hoboken and the adjacent country, describing minutely the courses of rivers, brooks, the Township, original patent lines, railways, turnpike, carriage, bridle roads, the present farm boundaries with the names of their proprietors, a correct plan of public grounds and gentleman's country seats, the position of farm houses, forests, swamps, and marshes, showing a complete view of the face of the country",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33956",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1876",
   "dc_description_s": "Under an act of the colonial government appointing Commissioners \"to buy out and divide the common lands of Bergen\", the several in the different patents numbering up to one hundred and sixty eight which had at that time been granted within the limits of the present Township of Bergen and of Jersey City were in 1764, separately surveyed and located, and all the territory not thus embraced and which had previously been held in common among the patentees, was then divided among them in proportion to the extent of their grants. The different tracts comprising those patents are represented on the map by the numbers which designate them on the field book of the Commissioners, thence referring to the name of the grantee and which is recorded in the Clerks Office of the County of Bergen.|From an actual survey by L.F. Douglas, Engineer, Jersey City, 1841. Published by Benj. S. Demarest, 170 Fulton St., New York, 1876.|Land proprietors are indicated on the map.",
   "dc_format_s": "JPEG",
@@ -14,17 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33956/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33956/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33956\"}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Hackensack River (New York",
-    " and New Jersey)",
-    "Newark Bay",
-    "Hudson County",
-    "Jersey City, New Jersey",
-    "Hudson County",
-    "Hoboken, New Jersey",
+    "United States--Hudson River",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:40Z",
+  "layer_modified_dt": "2023-03-14T19:54:15Z",
   "dc_language_sm": [
     "eng"
   ],

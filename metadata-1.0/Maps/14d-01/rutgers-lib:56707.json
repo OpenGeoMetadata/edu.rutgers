@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3K64NCR",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Rancocas River in Willingborough New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56707",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.9323,-74.8514,40.0578,39.9976)",
   "solr_year_i": "1900",
   "dc_description_s": "A map of the Rancocas River and other fixtures as seen from a parcel of Willingsboro New Jersey.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56707\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56707/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Rancocas River, New Jersey",
-    "Burlington County",
-    "Willingboro Township, New Jersey",
+    "New Jersey--Rancocas River",
+    "New Jersey--Burlington County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:56Z",
+  "layer_modified_dt": "2023-03-14T19:52:19Z",
   "dc_language_sm": [
     "eng"
   ],

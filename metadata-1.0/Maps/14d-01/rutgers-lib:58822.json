@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3DV1PHT",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing riparian lands and conveyances on Metedeconk River from Second Street westward - Ocean County",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58822",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1607,-74.0499,40.1372,40.0011)",
   "solr_year_i": "1927",
   "dc_description_s": "Map showing riparian lands and conveyances on the Metedeconk River, N.J.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58822\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58822/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Metedeconk River, New Jersey",
-    "Ocean County",
-    "Brick Township, New Jersey",
+    "New Jersey--Metedeconk River",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:22Z",
+  "layer_modified_dt": "2023-03-14T19:52:38Z",
   "dc_language_sm": [
     "eng"
   ],

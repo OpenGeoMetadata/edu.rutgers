@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3TT4T99",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing oyster house lots at West Creek, Ocean County and depth of creek at low water",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51717",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1931",
   "dc_description_s": "This is a blueprint of the oyster house lots on West Creek including the names of the property owners.|Source map supplied by New Jersey Department of Environmental Protection|Map describes West Creek as in Ocean County. There is also a West Creek in Cape May County (also called Westecunk Creek). Ocean County has a town called West Creek but there is also a creek named West Creek in Cape May County. The map shows the creek West Creek and says it is in Ocean County.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51717\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51717/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:43Z",
+  "layer_modified_dt": "2023-03-14T19:52:25Z",
   "dc_language_sm": [
     "eng"
   ],

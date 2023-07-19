@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3HQ436F",
   "dc_rights_s": "Public",
   "dc_title_s": "Port Facilities at Port of New York Passaic River",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56662",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.377391,-74.112787,40.90889,40.674368)",
   "solr_year_i": "1934",
   "dc_description_s": "Van Buren Street to Lockwood Street along Passaic River. Map depicts water depths, roads, and businesses along Passaic River.",
   "dc_format_s": "PDF",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56662\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56662/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Passaic River",
-    "Kearny, New Jersey",
-    "Essex County",
-    "Newark, New Jersey",
+    "New Jersey--Passaic River",
+    "New Jersey--Kearny",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:55Z",
+  "layer_modified_dt": "2023-03-14T19:53:10Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T35B00P2",
   "dc_rights_s": "Public",
   "dc_title_s": "Map no. 5, mortgage: Robert Annett to the Mutual Life Insurance Company of New York, dated February 2, 1872, book E2, p 551 - mortgages",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:43479",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-73.9914,-73.9535,40.8691,40.8277)",
   "solr_year_i": "1872",
   "dc_description_s": "Map showing the property lines of Robert Annett along the Hudson River for the Mutual Life Insurance Company|Source map supplied by New Jersey Department of Environmental Protection|Date of mortgage is listed as 1872-02-02, but it is questionable as to when the map was created.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43479\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43479/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Fort Lee (New Jersey : Borough)",
+    "United States--Hudson River",
+    "New Jersey--Fort Lee",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:39Z",
+  "layer_modified_dt": "2023-03-14T19:52:12Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3RV0MBG",
   "dc_rights_s": "Public",
   "dc_title_s": "Cranbury, Cranbury Township, Middlesex County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:39914",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.5678,-74.4761,40.3398,40.2770)",
   "solr_year_i": "1941",
   "dc_description_s": "This is one in a series of 455 mid 20th century fire insurance maps produced by the Fire Insurance Rating Organization of New Jersey.|Municipal Fire Insurance Maps",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39914\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39914/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Middlesex County, New Jersye",
-    "Cranbury Township, New Jersey",
+    "New Jersey--Middlesex County",
+    "New Jersey--Cranbury Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:21Z",
+  "layer_modified_dt": "2023-03-14T19:51:36Z",
   "dc_language_sm": [
     "eng"
   ],

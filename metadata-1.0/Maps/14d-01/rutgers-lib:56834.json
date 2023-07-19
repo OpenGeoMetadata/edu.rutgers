@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3VX0KTZ",
   "dc_rights_s": "Public",
   "dc_title_s": "Land between Mantua Creek and Little Mantua Creek",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56834",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.1727,-75.0750,39.8635,39.7682)",
   "solr_year_i": "1963",
   "dc_description_s": "Shows area between Mantua Creek and Little Mantua Creek. |Shows land now or formally under tidewater situate granted and quitclaimed to Shell Oil Company. Shows pierhead and bulkhead lines, New Jersey Route 130, and easements of land.",
   "dc_subject_sm": [
@@ -13,15 +13,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56834\"}",
   "dct_spatial_sm": [
-    "Mantua Creek",
-    "Gloucester County",
-    "Deptford Township, New JerseyGloucester County",
-    "East Greenwich, New Jersey",
-    "Gloucester County",
-    "Paulsboro, New Jersey",
+    "New Jersey--Gloucester County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:31Z",
+  "layer_modified_dt": "2023-03-14T19:52:06Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T39Z987D",
   "dc_rights_s": "Public",
   "dc_title_s": "Lamberton Street to the Delaware River",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56843",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.8192,-74.7286,40.2485,40.1837)",
   "solr_year_i": "1900",
   "dc_description_s": "Map covers area between Lamberton Street and the Delaware River.|Map depicts the properties of Anthony R. Kriser, Daniel W. Levitt, and the Wilmington Steamboat Company along Lamberton Street, as well as numerous grants along the Delaware River.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56843\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56843/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Trenton, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Trenton",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:57Z",
+  "layer_modified_dt": "2023-03-14T19:52:06Z",
   "dc_language_sm": [
     "eng"
   ],

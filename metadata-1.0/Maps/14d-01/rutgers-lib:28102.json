@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T39W0FGH",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian & stream survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:28102",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.9269,-74.6918,39.3088,39.1230)",
   "solr_year_i": "1939",
   "dc_description_s": "Project: 4511-0|Scale: 1:1200|Drainage Basin: Delaware Bay|Connect to sheet 5, 7|Image is from a copy of the original on Mylar.|6/21/39|Drawn by M.R.|All elevations refer to mean low water",
   "dc_format_s": "JPEG",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28102/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28102/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28102\"}",
   "dct_spatial_sm": [
-    "Delaware Bay",
-    "Dennis Creek",
-    "Cape May County",
-    "Dennis Township, New Jersey",
+    "Atlantic Ocean--Delaware Bay",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:13Z",
+  "layer_modified_dt": "2023-03-14T19:53:33Z",
   "dc_language_sm": [
     "eng"
   ],

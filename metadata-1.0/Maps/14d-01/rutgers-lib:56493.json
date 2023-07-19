@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3ZS30TM",
   "dc_rights_s": "Public",
   "dc_title_s": "Delaware River to 2nd Street between Spruce Street and Walnut Street",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56493",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.1371,-75.0661,39.9695,39.8984)",
   "solr_year_i": "1874",
   "dc_description_s": "Map shows lands granted between 1874 and 1916. Map also has the pierhead line and bulkhead line adopted by the Board of Commerce and Navigation on September 21, 1916. Also has the Pierhead line adopted by Riparian Commission on March 24, 1910. Exterior Wharf lines adopted by Riparian Commission in 1873. Map has old high water line.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56493\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56493/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Camden, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Camden County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:51Z",
+  "layer_modified_dt": "2023-03-14T19:51:44Z",
   "dc_language_sm": [
     "eng"
   ],

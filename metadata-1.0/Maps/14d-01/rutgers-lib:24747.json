@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3ZW1M7Q",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of Point Pleasant City [now Point Pleasant Borough and Point Pleasant Beach], Ocean County, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:24747",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1870",
   "dc_description_s": "3813/N20/114/0000AA",
   "dc_format_s": "JPEG",
@@ -14,15 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24747/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24747/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24747\"}",
   "dct_spatial_sm": [
-    "Ocean County",
-    "Point Pleasant, New Jersey",
-    "Ocean County",
-    "Point Pleasant, New Jersey",
-    "Ocean County",
-    "Point Pleasant, New Jersey",
+    "New Jersey--Ocean County",
+    "New Jersey--Point Pleasant",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:06Z",
+  "layer_modified_dt": "2023-03-14T19:53:06Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T35Q50N9",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead line and bulkhead line on Shrewsbury River in the Borough of Monmouth Beach in the County of Monmouth - Established September 21, 1931",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58463",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.614576,-73.88506,40.519095,40.07913)",
   "solr_year_i": "1931",
   "dc_description_s": "Map showing pierhead and bulkhead lines on Shrewsbury River in Monmouth Beach. Board of Commerce and Navigation map number 372.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58463\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58463/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Shrewsbury River, New Jersey",
-    "Monmouth County",
-    "Monmouth Beach, New Jersey",
+    "New Jersey--Shrewsbury River",
+    "New Jersey--Monmouth County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:15Z",
+  "layer_modified_dt": "2023-03-14T19:52:35Z",
   "dc_language_sm": [
     "eng"
   ],

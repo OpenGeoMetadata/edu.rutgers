@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3TQ61GR",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian & stream survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:28873",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
   "solr_year_i": "1939",
   "dc_description_s": "Project: 4511-0|Scale: Plan 1:1200; Profile 1:1200 (horiz) 1:48 (vert); Section 1:48|Drainage Basin: Arthur Kill|Connects to sheets: 9 and 11|Image is from a copy of the original on Mylar.|Date surveyed May 1939|Drawn by P. C. Jensen|Date approved 7/31/41|Profile stationing on this sheet measured along Right Bank.|Contains model of Conc. Pipe Culvert, down stream view, pro. stat. 272+90, Edgerton Place, scale 1:48.|Contains model of Conc. Pipe Culvert, down stream view, pro. stat. 265+39, Homestead Avenue, scale 1:48.",
   "dc_format_s": "JPEG",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28873/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28873/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28873\"}",
   "dct_spatial_sm": [
-    "Woodbridge Creek",
-    "Middlesex County, New Jersye",
-    "Avenel, New Jersey",
+    "New Jersey--Middlesex County",
+    "New Jersey--Avenel",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:23Z",
+  "layer_modified_dt": "2023-03-14T19:53:34Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3DN48BP",
   "dc_rights_s": "Public",
   "dc_title_s": "Water depths of Newark Bay",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56698",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1878",
   "dc_description_s": "Map shows water depths of Newark Bay where it branches off to the Passaic & Hackensack River.|At the northernmost point is Snake Hill, easternmost is Oyster Island in NY Bay. Southernmost is Port Richmond & westernmost is Newark.",
   "dc_format_s": "PDF",
@@ -14,15 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56698\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56698/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Passaic River",
-    "Newark, New Jersey",
-    "Essex County",
-    "Bayonne, New Jersey",
-    "Essex County",
-    "Jersey City, New Jersey",
+    "New Jersey--Passaic River",
+    "New Jersey--Newark",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:55Z",
+  "layer_modified_dt": "2023-03-14T19:54:19Z",
   "dc_language_sm": [
     "eng"
   ],

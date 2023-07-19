@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3988BCR",
   "dc_rights_s": "Public",
   "dc_title_s": "Sandy Hook Bay (Raritan Bay) in vicinity of Atlantic Highlands",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57099",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.614576,-73.88506,40.519095,40.07913)",
   "solr_year_i": "1880",
   "dc_description_s": "A map of an Atlantic Highlands Neighborhood nearby Sandy Hook and the Rarity Bay.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57099\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57099/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Sandy Hook, New Jersey",
-    "Monmouth County",
-    "Atlantic Highlands, New Jersey",
+    "New Jersey--Sandy Hook",
+    "New Jersey--Monmouth County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:02Z",
+  "layer_modified_dt": "2023-03-14T19:53:38Z",
   "dc_language_sm": [
     "eng"
   ],

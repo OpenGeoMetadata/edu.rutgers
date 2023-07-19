@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/t3-nw0v-y614",
   "dc_rights_s": "Public",
   "dc_title_s": "State of New Jersey Department of Environmental Protection Johnson Pond - Woodbine",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:63242",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.8486,-74.7659,39.2566,39.2031)",
   "solr_year_i": "1971",
   "dc_description_s": "Aerial photographic map of Johnson Pond - Woodbine in accordance with The Wetlands Act of 1970.",
   "dc_format_s": "PDF",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63242\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63242/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Woodbine, New Jersey",
+    "New Jersey--Woodbine",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:26Z",
+  "layer_modified_dt": "2023-03-14T19:53:55Z",
   "dc_language_sm": [
     "eng"
   ],

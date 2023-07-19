@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3X929M4",
   "dc_rights_s": "Public",
   "dc_title_s": "Open space and center designation map: Middle Township, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:34032",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.9365,-74.7156,39.1794,38.9911)",
   "solr_year_i": "1996",
   "dc_description_s": "This is part of a collection of maps of Middle Township that are to be used along with the Environmental Resource Inventory of Middle. The maps focus upon zoning, open space & government owned parcels, center designations, and taxes.|Project Number: 4182|Scale: 1:24000|Prepared for the Township of Middle with a grant from the Department of Environmental Protection, Office of Environmental Services.|Drawn by L. B. Landgraf|One of four maps belonging to the Environmental Resource Inventory: Middle Township (Phase II).",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/34032\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/34032/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cape May County",
-    "Middle Township, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--Middle Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:07Z",
+  "layer_modified_dt": "2023-03-14T19:52:54Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3HT2PTT",
   "dc_rights_s": "Public",
   "dc_title_s": "Toms River, New Jersey 1972",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:20573",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.2716,-74.0578,40.0596,39.9329)",
   "solr_year_i": "1972",
   "dc_description_s": "Aerial photograph from the NJ Department of Environmental Protection Aerial Photographs Collection showing Tom's River Township in Ocean County, New Jersey.|Creasing at corners.",
   "dc_format_s": "JPEG",
@@ -14,11 +14,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20573/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20573/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20573\"}",
   "dct_spatial_sm": [
-    "Toms River Township",
-    "Ocean",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:05Z",
+  "layer_modified_dt": "2023-03-14T19:54:15Z",
   "dc_publisher_s": "NJ Department of Environmental Protection",
   "dct_issued_s": "1972"
 }

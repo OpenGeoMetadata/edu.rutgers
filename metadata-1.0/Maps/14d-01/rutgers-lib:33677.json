@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3TM79GD",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing boundary line between New Jersey and New York through New York Bay",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33677",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1920",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
@@ -14,21 +14,11 @@
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33677/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33677/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33677\"}",
   "dct_spatial_sm": [
     "New York",
-    " Bay",
-    "East River",
-    "Kill Van Kull",
-    "Staten Island, New York",
-    "Governors Island, New York",
-    "Ellis Island",
-    "Bedoes Island",
-    "Hudson County",
-    "Jersey City, New Jersey",
-    "New York",
-    "New York",
-    " (N.Y.)",
+    "United States--Kill Van Kull",
+    "New York--Staten Island",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:38Z",
+  "layer_modified_dt": "2023-03-14T19:52:23Z",
   "dc_language_sm": [
     "eng"
   ],

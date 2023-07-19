@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3R78CM0",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing the boundaries of the Borough of Carlstadt, as enlarged by Special Election, held April 5, 1897",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44742",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1029,-74.0302,40.8503,40.8056)",
   "solr_year_i": "1897",
   "dc_description_s": "Map indicating new boundaries of the Borough of Carlstadt, between Hackensack RIver and Berry's Creek.|Source map supplied by New Jersey Department of Environmental Protection",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44742\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44742/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Carlstadt, New Jersey",
+    "United States--Hackensack River",
+    "New Jersey--Carlstadt",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:42Z",
+  "layer_modified_dt": "2023-03-14T19:52:38Z",
   "dc_language_sm": [
     "eng"
   ],

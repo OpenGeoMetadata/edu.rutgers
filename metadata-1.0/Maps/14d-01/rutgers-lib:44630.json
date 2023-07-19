@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3MG7MW8",
   "dc_rights_s": "Public",
   "dc_title_s": "Location for filling crib work and dock at National Stock Yard, October 1874",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44630",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.0328,-74.0084,40.7808,40.7570)",
   "solr_year_i": "1874",
   "dc_description_s": "Riparian map showing the location for filling crib work and dock at National Stock Yard along the Hudson River, Weehawken, New Jersey.|Source map supplied by New Jersey Department of Environmental Protection",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44630\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44630/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Weehawken, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Weehawken",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:41Z",
+  "layer_modified_dt": "2023-03-14T19:52:08Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3XW4JMN",
   "dc_rights_s": "Public",
   "dc_title_s": "Topographical survey of Hamilton Township",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:29746",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.8192,-74.7286,40.2485,40.1837)",
   "solr_year_i": "1936",
   "dc_description_s": "Project: 7-149 788 1685-11|Scale: 1:2400|Connects to Sheets: 23, 27, 28, 29, 25, 20, 19|Image is from a copy of the original on Mylar.|For general notes covering Topographical Survey see Key Sheet No. 1 of 34. Contour interval 2 feet and 10 feet as indicated.|Contains Bench Mark Description chart.|1936 1937-1938",
   "dc_format_s": "JPEG",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29746/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29746/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29746\"}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Trenton, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Trenton",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:34Z",
+  "layer_modified_dt": "2023-03-14T19:54:15Z",
   "dc_language_sm": [
     "eng"
   ],

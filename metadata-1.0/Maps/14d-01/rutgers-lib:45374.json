@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3NV9HJD",
   "dc_rights_s": "Public",
   "dc_title_s": "Port facilities at Port of New York, Arthur Kill: Grasselli, Elizabethport",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:45374",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
   "solr_year_i": "1934",
   "dc_description_s": "Map detailing the port facilities at Port of New York along the New Jersey coastline.|Source map supplied by New Jersey Department of Environmental Protection|Map marked as map number 17.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/45374\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/45374/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Arthur Kill (New Jersey and New York",
-    ")Middlesex County, New Jersye",
+    "Atlantic Ocean--Arthur Kill (Newark Bay)",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:43Z",
+  "layer_modified_dt": "2023-03-14T19:53:09Z",
   "dc_language_sm": [
     "eng"
   ],

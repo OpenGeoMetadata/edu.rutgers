@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3XD108K",
   "dc_rights_s": "Public",
   "dc_title_s": "Hopewell Township, including Ackors Corner, Bear Tavern, Glenmore, Harbourton, Marshalls Corner, Pleasant Valley, Titusville, Washington Crossing, and Woodville, Mercer County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:40529",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1946",
@@ -14,22 +14,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40529\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40529/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Ackors Corner",
-    "Bear Tavern",
-    "Glenmore",
-    "Marshalls Corner",
-    "Washington CrossingMiddlesex County, New Jersye",
-    "Hopewell (Mercer County, New Jersey : Township)Mercer County",
-    "Harbourton, New Jersey",
-    "Mercer County",
-    "Pleasant Valley, New Jersey",
-    "Mercer County",
-    "Titusville, New Jersey",
-    "Mercer County",
-    "Woodville, New Jersey",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:32Z",
+  "layer_modified_dt": "2023-03-14T19:52:03Z",
   "dc_language_sm": [
     "eng"
   ],

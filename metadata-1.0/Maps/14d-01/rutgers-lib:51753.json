@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3DF6TK4",
   "dc_rights_s": "Public",
   "dc_title_s": "Map to accompany application of the estate of Joseph Taylor for riparian grants at Beach Haven, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51753",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
   "solr_year_i": "1914",
   "dc_description_s": "This is a blueprint map of the coast of Little Egg Harbor Bay showing the estate of Joseph Taylor. It accompanied the application of the estate for riparian grants (deeds from the state for the sale of its tidelands).|Source map supplied by New Jersey Department of Environmental Protection",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51753\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51753/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Atlantic County",
-    "Beach Haven, New Jersey",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Atlantic County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:43Z",
+  "layer_modified_dt": "2023-03-14T19:52:39Z",
   "dc_language_sm": [
     "eng"
   ],

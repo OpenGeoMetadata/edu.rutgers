@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3HM5CVM",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of three islands situated in the harbour of New-York fortifyed for the defence of the said harbour",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57215",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1900",
   "dc_description_s": "Map shows Bedloes Island, head of Robbins Reef, Oyster Island, and Governors Island. Also shown are Red Hook, part of Long Island, the city of New York and the North and East Rivers. The map is from the Paris Marine Archives.",
   "dc_format_s": "PDF",
@@ -15,13 +15,10 @@
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57215\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57215/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
     "New York",
-    " Harbor (New York",
-    " and New Jersey)",
-    "Hudson County",
-    "Jersey City, New Jersey",
+    "United States--New York Harbor",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:05Z",
+  "layer_modified_dt": "2023-03-14T19:53:07Z",
   "dc_language_sm": [
     "eng"
   ],

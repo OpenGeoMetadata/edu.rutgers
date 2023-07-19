@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T35T3PR6",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Cape May County, New Jersey showing inland water ways from Cape May to Bay Head",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56444",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.168462,-74.46493,39.324375,38.788657)",
   "solr_year_i": "1900",
   "dc_description_s": "Map covers area from Cape May Point to Atlantic City along the Atlantic Coast. Map advertises for a channel that is to become popular for yachting and motor boating. Waterway is shown in red and property being developed by the South Jersey Realty Co. is also shown.",
   "dc_format_s": "PDF",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56444\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56444/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware Bay (Del. and New Jersey)",
-    "Cape May County",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:50Z",
+  "layer_modified_dt": "2023-03-14T19:52:13Z",
   "dc_language_sm": [
     "eng"
   ],

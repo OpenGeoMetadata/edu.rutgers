@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3610ZND",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of Property of the Camden and Atlantic Rail Road Co.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33881",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.1371,-75.0661,39.9695,39.8984)",
   "solr_year_i": "1874",
   "dc_description_s": "Map covers area from the Delaware River to Water Street in Camden. Map depicts the plan of the Camden and Atlantic Railroad Company, as well as riparian lines.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33881\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33881/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Camden, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Camden County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:05Z",
+  "layer_modified_dt": "2023-03-14T19:53:07Z",
   "dc_language_sm": [
     "eng"
   ],

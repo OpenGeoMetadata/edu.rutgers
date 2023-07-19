@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3M044J1",
   "dc_rights_s": "Public",
   "dc_title_s": "Map and cost estimation for dredging Seven-Li Lake, Siangyang (Xiangyang) District",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:35463",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1946",
@@ -14,10 +14,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/35463\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/35463/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Xiangyang Xian (China)",
-    "China"
+    "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:07Z",
+  "layer_modified_dt": "2023-03-14T19:52:11Z",
   "dc_language_sm": [
     "eng",
     "chi"

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T36M3B9G",
   "dc_rights_s": "Public",
   "dc_title_s": "Pierhead and bulkhead line along Easterly Shore of Barnegat Bay, Borough of Seaside Heights, Ocean County",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57964",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1947",
   "dc_description_s": "Map of pierhead and bulkhead line along Easterly Shore of Barnegat Bay, Borough of Seaside Heights, Ocean County. |Plan showing riparian grants in Boro. of Seaside Heights, Ocean Co. N.J.",
   "dc_subject_sm": [
@@ -13,12 +13,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57964\"}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
-    "Seaside Heights, New Jersey",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:31Z",
+  "layer_modified_dt": "2023-03-14T19:52:59Z",
   "dc_language_sm": [
     "eng"
   ],

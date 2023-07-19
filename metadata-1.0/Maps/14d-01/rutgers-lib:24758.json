@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T30V8D4H",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of Chatham [now Chatham Borough, Morris County, New Jersey]",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:24758",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.889819,-74.266591,41.086114,40.648447)",
   "solr_year_i": "1887",
   "dc_description_s": "3813/M70/204/1887AA|Removed from F. Robinson&apos;s Atlas of Morris County, N.J., 1887",
   "dc_format_s": "JPEG",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24758/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24758/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24758\"}",
   "dct_spatial_sm": [
-    "Morris County",
-    "Chatham, New Jersey",
+    "New Jersey--Morris County",
+    "New Jersey--Chatham",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:06Z",
+  "layer_modified_dt": "2023-03-14T19:53:06Z",
   "dc_language_sm": [
     "eng"
   ],

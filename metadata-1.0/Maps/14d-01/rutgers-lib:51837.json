@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3ZS2ZX5",
   "dc_rights_s": "Public",
   "dc_title_s": "Survey of Berkeley Beach, Ocean County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51837",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1908",
   "dc_description_s": "This map is a traced survey of Berkeley Beach in Ocean County, the shore along Barnegat Bay and the Atlantic Ocean, and different property lots. The survey dates from November 30, 1885 and a note by J.G.P. in the lower right corner with the 1908 date. The map is surrounded by brown paper, has irregular shape, and is torn.|Source map supplied by New Jersey Department of Environmental Protection|The note in the lower right corner is hard to read but contains information about the survey source map and the initials of the person who drew this copy.",
   "dc_format_s": "PDF",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51837\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51837/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
-    "Berkeley (",
-    "Ocean County, New Jersey : Township)",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:44Z",
+  "layer_modified_dt": "2023-03-14T19:54:13Z",
   "dc_language_sm": [
     "eng"
   ],

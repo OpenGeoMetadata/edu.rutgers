@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3765DP5",
   "dc_rights_s": "Public",
   "dc_title_s": "Revised and modified pierhead and bulkhead lines for the west shore of Hudson River, New York Harbor - Castle Point to West New York, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33742",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1913",
   "dc_description_s": "Scale: 1:60000|December, 1913|This map is based principally upon triangulation and traverse/surveys made by the U.S. Engineer Office, First District, N.Y., 1911-1913. Soundings refer to mean low water. Soundings given in feet and tenths are from U.S.E.D. surveys and in feet only from U.S.C. & G.S. Charts. The bulkhead line defines the limit for solid filling; the pierhead line, the limit to which open piled structures may be built.",
   "dc_format_s": "JPEG",
@@ -14,16 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33742/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33742/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33742\"}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Hoboken, New Jersey",
-    "Hudson County",
-    "Weehawken, New Jersey",
-    "New York",
-    "New York",
-    " (N.Y.)",
+    "United States--Hudson River",
+    "New Jersey--Hoboken",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:39Z",
+  "layer_modified_dt": "2023-03-14T19:53:15Z",
   "dc_language_sm": [
     "eng"
   ],

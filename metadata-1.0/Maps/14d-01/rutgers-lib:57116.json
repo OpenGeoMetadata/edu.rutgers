@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3BZ69D7",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Salem River New Jersey. Examination of from Little Salem Highway Bridge to Salem Cove from Survey of 1907",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57116",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.563586,-75.061854,39.796368,39.355089)",
   "solr_year_i": "1907",
   "dc_description_s": "The Salem River from the Little Salem Highway Bridge to Salem Cove. Shows the Salem River along with H.J. Heinz Co., Gaynor Glass Co., Steamboat Wharf, Salem Glass Works, and the Little Salem River.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57116\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57116/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Salem River, New Jersey",
-    "Salem County",
+    "New Jersey--Salem River",
+    "New Jersey--Salem County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:02Z",
+  "layer_modified_dt": "2023-03-14T19:52:19Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3BZ69PT",
   "dc_rights_s": "Public",
   "dc_title_s": "Map to accompany riparian grant to the Woodcliff Land Improvement Co. - North Bergen - Hudson Co., N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58838",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.0570,-73.9917,40.8237,40.7571)",
   "solr_year_i": "1906",
   "dc_description_s": "Map to accompany riparian grant to the Woodcliff Land Improvement Company. Map shows high water line and exterior line for solid filling.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58838\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58838/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "North Bergen, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--North Bergen",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:23Z",
+  "layer_modified_dt": "2023-03-14T19:52:39Z",
   "dc_language_sm": [
     "eng"
   ],

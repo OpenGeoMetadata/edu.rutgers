@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T34J0CJK",
   "dc_rights_s": "Public",
   "dc_title_s": "Port facilities at port of New York, Hudson RIver, New Jersey; Guttenburg, North Bergen, and Edgewater",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44739",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1934",
   "dc_description_s": "Nautical chart of the Hudson River showing the port facilities at New York & Edgewater, New Jersey|Source map supplied by New Jersey Department of Environmental Protection|Soundings are expressed in feet and tenths below local plane of mean low water as determined from gauge set by U.S. engineer office.|Work done by C.W.S.|Soundings taken approximately 2 ft. from face of pier or bulkhead|Soundings taken from Mar. 21 to May 21, 1934",
   "dc_format_s": "PDF",
@@ -14,15 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44739\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44739/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Edgewater, New Jersey",
-    "Hudson County",
-    "North Bergen, New Jersey",
-    "Hudson County",
-    "Guttenberg, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Edgewater",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:41Z",
+  "layer_modified_dt": "2023-03-14T19:53:09Z",
   "dc_language_sm": [
     "eng"
   ],

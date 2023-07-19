@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3RX9GGQ",
   "dc_rights_s": "Public",
   "dc_title_s": "This Plan of the City of New York and its Environs",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57244",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1767",
   "dc_description_s": "Sheet 1: Map was made for Sir Henry Moore and shows part of New York and New Jersey including: Paulus Hook, Hoboken, Bucking Island, Bedloe's or Kennedy Island, New York Bay, Red Hook, Hudson River, and East River with soundings.|Sheet 2: Map was made for Sir Henry Moore and shows part of NJ and NY including Paulus Hook, Hoboken, Bucking Island, Hudson River, Wall about Bay, Long Island, and the East River",
   "dc_format_s": "PDF",
@@ -15,15 +15,10 @@
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57244\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57244/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
     "New York",
-    " Harbor (New York",
-    " and New Jersey)",
-    "Hudson County",
-    "New York",
-    "New York",
-    " (N.Y.)",
+    "United States--New York Harbor",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:06Z",
+  "layer_modified_dt": "2023-03-14T19:54:15Z",
   "dc_language_sm": [
     "eng"
   ],

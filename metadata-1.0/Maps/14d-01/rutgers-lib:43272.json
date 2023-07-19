@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3NC5ZDN",
   "dc_rights_s": "Public",
   "dc_title_s": "Survey of property at Little Ferry, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:43272",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.0540,-74.0284,40.8591,40.8284)",
   "solr_year_i": "1935",
   "dc_description_s": "Map showing location of property lines as they pertain to the Hackensack River|Source map supplied by New Jersey Department of Environmental Protection|Note: this survey conforms with information given on map entitled revised harbor line references, Hackensack River, N.J.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43272\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43272/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Little Ferry, New Jersey",
+    "United States--Hackensack River",
+    "New Jersey--Little Ferry",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:38Z",
+  "layer_modified_dt": "2023-03-14T19:54:14Z",
   "dc_language_sm": [
     "eng"
   ],

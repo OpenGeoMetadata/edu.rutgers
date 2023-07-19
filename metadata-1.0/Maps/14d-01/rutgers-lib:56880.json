@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3CJ8HT1",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan & location of proposed jetty Waretown Creek, Ocean County",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56880",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.4170,-74.1407,39.8282,39.6986)",
   "solr_year_i": "1932",
   "dc_description_s": "Map covers area East of Waretown and mouth of Barnegat Bay. Besides drawing of proposed Jetty, map shows proposed dredging at mouth of Waretown Creek.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56880\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56880/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Waretown Creek",
-    "Ocean County",
-    "Barnegat Township, New Jersey",
+    "New Jersey--Ocean County",
+    "New Jersey--Barnegat Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:58Z",
+  "layer_modified_dt": "2023-03-14T19:53:05Z",
   "dc_language_sm": [
     "eng"
   ],

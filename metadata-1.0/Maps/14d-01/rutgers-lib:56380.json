@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3ZK5KXP",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the Delaware River and surrounding area",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56380",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.7750,-74.6741,40.1837,40.1131)",
   "solr_year_i": "1870",
   "dc_description_s": "A map of the Delaware River and surrounding features such as farms and sand flats.",
   "dc_format_s": "PDF",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56380\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56380/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Burlington, New Jersey",
-    "Burlington County",
-    "Bordentown Township, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Burlington",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:48Z",
+  "layer_modified_dt": "2023-03-14T19:52:21Z",
   "dc_language_sm": [
     "eng"
   ],

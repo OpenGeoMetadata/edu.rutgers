@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3R49V59",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of Ellis' Island",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57221",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1866",
   "dc_description_s": "Image 1 shows the buildings and their uses along with proposed buildings. Measurements are given in degrees and feet. Image 2 shows the Island with buildings labled with their uses and also the location of pumps.",
   "dc_format_s": "PDF",
@@ -15,12 +15,10 @@
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57221\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57221/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
     "New York",
-    " Bay (N.Y. and New Jersey)",
-    "Hudson County",
-    "Jersey City, New Jersey",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:05Z",
+  "layer_modified_dt": "2023-03-14T19:53:06Z",
   "dc_language_sm": [
     "eng"
   ],

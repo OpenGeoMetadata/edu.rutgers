@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3125X5D",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead lines on Barnegat Bay in the Township of Brick in the County of Ocean",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58271",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1607,-74.0499,40.1372,40.0011)",
   "solr_year_i": "1931",
   "dc_description_s": "Map showing pierhead and bulkhead lines on Barnegat Bay in the Township of Brick. Board of Commerce and Navigation map number 329.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58271\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58271/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
-    "Brick Township, New Jersey",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:12Z",
+  "layer_modified_dt": "2023-03-14T19:52:30Z",
   "dc_language_sm": [
     "eng"
   ],

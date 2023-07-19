@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3FX7DSC",
   "dc_rights_s": "Public",
   "dc_title_s": "Plans for bridge across Grassy Sound Channel - Cape May County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56647",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.168462,-74.46493,39.324375,38.788657)",
   "solr_year_i": "1922",
   "dc_description_s": "Plans for bridge across Grassy Sound Channel including draw span, wood trestle and abutments with graveled approaches on line of North Wildwood to Burleigh Road in Cape May County, N.J.. Map is a packet of 20 sheets. The first 10 sheets relate to the Grassy Sound Bridge and approaches. Sheets 11 through 21 relate to the Strauss Trunnion Bascule Bridge. The titles are: 2. Key Map, Plan and Profile, 3. General plan, 4. Details of wood trestle, 5. Draw span piers, 6. Connections to draw span, 7. Fenders and railing details, 8. Northwest abutment, 9. Southeast abutment, 10. Cross section of approaches, 11. General drawing, 12. Stress sheet, 13. Bascule piers, 14. Moving leaf, 15. Trunnion posts, 16. CTWT frame and CTWT 17. Operating machinery, 18. Trunnions pins and bearings, 19. Center lock, 20. Typical details, 21. Operator's house.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56647\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56647/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Grassy Sound Channel",
-    "Cape May County",
-    "North Wildwood, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--North Wildwood",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:54Z",
+  "layer_modified_dt": "2023-03-14T19:53:08Z",
   "dc_language_sm": [
     "eng"
   ],
