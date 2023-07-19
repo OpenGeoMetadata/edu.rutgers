@@ -4,7 +4,7 @@
     "Map of a U.S. Department of the Interior Geological Survey of the Pleasantville Quadrangle in Atlantic County, N.J. This sheet includes two insets for an index of boundaries and a depiction of Pleasantville and surrounding quadrangles. Extensive legend showing types of topography.",
     "Stamped as a Drury University College U.S. Depository copy along with a date Jul. 28, 1949."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,9 @@
     "military",
     "railroads",
     "topography",
-    "waterways"
+    "waterways",
+    "Pleasantville",
+    "Atlantic"
   ],
   "dct_issued_s": "1949",
   "gbl_indexYear_im": [
@@ -27,8 +29,6 @@
     "[1949 TO 1949]"
   ],
   "dct_spatial_sm": [
-    "Pleasantville",
-    "Atlantic",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -53,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3Z3205T"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:01Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -4,10 +4,13 @@
     "In addition to the title page, the 1930 Plat-Book contains three indices and 48 detailed map plates of the city of Trenton, and 6 detailed map plates and one page containing three indices for the borough of Princeton. ",
     "Plate 32 of the 1930 Real Estate Plat-Book, includes part of Trenton's Ward 5. The map scale for this plate is 1\" = 150'."
   ],
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Franklin Survey Co."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -15,16 +18,8 @@
     "Trentoniana Historic Map Collection"
   ],
   "dcat_keyword_sm": [
-    "IIIF in process"
-  ],
-  "dct_issued_s": "1930",
-  "gbl_indexYear_im": [
-    "1930"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1930 TO 1930]"
-  ],
-  "dct_spatial_sm": [
+    "IIIF in process",
+    "metadataSprint_2022-11",
     "Beakes",
     "Brunswick",
     "Calhoun",
@@ -40,7 +35,6 @@
     "Nassau",
     "Monroe",
     "Morgan",
-    "New York",
     "Paul",
     "Phillips",
     "Princeton",
@@ -51,13 +45,23 @@
     "Sylvester",
     "Vine",
     "Wiley",
-    "WillowMercer County",
-    "Trenton, New Jersey",
+    "Willow",
+    "Mercer County--Trenton"
+  ],
+  "dct_issued_s": "1930",
+  "gbl_indexYear_im": [
+    "1930"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1930 TO 1930]"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey--Brunswick",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.7221 40.3910, -74.6173 40.3910, -74.6173 40.3048, -74.7221 40.3048, -74.7221 40.3910))",
+  "dcat_bbox": "ENVELOPE(-74.7221,-74.6173,40.3910,40.3048)",
+  "dcat_centroid": "40.347899999999996,-74.6697",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -77,6 +81,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T39G5MRX"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:18Z",
+  "gbl_mdModified_dt": "2023-03-14T19:50:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

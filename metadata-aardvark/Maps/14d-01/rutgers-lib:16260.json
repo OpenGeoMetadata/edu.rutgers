@@ -4,9 +4,9 @@
     "Front of brochure published by the New Jersey Department of Conservation and Economic Development of Lebanon (now Brendan T. Byrne State Forest. Front includes a table of campsites available and descriptions of the bathing facilities, cabin and boat rentals and hunting and fishing areas. Three photographic illustrations."
   ],
   "dct_creator_sm": [
-    "New Jersey. Dept. of Conservation and Economic Development"
+    "New Jersey. Department of Conservation and Economic Development"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -19,7 +19,8 @@
     "camping",
     "fishing",
     "forest",
-    "hunting"
+    "hunting",
+    "2022-creator-sprint--Burlington County"
   ],
   "dct_issued_s": "1962",
   "gbl_indexYear_im": [
@@ -29,7 +30,7 @@
     "[1962 TO 1962]"
   ],
   "dct_spatial_sm": [
-    "Burlington",
+    "New Jersey--Burlington County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3MP545C"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:39Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

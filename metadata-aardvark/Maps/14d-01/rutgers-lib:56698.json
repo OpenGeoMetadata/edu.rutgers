@@ -7,7 +7,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,8 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Tidelands",
-    "Geographic Information Systems"
+    "Geographic Information Systems",
+    "metadataSprint_2022-11--Passaic River--Newark--Essex County--Bayonne--Essex County--Jersey City"
   ],
   "dct_issued_s": "1878",
   "gbl_indexYear_im": [
@@ -27,17 +28,13 @@
     "[1878 TO 1878]"
   ],
   "dct_spatial_sm": [
-    "Passaic River",
-    "Newark, New Jersey",
-    "Essex County",
-    "Bayonne, New Jersey",
-    "Essex County",
-    "Jersey City, New Jersey",
+    "New Jersey--Passaic River",
+    "New Jersey--Newark",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.1166 40.7692, -74.0262 40.7692, -74.0262 40.6668, -74.1166 40.6668, -74.1166 40.7692))",
+  "dcat_bbox": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
+  "dcat_centroid": "40.718,-74.07140000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,6 +54,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3DN48BP"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:55Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,7 +6,7 @@
   "dct_creator_sm": [
     "League of Women Voters of Phillipsburg"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,10 @@
     "hosptials",
     "libraries",
     "postal service",
-    "railroads"
+    "railroads",
+    "2022-creator-sprint",
+    "Phillipsburg",
+    "Warren"
   ],
   "dct_issued_s": "1963",
   "gbl_indexYear_im": [
@@ -28,8 +31,6 @@
     "[1963 TO 1963]"
   ],
   "dct_spatial_sm": [
-    "Phillipsburg",
-    "Warren",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T34B31VJ"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:56Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

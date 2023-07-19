@@ -6,7 +6,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -16,7 +16,7 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Tidelands",
-    "Geographic Information Systems"
+    "Geographic Information Systems--Sandy Hook"
   ],
   "dct_issued_s": "1779",
   "gbl_indexYear_im": [
@@ -26,7 +26,7 @@
     "[1779 TO 1779]"
   ],
   "dct_spatial_sm": [
-    "Sandy Hook, New Jersey",
+    "New Jersey--Sandy Hook",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -51,6 +51,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3ZC866S"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:59Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

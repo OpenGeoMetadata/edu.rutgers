@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Geological Survey map of the Ringwood Iron Mines under the direction of George H. Cook, State Geologist and surveyed by T. B. Brooks, Civil Engineer. A paragraph under Notes and Explanations details the magnetic characteristics of the iron deposits and the red lines that indicate the degree of magnetic attraction. Excavations and shafts are also marked in red."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -14,7 +14,8 @@
     "IIIF in process",
     "geological survey",
     "geologist",
-    "iron mine"
+    "iron mine",
+    "Ringwood--Passaic River"
   ],
   "dct_issued_s": "1864",
   "gbl_indexYear_im": [
@@ -24,8 +25,7 @@
     "[1864 TO 1864]"
   ],
   "dct_spatial_sm": [
-    "Ringwood",
-    "Passaic",
+    "New Jersey--Passaic River",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3VH5PR2"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:37Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -17,7 +17,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -27,7 +27,8 @@
   "dcat_keyword_sm": [
     "IIIF in process",
     "Rivers",
-    "Watershed"
+    "Watershed",
+    "Pennsauken Creek--Camden County--Burlington County--Chester--Burlington County--Cinnaminson"
   ],
   "dct_issued_s": "1937",
   "gbl_indexYear_im": [
@@ -37,12 +38,8 @@
     "[1937 TO 1937]"
   ],
   "dct_spatial_sm": [
-    "Pennsauken Creek",
-    "Camden County",
-    "Burlington County",
-    "Chester, New Jersey",
-    "Burlington County",
-    "Cinnaminson, New Jersey",
+    "New Jersey--Camden County",
+    "New Jersey--Burlington County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -67,6 +64,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T37S7NS1"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:11Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

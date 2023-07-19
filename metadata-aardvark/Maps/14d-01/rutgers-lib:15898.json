@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Map of the city of Newark showing each ward. As of 1853, the city population was estimated at 48,000. Creation of map attributed to C. Magnus, Lithographer, 22 North William St."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -14,7 +14,8 @@
     "IIIF in process",
     "city map",
     "ward",
-    "population"
+    "population",
+    "Newark--Essex County"
   ],
   "dct_issued_s": "1853",
   "gbl_indexYear_im": [
@@ -24,9 +25,8 @@
     "[1853 TO 1853]"
   ],
   "dct_spatial_sm": [
-    "Expansion and Reform (1801-1861)",
-    "Newark",
-    "Essex",
+    "New Jersey--Newark",
+    "New Jersey--Essex County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -51,6 +51,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3H70GS8"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:37Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

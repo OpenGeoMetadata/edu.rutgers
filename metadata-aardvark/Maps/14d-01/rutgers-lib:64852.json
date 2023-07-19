@@ -3,7 +3,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -13,7 +13,8 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Transportation",
-    "Railroad terminals--New York (State)"
+    "Railroad terminals--New York  State ",
+    " New York Harbor"
   ],
   "dct_issued_s": "1913",
   "gbl_indexYear_im": [
@@ -24,8 +25,7 @@
   ],
   "dct_spatial_sm": [
     "New York",
-    " Harbor (New York",
-    " and New Jersey)New York",
+    "United States--New York Harbor",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -47,6 +47,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/t3-frje-4e71"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:17Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

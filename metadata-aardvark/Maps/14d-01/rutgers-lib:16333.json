@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Northern half of a map commissioned by the U. S. Department of Agriculture Soil Conservation Service showing all areas of important farmland in Burlington County. Water and urban areas are also shown. Map includes an explanation of the soil survey process used to determine the different topographic features."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -14,7 +14,8 @@
     "IIIF in process",
     "county maps",
     "farms",
-    "soil survey"
+    "soil survey",
+    "farms--Burlington County"
   ],
   "dct_issued_s": "1980",
   "gbl_indexYear_im": [
@@ -24,8 +25,7 @@
     "[1980 TO 1980]"
   ],
   "dct_spatial_sm": [
-    "farms",
-    "Burlington",
+    "New Jersey--Burlington County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3GB24XD"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:40Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

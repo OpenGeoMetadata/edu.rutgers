@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Map of present day Rockaway Township details the contour and minerals on the tracts of the Hibernia Mines with the different types of ores noted by symbol or color. Map based on a New Jersey geological survey."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,11 @@
     "Garnett",
     "Graphite",
     "geological survey",
-    "Gneiss"
+    "Gneiss",
+    "metadataSprint_2022-11",
+    "contour",
+    "elevation",
+    "Rockaway Township--Morris County"
   ],
   "dct_issued_s": "1894",
   "gbl_indexYear_im": [
@@ -27,15 +31,11 @@
     "[1894 TO 1894]"
   ],
   "dct_spatial_sm": [
-    "contour",
-    "elevation",
-    "Rockaway Township",
-    "Morris",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.5948 41.0449, -74.4268 41.0449, -74.4268 40.8788, -74.5948 40.8788, -74.5948 41.0449))",
+  "dcat_bbox": "ENVELOPE(-74.5948,-74.4268,41.0449,40.8788)",
+  "dcat_centroid": "40.96185,-74.5108",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3M046CM"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:39Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

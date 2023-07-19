@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "General highway map of Union County. Sheet eight of a nine plate map. Prepared by the New Jersey State Highway Department, Division of Planning in cooperation with the U. S. Department of Commerce, Bureau of Public Roads. State highways (including proposed roads) are as of Dec. 31, 1967."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,7 @@
     "police",
     "railroads",
     "tunnels",
-    "water"
+    "water--Union County"
   ],
   "dct_issued_s": "1967",
   "gbl_indexYear_im": [
@@ -28,7 +28,7 @@
     "[1967 TO 1967]"
   ],
   "dct_spatial_sm": [
-    "Union",
+    "New Jersey--Union County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -53,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3222VN1"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:46Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

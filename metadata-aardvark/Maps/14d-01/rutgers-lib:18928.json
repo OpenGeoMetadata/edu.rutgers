@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Map commissioned by the U. S. Department of Agriculture Soil Conservation Service showing all areas of important farmland in Atlantic County. Water and urban areas are also shown."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -14,7 +14,7 @@
     "IIIF in process",
     "farms",
     "soil",
-    "water"
+    "water--Gloucester County"
   ],
   "dct_issued_s": "1978",
   "gbl_indexYear_im": [
@@ -24,7 +24,7 @@
     "[1978 TO 1978]"
   ],
   "dct_spatial_sm": [
-    "Gloucester",
+    "New Jersey--Gloucester County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T369747H"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:51Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

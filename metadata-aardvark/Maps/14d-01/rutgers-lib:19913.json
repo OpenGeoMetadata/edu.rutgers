@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Map of the Oranges and Irviington, New Jerey compiled for The Price and Lee Co.'s directory of the Oranges, copyright secured, 1912. Color coded by borough wards. Railroad and electric car lines are indicated."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -14,7 +14,8 @@
     "IIIF in process",
     "railroads",
     "streets",
-    "wards"
+    "wards",
+    "Orange--Essex County"
   ],
   "dct_issued_s": "1912",
   "gbl_indexYear_im": [
@@ -24,8 +25,7 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Orange",
-    "Essex",
+    "New Jersey--Essex County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3DJ5G6Q"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:55Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

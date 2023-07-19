@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Borough of Leonia, Bergen County, N.J. While lots are shaded different shades of gray, there is no legend explaining the color coding. Writing on map states it was taken from the 1972 publication of \"Know Your Town\"."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -12,7 +12,8 @@
   ],
   "dcat_keyword_sm": [
     "IIIF in process",
-    "streets"
+    "streets",
+    "Leonia--Bergen County"
   ],
   "dct_issued_s": "1966",
   "gbl_indexYear_im": [
@@ -22,8 +23,7 @@
     "[1966 TO 1966]"
   ],
   "dct_spatial_sm": [
-    "Leonia",
-    "Bergen",
+    "New Jersey--Bergen County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3XP75KQ"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:52Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

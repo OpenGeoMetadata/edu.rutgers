@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Base map of Atlantic County. Plate one of a seven plate map. Prepared by the New Jersey State Highway Department, Division of Planning in cooperation with the U. S. Department of Commerce, Bureau of Public Roads. Series includes 20 insets."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3PC32WQ"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:57Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

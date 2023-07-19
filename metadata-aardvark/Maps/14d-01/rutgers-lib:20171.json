@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Verso of 1935 map of Gloucester County, New Jersey. Outside cover features list of the officers and members of Board of Chosen Freeholders, a Historical Sketch of Gloucester County and descriptions of the counties services and characteristics including agriculture, government, local industry, school system and roads and includes six photographs of the area and a drawn illustration of the Red Bank Battle Monument."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -16,7 +16,7 @@
     "government",
     "industry",
     "roads",
-    "schools"
+    "schools--Gloucester County"
   ],
   "dct_issued_s": "1935",
   "gbl_indexYear_im": [
@@ -26,7 +26,7 @@
     "[1935 TO 1935]"
   ],
   "dct_spatial_sm": [
-    "Gloucester",
+    "New Jersey--Gloucester County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -51,6 +51,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3JM2B5D"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:57Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

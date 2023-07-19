@@ -4,7 +4,7 @@
     "Atlas sheet 38 of a Geological Survey of New Jersey under the direction of Henry B. Kummel, state geologist. Color coded by township. Index provided of additional boroughs and divided townships not already printed on map.",
     "One corner torn off."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -47,6 +47,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3HM59B2"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:45Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -12,7 +12,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "IIIF in process",
     "Water",
-    "Creeks"
+    "Creeks",
+    "metadataSprint_2022-11--West Creek--Cape May County--Dennis Township--Cumberland County--Mercer County"
   ],
   "dct_issued_s": "1938",
   "gbl_indexYear_im": [
@@ -32,16 +33,13 @@
     "[1938 TO 1938]"
   ],
   "dct_spatial_sm": [
-    "West Creek",
-    "Cape May County",
-    "Dennis Township, New Jersey",
-    "Cumberland County",
-    "Maurice River, New Jersey",
+    "New Jersey--West Creek",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.9269 39.3088, -74.6918 39.3088, -74.6918 39.1230, -74.9269 39.1230, -74.9269 39.3088))",
+  "dcat_bbox": "ENVELOPE(-74.9269,-74.6918,39.3088,39.1230)",
+  "dcat_centroid": "39.2159,-74.80935",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -61,6 +59,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T34B319C"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:14Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

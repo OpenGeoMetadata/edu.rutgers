@@ -13,7 +13,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -23,7 +23,9 @@
   "dcat_keyword_sm": [
     "IIIF in process",
     "Rivers",
-    "Watershed"
+    "Watershed",
+    "Raritan River",
+    "Bay Mile Run Brook--Somerset County"
   ],
   "dct_issued_s": "1939",
   "gbl_indexYear_im": [
@@ -33,9 +35,7 @@
     "[1939 TO 1939]"
   ],
   "dct_spatial_sm": [
-    "Raritan River",
-    "Bay Mile Run Brook",
-    "Somerset CountyMiddlesex County, New Jersye",
+    "New Jersey--Somerset County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -60,6 +60,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3H9953P"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:25Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

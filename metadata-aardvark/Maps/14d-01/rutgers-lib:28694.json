@@ -11,7 +11,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -20,7 +20,10 @@
   ],
   "dcat_keyword_sm": [
     "IIIF in process",
-    "Rivers"
+    "Rivers",
+    "metadataSprint_2022-11",
+    "Rancocas Creek--Burlington County--Mount Laurel--Burlington County--Rancocas--Burlington County",
+    "Rancocas Creek--Burlington County--Hainsport--Burlington County--Willingboro Township"
   ],
   "dct_issued_s": "1935",
   "gbl_indexYear_im": [
@@ -30,24 +33,12 @@
     "[1935 TO 1935]"
   ],
   "dct_spatial_sm": [
-    "Rancocas Creek",
-    " New Jersey",
-    "Burlington County",
-    "Mount Laurel, New Jersey",
-    "Burlington County",
-    "Rancocas, New Jersey",
-    "Burlington County",
-    "Rancocas Creek",
-    ", New Jersey",
-    "Burlington County",
-    "Hainsport, New Jersey",
-    "Burlington County",
-    "Willingboro Township, New Jersey",
+    "New Jersey--Burlington County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.9323 40.0578, -74.8514 40.0578, -74.8514 39.9976, -74.9323 39.9976, -74.9323 40.0578))",
+  "dcat_bbox": "ENVELOPE(-74.9323,-74.8514,40.0578,39.9976)",
+  "dcat_centroid": "40.027699999999996,-74.89185",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -67,6 +58,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3Q24052"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:21Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

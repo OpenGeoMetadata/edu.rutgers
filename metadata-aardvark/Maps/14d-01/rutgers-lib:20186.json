@@ -4,12 +4,12 @@
     "Information brochure about Swartswood State Park. This is the second of 2 pages and a map of the park and brief descriptions of the park's features."
   ],
   "dct_creator_sm": [
-    "State of New Jersey, Department of Conservation and Economic Development"
+    "New Jersey. Department of Conservation and Economic Development"
   ],
   "dct_publisher_sm": [
     "State of New Jersey, Department of Conservation and Economic Development"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "IIIF in process",
-    "Parks"
+    "Parks",
+    "2022-creator-sprint--Sussex County"
   ],
   "dct_issued_s": "1962",
   "gbl_indexYear_im": [
@@ -28,7 +29,7 @@
     "[1962 TO 1962]"
   ],
   "dct_spatial_sm": [
-    "Sussex",
+    "New Jersey--Sussex County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3697445"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:57Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

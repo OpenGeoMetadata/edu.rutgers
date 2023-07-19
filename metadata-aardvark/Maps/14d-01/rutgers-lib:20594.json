@@ -4,12 +4,12 @@
     "Illustrated map of the PATH and New Jersey Transit railroad lines in New Jersey and New York City from the vantage point of the World Trade Center in New York City. Distances of 15, 35 and 50 mile increments from the WTC are noted. Map also includes major streets of Manhattan in New York, and Bayonne, Hoboken, Jersey City and Union City in New Jersey."
   ],
   "dct_creator_sm": [
-    "Port Authority Trans-Hudson Corp."
+    "Port Authority Trans-Hudson Corporation"
   ],
   "dct_publisher_sm": [
     "Port Authority Trans-Hudson Corp."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -21,7 +21,10 @@
     "landscapes",
     "railroads",
     "streets",
-    "waterways"
+    "waterways",
+    "2022-creator-sprint",
+    " Hudson River",
+    "Hudson"
   ],
   "dct_issued_s": "1995",
   "gbl_indexYear_im": [
@@ -31,8 +34,8 @@
     "[1995 TO 1995]"
   ],
   "dct_spatial_sm": [
-    "Hudson River",
-    "Hudson",
+    "United States--Hudson River",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -57,6 +60,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3G161CD"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:06Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

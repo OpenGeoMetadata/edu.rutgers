@@ -8,7 +8,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,10 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Tidelands",
-    "Geographic Information Systems"
+    "Geographic Information Systems",
+    "metadataSprint_2022-11",
+    " Delaware River--Pennsville--Salem County--Penns Grove--Gloucester County--Mercer County --Penns Neck  ",
+    "Mercer County--Cumberland County"
   ],
   "dct_issued_s": "1883",
   "gbl_indexYear_im": [
@@ -28,19 +31,13 @@
     "[1883 TO 1883]"
   ],
   "dct_spatial_sm": [
-    "Delaware River",
-    "Pennsville, New Jersey",
-    "Salem County",
-    "Penns Grove, New Jersey",
-    "Gloucester CountySalem County",
-    "Elsinboro Township, New JerseyMercer County",
-    "Penns Neck (Mercer County, New Jersey)",
-    "Cumberland County",
+    "United States--Delaware River",
+    "New Jersey--Pennsville",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-75.5340 39.5783, -75.4593 39.5783, -75.4593 39.4941, -75.5340 39.4941, -75.5340 39.5783))",
+  "dcat_bbox": "ENVELOPE(-75.5340,-75.4593,39.5783,39.4941)",
+  "dcat_centroid": "39.5362,-75.49665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -60,6 +57,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3XD151H"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:36:01Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

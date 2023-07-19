@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Map of system of connecting railroad lines for the Central Railroad Company of New Jersey. Lines wholly or partly owned and controlled by Central Railroad indicated in red. Competitors lines are also indicated. Portions of Central Railroad are shown in Pennsylvania."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3N29XKW"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:52Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

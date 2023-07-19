@@ -9,7 +9,7 @@
   "dct_publisher_sm": [
     "[s.n.]"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,8 @@
     "Historical Maps of New Jersey"
   ],
   "dcat_keyword_sm": [
-    "IIIF active"
+    "IIIF active",
+    "metadataSprint_2022-11--Camden County"
   ],
   "dct_issued_s": "1920",
   "gbl_indexYear_im": [
@@ -27,12 +28,12 @@
     "[1920 TO 1920]"
   ],
   "dct_spatial_sm": [
-    "Camden County",
+    "New Jersey--Camden County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-75.139832 39.996081, -74.736216 39.996081, -74.736216 39.608352, -75.139832 39.608352, -75.139832 39.996081))",
+  "dcat_bbox": "ENVELOPE(-75.139832,-74.736216,39.996081,39.608352)",
+  "dcat_centroid": "39.8022165,-74.938024",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T38K79D6"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:18Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

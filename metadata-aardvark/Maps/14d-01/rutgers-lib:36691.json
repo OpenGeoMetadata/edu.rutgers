@@ -10,7 +10,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -22,7 +22,8 @@
     "Environmental data",
     "Shellfish",
     "Rivers",
-    "Water"
+    "Water",
+    "Corson Inlet--Cape May County--Cape May--Atlantic County--Longport--Atlantic County--Great Egg Harbor Township--Atlantic County--Ocean City--Cape May County--Stone Harbor--Cape May County--Wildwood"
   ],
   "dct_issued_s": "1963",
   "gbl_indexYear_im": [
@@ -32,19 +33,7 @@
     "[1963 TO 1963]"
   ],
   "dct_spatial_sm": [
-    "Corson Inlet",
-    "Cape May County",
-    "Cape May (N.J)",
-    "Atlantic County",
-    "Longport, New Jersey",
-    "Atlantic County",
-    "Great Egg Harbor Township, New Jersey",
-    "Atlantic County",
-    "Ocean City, New Jersey",
-    "Cape May County",
-    "Stone Harbor, New Jersey",
-    "Cape May County",
-    "Wildwood, New Jersey",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -69,6 +58,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3W37V97"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:41Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

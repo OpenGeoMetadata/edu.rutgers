@@ -9,7 +9,7 @@
   "dct_publisher_sm": [
     "Rutgers Alumni Monthly"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -20,7 +20,9 @@
     "IIIF in process",
     "Rutgers University",
     "buildings",
-    "colleges and universities"
+    "colleges and universities",
+    "metadataSprint_2022-11",
+    "2022-creator-sprint--New Brunswick--Middlesex County"
   ],
   "dct_issued_s": "1950",
   "gbl_indexYear_im": [
@@ -30,13 +32,13 @@
     "[1950 TO 1950]"
   ],
   "dct_spatial_sm": [
-    "New Brunswick",
-    "Middlesex",
+    "New Jersey--New Brunswick",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.4895 40.5093, -74.3922 40.5093, -74.3922 40.4672, -74.4895 40.4672, -74.4895 40.5093))",
+  "dcat_bbox": "ENVELOPE(-74.4895,-74.3922,40.5093,40.4672)",
+  "dcat_centroid": "40.48825,-74.44085000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +58,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3PN9650"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:01Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

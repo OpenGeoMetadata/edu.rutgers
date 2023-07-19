@@ -7,7 +7,7 @@
   "dct_publisher_sm": [
     "J. Yeager, Philadelphia PA"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,8 @@
     "IIIF in process",
     "mountains",
     "topography",
-    "waterways"
+    "waterways",
+    "Warren"
   ],
   "dct_issued_s": "1825",
   "gbl_indexYear_im": [
@@ -28,8 +29,6 @@
     "[1825 TO 1825]"
   ],
   "dct_spatial_sm": [
-    "Expansion and Reform (1801-1861)",
-    "Warren",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -54,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3R49RB9"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:56Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

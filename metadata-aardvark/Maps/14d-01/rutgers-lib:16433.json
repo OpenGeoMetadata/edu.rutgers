@@ -6,7 +6,7 @@
   "dct_creator_sm": [
     "Mountain Lakes League of Women Voters"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -21,7 +21,9 @@
     "hospitals",
     "libraries",
     "schools",
-    "temples"
+    "temples",
+    "2022-creator-sprint",
+    "Mountain Lakes--Morris County"
   ],
   "dct_issued_s": "1967",
   "gbl_indexYear_im": [
@@ -31,8 +33,7 @@
     "[1967 TO 1967]"
   ],
   "dct_spatial_sm": [
-    "Mountain Lakes",
-    "Morris",
+    "New Jersey--Morris County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -57,6 +58,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3R49RNB"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:45Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

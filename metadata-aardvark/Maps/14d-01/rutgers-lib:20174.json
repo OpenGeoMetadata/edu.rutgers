@@ -7,7 +7,7 @@
   "dct_publisher_sm": [
     "Wilmer Atkinson Company"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T38916CG"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:57Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

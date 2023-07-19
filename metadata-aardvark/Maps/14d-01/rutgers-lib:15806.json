@@ -6,7 +6,7 @@
   "dct_publisher_sm": [
     "John Francis Cahill, Law Offices, Broad St., Newark NJ"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,10 @@
     "IIIF in process",
     "Township map",
     "school districts",
-    "buildings"
+    "buildings",
+    "metadataSprint_2022-11",
+    "Marlboro Township",
+    "Monmouth"
   ],
   "dct_issued_s": "1889",
   "gbl_indexYear_im": [
@@ -27,13 +30,12 @@
     "[1889 TO 1889]"
   ],
   "dct_spatial_sm": [
-    "Marlboro Township",
-    "Monmouth",
+    "New Jersey--Monmouth County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.3275 40.3954, -74.1972 40.3954, -74.1972 40.2781, -74.3275 40.2781, -74.3275 40.3954))",
+  "dcat_bbox": "ENVELOPE(-74.3275,-74.1972,40.3954,40.2781)",
+  "dcat_centroid": "40.33675,-74.26235",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3NG4RK2"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:35Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

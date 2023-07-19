@@ -7,7 +7,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,8 @@
     "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
-    "Road maps"
+    "Road maps",
+    "metadataSprint_2022-11--Middlesex County--Cranbury Township"
   ],
   "dct_issued_s": "1941-10-31",
   "gbl_indexYear_im": [
@@ -28,13 +29,13 @@
     "[1941 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Middlesex County, New Jersye",
-    "Cranbury Township, New Jersey",
+    "New Jersey--Middlesex County",
+    "New Jersey--Cranbury Township",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.5678 40.3398, -74.4761 40.3398, -74.4761 40.2770, -74.5678 40.2770, -74.5678 40.3398))",
+  "dcat_bbox": "ENVELOPE(-74.5678,-74.4761,40.3398,40.2770)",
+  "dcat_centroid": "40.3084,-74.52195",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3RV0MBG"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:21Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

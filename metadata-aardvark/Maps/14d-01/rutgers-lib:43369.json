@@ -7,7 +7,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -16,7 +16,8 @@
   ],
   "dcat_keyword_sm": [
     "IIIF active",
-    "Rivers"
+    "Rivers",
+    " Hudson River--Pleasant Valley"
   ],
   "dct_issued_s": "1891",
   "gbl_indexYear_im": [
@@ -26,8 +27,8 @@
     "[1891 TO 1891]"
   ],
   "dct_spatial_sm": [
-    "Hudson River",
-    "Pleasant Valley, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Pleasant Valley",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3CF9N99"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:39Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

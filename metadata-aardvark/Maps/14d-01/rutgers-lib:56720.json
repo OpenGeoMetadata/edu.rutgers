@@ -6,7 +6,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -16,7 +16,9 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Tidelands",
-    "Geographic Information Systems"
+    "Geographic Information Systems",
+    "metadataSprint_2022-11",
+    " Delaware River--Lambertville"
   ],
   "dct_issued_s": "1891-06-30",
   "gbl_indexYear_im": [
@@ -26,13 +28,13 @@
     "[1891 TO 1891]"
   ],
   "dct_spatial_sm": [
-    "Delaware River",
-    "Lambertville, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Lambertville",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.9542 40.3857, -74.9305 40.3857, -74.9305 40.3553, -74.9542 40.3553, -74.9542 40.3857))",
+  "dcat_bbox": "ENVELOPE(-74.9542,-74.9305,40.3857,40.3553)",
+  "dcat_centroid": "40.3705,-74.94235",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,6 +54,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3WH2T8M"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:56Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

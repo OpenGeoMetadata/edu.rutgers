@@ -8,7 +8,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -19,7 +19,8 @@
     "IIIF active",
     "Rivers",
     "Coastal zone",
-    "Beach"
+    "Beach",
+    "metadataSprint_2022-11--Barnegat Bay--Ocean County--Barnegat Township"
   ],
   "dct_issued_s": "1900-01-31",
   "gbl_indexYear_im": [
@@ -29,14 +30,13 @@
     "[1900 TO 1900]"
   ],
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
-    "Barnegat Township, New Jersey",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.4170 39.8282, -74.1407 39.8282, -74.1407 39.6986, -74.4170 39.6986, -74.4170 39.8282))",
+  "dcat_bbox": "ENVELOPE(-74.4170,-74.1407,39.8282,39.6986)",
+  "dcat_centroid": "39.763400000000004,-74.27885",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +56,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3NV9MN0"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:43Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

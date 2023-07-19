@@ -6,7 +6,7 @@
   "dct_publisher_sm": [
     "NJ Department of Environmental Protection"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -16,7 +16,9 @@
   "dcat_keyword_sm": [
     "IIIF in process",
     "landscapes",
-    "townships"
+    "townships",
+    "metadataSprint_2022-11",
+    "Monroe Township--Gloucester County"
   ],
   "dct_issued_s": "1972",
   "gbl_indexYear_im": [
@@ -26,13 +28,12 @@
     "[1972 TO 1972]"
   ],
   "dct_spatial_sm": [
-    "Monroe Township",
-    "Gloucester",
+    "New Jersey--Gloucester County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.4913 40.3856, -74.3523 40.3856, -74.3523 40.2511, -74.4913 40.2511, -74.4913 40.3856))",
+  "dcat_bbox": "ENVELOPE(-74.4913,-74.3523,40.3856,40.2511)",
+  "dcat_centroid": "40.318349999999995,-74.42179999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3JS9QZN"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:06Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

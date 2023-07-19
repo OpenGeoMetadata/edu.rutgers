@@ -4,9 +4,9 @@
     "Map was part of the \"Know Your Town\" guide published by the League of Women Voters. Map designates election districts and polling places and includes full street index. Legend indicates borough and voting district boundaries, streams and ponds."
   ],
   "dct_creator_sm": [
-    "League of Women Voters"
+    "League of Women Voters (U.S.)"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,9 @@
     "elections",
     "ponds",
     "streams",
-    "streets"
+    "streets",
+    "2022-creator-sprint",
+    "Watchung--Somerset County"
   ],
   "dct_issued_s": "1971",
   "gbl_indexYear_im": [
@@ -28,8 +30,7 @@
     "[1971 TO 1971]"
   ],
   "dct_spatial_sm": [
-    "Watchung",
-    "Somerset",
+    "New Jersey--Somerset County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3BV7HJV"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:44Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

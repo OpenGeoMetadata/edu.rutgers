@@ -7,7 +7,7 @@
   "dct_publisher_sm": [
     "J. W. Harrison, Stationer"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -19,7 +19,8 @@
     "Church buildings",
     "Fire",
     "Railroads",
-    "Schools"
+    "Schools",
+    "metadataSprint_2022-11--Jersey City--Hudson County"
   ],
   "dct_issued_s": "1889",
   "gbl_indexYear_im": [
@@ -29,13 +30,13 @@
     "[1889 TO 1889]"
   ],
   "dct_spatial_sm": [
-    "Jersey City, New Jersey",
-    "Hudson County",
+    "New Jersey--Jersey City",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.1166 40.7692, -74.0262 40.7692, -74.0262 40.6668, -74.1166 40.6668, -74.1166 40.7692))",
+  "dcat_bbox": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
+  "dcat_centroid": "40.718,-74.07140000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +56,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T33X877D"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:53Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

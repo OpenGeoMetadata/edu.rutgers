@@ -6,7 +6,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -19,7 +19,7 @@
     "Geographic Information Systems",
     "Coastal zone",
     "Rivers",
-    "Wetlands"
+    "Wetlands--Buckshutem"
   ],
   "dct_issued_s": "1972-07-22",
   "gbl_indexYear_im": [
@@ -29,7 +29,7 @@
     "[1972 TO 1972]"
   ],
   "dct_spatial_sm": [
-    "Buckshutem, New Jersey",
+    "New Jersey--Buckshutem",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -51,6 +51,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/t3-skqt-wx78"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:36:29Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

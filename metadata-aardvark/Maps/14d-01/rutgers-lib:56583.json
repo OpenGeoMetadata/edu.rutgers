@@ -6,7 +6,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -16,7 +16,8 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Tidelands",
-    "Geographic Information Systems"
+    "Geographic Information Systems",
+    "metadataSprint_2022-11--Cape May County"
   ],
   "dct_issued_s": "1912",
   "gbl_indexYear_im": [
@@ -26,12 +27,12 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Cape May County",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-75.168462 39.324375, -74.46493 39.324375, -74.46493 38.788657, -75.168462 38.788657, -75.168462 39.324375))",
+  "dcat_bbox": "ENVELOPE(-75.168462,-74.46493,39.324375,38.788657)",
+  "dcat_centroid": "39.056516,-74.81669600000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3BK1GP6"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:52Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

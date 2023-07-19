@@ -6,12 +6,13 @@
   "dct_publisher_sm": [
     "United States Geological Survey"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "IIIF in process"
+    "IIIF in process",
+    "Pennsylvania"
   ],
   "dct_issued_s": "1946",
   "gbl_indexYear_im": [
@@ -46,6 +47,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3RF5VB4"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:08Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

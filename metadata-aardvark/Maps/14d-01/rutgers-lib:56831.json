@@ -7,7 +7,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,9 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Tidelands",
-    "Geographic Information Systems"
+    "Geographic Information Systems",
+    "metadataSprint_2022-11",
+    " Delaware River--Paulsboro"
   ],
   "dct_issued_s": "1910",
   "gbl_indexYear_im": [
@@ -27,13 +29,13 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Delaware River",
-    "Paulsboro, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Paulsboro",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-75.2565 39.8585, -75.2228 39.8585, -75.2228 39.8194, -75.2565 39.8194, -75.2565 39.8585))",
+  "dcat_bbox": "ENVELOPE(-75.2565,-75.2228,39.8585,39.8194)",
+  "dcat_centroid": "39.83895,-75.23965000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3862KR9"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:57Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

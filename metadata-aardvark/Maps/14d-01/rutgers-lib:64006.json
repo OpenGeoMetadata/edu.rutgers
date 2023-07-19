@@ -6,7 +6,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,8 @@
     "Tidelands",
     "Geographic Information Systems",
     "Coastal zone",
-    "Wetlands"
+    "Wetlands",
+    "metadataSprint_2022-11--Middlesex County--South Amboy"
   ],
   "dct_issued_s": "1977-08-26",
   "gbl_indexYear_im": [
@@ -28,13 +29,13 @@
     "[1977 TO 1977]"
   ],
   "dct_spatial_sm": [
-    "Middlesex County, New Jersye",
-    "South Amboy, New Jersey",
+    "New Jersey--Middlesex County",
+    "New Jersey--South Amboy",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.631036 40.608683, -74.203605 40.608683, -74.203605 40.251122, -74.631036 40.251122, -74.631036 40.608683))",
+  "dcat_bbox": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
+  "dcat_centroid": "40.4299025,-74.41732049999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/t3-kqb4-c241"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:59Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -4,7 +4,7 @@
     "This is an early map of east and west New Jersey, the incorrect spelling in the title is taken off the map itself. The map details mainly wet areas and the surveyor is billed as a hydrographer in the title.",
     "Top corner missing and there is a large tear through half the image. Possible tape damage on bottom of map."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T32J6CDF"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:58Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

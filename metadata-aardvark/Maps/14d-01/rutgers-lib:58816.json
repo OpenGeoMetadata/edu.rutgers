@@ -6,7 +6,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -16,7 +16,8 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Piers",
-    "Bulkheads"
+    "Bulkheads",
+    " Hackensack River--Jersey City--Hudson County--Kearny--Hudson County--Secaucus--Bergen CountyBergen County--Lyndhurst Township--East Rutherford"
   ],
   "dct_issued_s": "1971",
   "gbl_indexYear_im": [
@@ -26,15 +27,8 @@
     "[1971 TO 1971]"
   ],
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Jersey City, New Jersey",
-    "Hudson County",
-    "Kearny, New Jersey",
-    "Hudson County",
-    "Secaucus, New Jersey",
-    "Bergen County",
-    "Lyndhurst Township, New JerseyBergen County",
-    "East Rutherford, New Jersey",
+    "United States--Hackensack River",
+    "New Jersey--Jersey City",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -59,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3B27ZX7"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:36:22Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -3,7 +3,10 @@
   "dct_description_sm": [
     "Outside cover of brochure issued by the New Jersey Department of Conservation and Economic Development about Cheesequake State Park. This side features a table of campsites available campsites, bathing areas, cabin and boat rentals and hunting grounds. Photographic illustration on front flap."
   ],
-  "schema_provider_s": "Rutgers University",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -15,7 +18,9 @@
     "camping",
     "fishing",
     "parks",
-    "picnics"
+    "picnics",
+    "metadataSprint_2022-11",
+    "Old Bridge Township--Middlesex County"
   ],
   "dct_issued_s": "1962",
   "gbl_indexYear_im": [
@@ -25,13 +30,12 @@
     "[1962 TO 1962]"
   ],
   "dct_spatial_sm": [
-    "Old Bridge Township",
-    "Middlesex",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.3831 40.4640, -74.2226 40.4640, -74.2226 40.3247, -74.3831 40.3247, -74.3831 40.4640))",
+  "dcat_bbox": "ENVELOPE(-74.3831,-74.2226,40.4640,40.3247)",
+  "dcat_centroid": "40.39435,-74.30285",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3C24X6K"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:46Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

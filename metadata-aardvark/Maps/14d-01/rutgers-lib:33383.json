@@ -10,7 +10,7 @@
   "dct_creator_sm": [
     "Widmer, Kremble"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -24,7 +24,11 @@
     "Railroads",
     "Water",
     "Water resources",
-    "Water supply"
+    "Water supply",
+    "2022-creator-sprint",
+    "Delaware Canal",
+    "Raritan Canal--Mercer County--Princeton--Middlesex County--New Brunswick--Mercer County--Rocky Hill--Somerset County--Griggstown--Middlesex County--Kingston--Mercer County--Trenton--Burlington County--Bordentown TownshipHunterdon County--Lambertville--Mercer County--Titusville--Somerset County",
+    "South Bound Brook"
   ],
   "dct_issued_s": "1976",
   "gbl_indexYear_im": [
@@ -34,29 +38,7 @@
     "[1976 TO 1976]"
   ],
   "dct_spatial_sm": [
-    "Delaware Canal",
-    "Raritan CanalNew Jersey",
-    "Mercer County",
-    "Princeton, New Jersey",
-    "Middlesex County, New Jersye",
-    "New Brunswick, New Jersey",
-    "Mercer County",
-    "Rocky Hill, New Jersey",
-    "Somerset County",
-    "Griggstown, New Jersey",
-    "Middlesex County, New Jersye",
-    "Kingston, New Jersey",
-    "Mercer County",
-    "Trenton, New Jersey",
-    "Burlington County",
-    "Bordentown Township, New Jersey",
-    "Hunterdon County",
-    "Lambertville, New Jersey",
-    "Mercer County",
-    "Titusville, New Jersey",
-    "Somerset County",
-    "South Bound Brook",
-    ", New Jersey",
+    "New Jersey--Mercer County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -81,6 +63,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3Z31Z17"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:02Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -4,7 +4,7 @@
     "This maps depicts various attractions and facts about a variety of geographic areas across the state of New Jersey.",
     "Some pencil markings, including incorrect date on map."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -47,6 +47,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3C24WZ1"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:58Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

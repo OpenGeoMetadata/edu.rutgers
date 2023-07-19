@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "City map of Plainfield indicates steam railroads, street railways and bus lines.  Full street index at bottom. Frank G. Derrickson, Advertising Consultant and Publicity Director of Stelton has an adertisement printed in corner of map."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -14,7 +14,8 @@
     "IIIF in process",
     "city map",
     "bus line",
-    "steam rail"
+    "steam rail",
+    "Plainfield--Union County"
   ],
   "dct_issued_s": "1932",
   "gbl_indexYear_im": [
@@ -24,8 +25,7 @@
     "[1932 TO 1932]"
   ],
   "dct_spatial_sm": [
-    "Plainfield",
-    "Union",
+    "New Jersey--Union County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3057GWX"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:37Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

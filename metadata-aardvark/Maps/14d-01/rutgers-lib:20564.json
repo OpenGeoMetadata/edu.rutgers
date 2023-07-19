@@ -7,7 +7,7 @@
   "dct_publisher_sm": [
     "NJ Department of Environmental Protection"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -21,7 +21,8 @@
     "coastlines",
     "islands",
     "landscapes",
-    "oceans"
+    "oceans",
+    "Seaside Park"
   ],
   "dct_issued_s": "1972",
   "gbl_indexYear_im": [
@@ -31,8 +32,6 @@
     "[1972 TO 1972]"
   ],
   "dct_spatial_sm": [
-    "Seaside Park",
-    "Ocean",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -57,6 +56,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3C24WXK"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:04Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

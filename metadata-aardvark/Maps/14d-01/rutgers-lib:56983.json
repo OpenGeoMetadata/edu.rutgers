@@ -7,7 +7,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,9 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Tidelands",
-    "Geographic Information Systems"
+    "Geographic Information Systems",
+    "metadataSprint_2022-11",
+    "Silver Bay--Ocean County--Dover Township"
   ],
   "dct_issued_s": "1963",
   "gbl_indexYear_im": [
@@ -27,14 +29,13 @@
     "[1963 TO 1963]"
   ],
   "dct_spatial_sm": [
-    "Silver Bay",
-    "Ocean County",
-    "Dover Township, New Jersey",
+    "New Jersey--Ocean County",
+    "New Jersey--Dover Township",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.5791 40.9043, -74.5380 40.9043, -74.5380 40.8726, -74.5791 40.8726, -74.5791 40.9043))",
+  "dcat_bbox": "ENVELOPE(-74.5791,-74.5380,40.9043,40.8726)",
+  "dcat_centroid": "40.88845,-74.55855",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3ZK5M1F"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:36:00Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

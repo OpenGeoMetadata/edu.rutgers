@@ -12,7 +12,7 @@
   "dct_publisher_sm": [
     "F.A. Dunham, C.E"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -22,14 +22,16 @@
   "dcat_keyword_sm": [
     "IIIF in process",
     "Buildings",
-    "Cities and towns--New Jersey--History",
+    "Cities and towns----History",
     "Dwellings",
     "Historic sites",
     "Geography",
     "Land owners",
     "Historic buildings",
     "Cemeteries",
-    "Church"
+    "Church--Union County",
+    "PlainfieldSomerset County",
+    "New Jersy--North Plainfield"
   ],
   "dct_issued_s": "1894",
   "gbl_indexYear_im": [
@@ -39,9 +41,8 @@
     "[1894 TO 1894]"
   ],
   "dct_spatial_sm": [
-    "Union County",
-    "PlainfieldSomerset County",
-    "North Plainfield, New Jersy",
+    "New Jersey--Union County",
+    "New Jersy--North Plainfield",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -66,6 +67,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3Q81CT2"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:36Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

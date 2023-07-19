@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Hand drawn map of the Watchung Reservation region of Union County. Legend indicates roads, proposed roads, foot paths and trails. Among the additional notes on map is the site of the then proposed American Telephone and Telegraph (AT&T) research laboratory, or Bell Labs, in Murray Hill."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -14,7 +14,8 @@
     "IIIF in process",
     "reservation",
     "trails",
-    "Bell labs"
+    "Bell labs",
+    "Watchung Reservation--Union County"
   ],
   "dct_issued_s": "1930",
   "gbl_indexYear_im": [
@@ -24,8 +25,7 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Watchung Reservation",
-    "Union",
+    "New Jersey--Union County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3FF3T88"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:37Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

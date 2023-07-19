@@ -6,7 +6,7 @@
   "dct_creator_sm": [
     "League of Women Voters of Cranford"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,9 @@
     "street map",
     "railroad",
     "schools",
-    "churches"
+    "churches",
+    "2022-creator-sprint",
+    "Cranford--Union County"
   ],
   "dct_issued_s": "1966",
   "gbl_indexYear_im": [
@@ -28,8 +30,7 @@
     "[1966 TO 1966]"
   ],
   "dct_spatial_sm": [
-    "Cranford",
-    "Union",
+    "New Jersey--Union County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T30V8DPP"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:39Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

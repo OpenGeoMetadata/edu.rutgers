@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Index of street names on seperate sheet from map of Lakewood Township."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -12,7 +12,8 @@
   ],
   "dcat_keyword_sm": [
     "IIIF in process",
-    "streets"
+    "streets",
+    "Lakewood"
   ],
   "dct_issued_s": "1958",
   "gbl_indexYear_im": [
@@ -22,8 +23,6 @@
     "[1958 TO 1958]"
   ],
   "dct_spatial_sm": [
-    "Lakewood",
-    "Ocean",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -48,6 +47,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T37M08TJ"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:46Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

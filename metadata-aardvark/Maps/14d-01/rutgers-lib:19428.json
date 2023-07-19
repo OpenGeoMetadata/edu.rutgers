@@ -6,7 +6,7 @@
   "dct_publisher_sm": [
     "Smith and Wistar"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,8 @@
     "IIIF in process",
     "counties",
     "land",
-    "taxes"
+    "taxes",
+    "Salem"
   ],
   "dct_issued_s": "1849",
   "gbl_indexYear_im": [
@@ -27,8 +28,6 @@
     "[1849 TO 1849]"
   ],
   "dct_spatial_sm": [
-    "Expansion and Reform (1801-1861)",
-    "Salem",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -53,6 +52,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3MC90MZ"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:53Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }
