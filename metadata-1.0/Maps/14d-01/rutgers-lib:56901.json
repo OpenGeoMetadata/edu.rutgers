@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3NZ8BZC",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of Lavallette City by the Sea",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56901",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1927",
   "dc_description_s": "Map covers area from Ortley Avenue to Trenton Avenue along the Boulevard including Snipe Island. Map depicts the numbered lots and land plots in the city of Lavallette. It includes the property of Michael W. Ortley and claims to G. Nuget and Saragaldi.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56901\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56901/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
-    "Lavallette, New Jersey",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:59Z",
+  "layer_modified_dt": "2023-03-14T19:53:06Z",
   "dc_language_sm": [
     "eng"
   ],

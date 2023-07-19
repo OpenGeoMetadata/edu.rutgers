@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T30Z76J2",
   "dc_rights_s": "Public",
   "dc_title_s": "Property of the American Dredging Company",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56464",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.139832,-74.736216,39.996081,39.608352)",
   "solr_year_i": "1900",
   "dc_description_s": "Map covers area from Spruce Street to Clinton Street in Camden City. Map shows the areas of Camden that are properties of the American Dredging Company.",
   "dc_format_s": "PDF",
@@ -14,18 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56464\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56464/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Lois",
-    "Beideman",
-    "Bergen",
-    "Farragut",
-    "Adams",
-    "Buren",
-    "Harrison Channel of the Delaware RiverCamden County",
-    "Camden, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Bergen County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:50Z",
+  "layer_modified_dt": "2023-03-14T19:53:13Z",
   "dc_language_sm": [
     "eng"
   ],

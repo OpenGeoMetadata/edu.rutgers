@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3KK9C23",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Elizabethtown, Essex County, 1750 {shows entire present day Union County, New Jersey}",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:24739",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.463291,-74.135775,40.73964,40.591925)",
   "solr_year_i": "1900",
   "dc_description_s": "3813/U50/020/0000AB",
   "dc_format_s": "JPEG",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24739/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24739/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24739\"}",
   "dct_spatial_sm": [
-    "Colonization and Settlement (1585-1763)Union County",
-    "Elizabeth, New Jersey",
+    "New Jersey--Union County",
+    "New Jersey--Elizabeth",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:06Z",
+  "layer_modified_dt": "2023-03-14T19:52:14Z",
   "dc_language_sm": [
     "eng"
   ],

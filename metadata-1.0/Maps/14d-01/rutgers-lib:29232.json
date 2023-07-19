@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3PR7VTN",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian & stream survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:29232",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.3387,-74.2271,40.6087,40.4857)",
   "solr_year_i": "1938",
   "dc_description_s": "Scale: Plan 1:1200; Profile 1:48 (vert) 1:1200 (horiz); Sections 1:48|Drainage Basin: Rahway River|Connects to Sheets: 14 to 25, 25 to 26|Surveyed Mar 1938|Drawn by McCowatt|Contains detail of upstream face of Wooden Box Culvert at Old Road, Pro. Sta. 25+66, scale 1:120.|Image is from a copy of the original on Mylar.|Contains detail of upstream face of Conc. Bridge at Old Lincoln Hwy., Pro. Sta. 17+49, scale 1:120.|Contains detail of upstream face of Stone Bridge at Penn. Railroad, Pro. Sta. 16+76, scale 1:120.|Contains detail upstream face of Conc. Bridge at Middlesex Ave., Pro. Sta. 15+35, scale 1:120.",
   "dc_format_s": "JPEG",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29232/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29232/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29232\"}",
   "dct_spatial_sm": [
-    "Rahway River",
-    "Woodbridge, New Jersey",
+    "New Jersey--Woodbridge",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:27Z",
+  "layer_modified_dt": "2023-03-14T19:53:18Z",
   "dc_language_sm": [
     "eng"
   ],

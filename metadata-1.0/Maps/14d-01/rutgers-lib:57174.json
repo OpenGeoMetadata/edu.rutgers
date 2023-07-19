@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T34T6NRM",
   "dc_rights_s": "Public",
   "dc_title_s": "U.S. Coast Survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57174",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1891",
   "dc_description_s": "Soundings of New York Harbor, Caven's Point, the Central Railroad of NJ, Bedloe's Island, Ellis Island, Governors Island, Brooklyn, and New York City.",
   "dc_format_s": "PDF",
@@ -14,17 +14,12 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57174\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57174/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Governors Island, New York",
-    "Hudson County",
+    "New York--Governors Island",
+    "New Jersey--Hudson County",
     "New York",
-    "New York",
-    " (N.Y.)",
-    "New York",
-    "Brook",
-    "lyn",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:04Z",
+  "layer_modified_dt": "2023-03-14T19:54:18Z",
   "dc_language_sm": [
     "eng"
   ],

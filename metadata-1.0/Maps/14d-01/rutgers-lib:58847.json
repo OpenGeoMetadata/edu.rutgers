@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3668HSK",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead line on Hudson River in the city of Hoboken - County of Hudson",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58847",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.0439,-74.0203,40.7589,40.7334)",
   "solr_year_i": "1942",
   "dc_description_s": "Map showing pierhead line on Hudson River in the city of Hoboken - County of Hudson adopted January 5, 1942. map no. 483.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58847\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58847/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Hoboken, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Hoboken",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:23Z",
+  "layer_modified_dt": "2023-03-14T19:52:36Z",
   "dc_language_sm": [
     "eng"
   ],

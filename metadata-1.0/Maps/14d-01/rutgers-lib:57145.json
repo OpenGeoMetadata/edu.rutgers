@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3PV6PRB",
   "dc_rights_s": "Public",
   "dc_title_s": "Block and Lot Subdivision in the Hackensack Meadows",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57145",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1900",
   "dc_description_s": "Map depicts a portion of the Hackensack River and many of its tributaries; shows lots and blocks surrounding the river in the municipalities of Kearny, Jersey City, Secaucas, East Rutherford, Little Ferry, Moonachie and Ridgefield Park.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57145\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57145/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hackensack Meadowlands, New Jersey",
-    "Hudson County",
+    "New Jersey--Hackensack Meadowlands",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:03Z",
+  "layer_modified_dt": "2023-03-14T19:51:21Z",
   "dc_language_sm": [
     "eng"
   ],

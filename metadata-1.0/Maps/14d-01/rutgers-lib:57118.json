@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T33F4T0Z",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Fine-View on the Shrewsbury Near Sea Bright",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57118",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.614576,-73.88506,40.519095,40.07913)",
   "solr_year_i": "1910",
   "dc_description_s": "A map of a Sea Bright neighborhood along the Shrewsbury River.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57118\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57118/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Navesink AvenueMonmouth County",
-    "Sea Bright, New Jersey",
+    "New Jersey--Monmouth County",
+    "New Jersey--Sea Bright",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:02Z",
+  "layer_modified_dt": "2023-03-14T19:52:15Z",
   "dc_language_sm": [
     "eng"
   ],

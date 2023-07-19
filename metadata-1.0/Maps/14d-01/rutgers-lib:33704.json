@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T39W0DV1",
   "dc_rights_s": "Public",
   "dc_title_s": "Inspection Map Showing Mosquito Breeding Areas",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33704",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.0684,-74.0247,40.9138,40.8586)",
   "solr_year_i": "1916",
   "dc_description_s": "Roughly the map falls within southern boundary of Bergen County along the Hudson River.|scale: 1 inch = 2000 feet|Roughly the map falls within southern boundary of Bergen County along the Hudson River.",
   "dc_format_s": "PDF",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33704\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33704/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Hackensack, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Hackensack",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:04Z",
+  "layer_modified_dt": "2023-03-14T19:52:05Z",
   "dct_issued_s": "1916"
 }

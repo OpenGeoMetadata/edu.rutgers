@@ -3,18 +3,18 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3930S7K",
   "dc_rights_s": "Public",
   "dc_title_s": "Leigh cave",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:36635",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.195496,-74.702703,40.787729,40.339427)",
   "solr_year_i": "1976",
   "dc_description_s": "Surveyed in 1960 by Kittatinny Grotto and Northern New Jersey Grotto, the map shows rooms and different levels of the cave. It also features two insets: a regional geologic map and a geologic map of the Leigh Cave area. Kittatinny limestone is featured on the map as well as precambrian gneiss. Two cross-sections also are included on the map.|63.5 x 73.7 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36635/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36635/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36635\"}",
   "dct_spatial_sm": [
-    "Hunterdon County",
+    "New Jersey--Hunterdon County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:41Z",
+  "layer_modified_dt": "2023-03-14T19:52:07Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/t3-2nyt-wb45",
   "dc_rights_s": "Public",
   "dc_title_s": "State of New Jersey Department of Environmental Protection Dyer Creek - Cedarville",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:63266",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.7627,-74.6644,40.3585,40.2397)",
   "solr_year_i": "1977",
   "dc_format_s": "PDF",
   "dc_subject_sm": [
@@ -13,11 +13,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63266\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63266/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cumberland County",
-    "Lawrence Township, New Jersey",
+    "New Jersey--Cumberland County",
+    "New Jersey--Lawrence Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:15Z",
+  "layer_modified_dt": "2023-03-14T19:53:49Z",
   "dc_language_sm": [
     "eng"
   ],

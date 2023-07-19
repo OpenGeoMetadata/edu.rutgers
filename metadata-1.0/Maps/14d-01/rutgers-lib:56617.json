@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3C82DJ5",
   "dc_rights_s": "Public",
   "dc_title_s": "Miami Beach - Section One - Lower Twp., Cape May County, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56617",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.9729,-74.8305,39.0397,38.9313)",
   "solr_year_i": "1928",
   "dc_description_s": "Map covers area between Jacksonville Ave. and Schellinger Ave. and between Ormond Rd. and the Delaware Bay in Lower Township, New Jersey. Map is attached to map of Miami Beach - Section Two - Lower Twp., Cape May County, N.J.. It shows roads and real estate lots in the area.",
   "dc_format_s": "PDF",
@@ -14,12 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56617\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56617/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware Bay (Del. and New Jersey)",
-    "Cape May County",
-    "Lower Township, New Jersey",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:53Z",
+  "layer_modified_dt": "2023-03-14T19:52:40Z",
   "dc_language_sm": [
     "eng"
   ],

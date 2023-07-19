@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/t3-d8a7-y535",
   "dc_rights_s": "Public",
   "dc_title_s": "Approaches to New York - Fire Island Light to Seagirt Light",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:64740",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1925",
@@ -16,7 +16,7 @@
     "New York",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:17Z",
+  "layer_modified_dt": "2023-03-14T19:51:07Z",
   "dc_language_sm": [
     "eng"
   ],

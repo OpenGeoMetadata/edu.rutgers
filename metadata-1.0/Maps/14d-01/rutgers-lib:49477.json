@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3F47R7D",
   "dc_rights_s": "Public",
   "dc_title_s": "Hand-drawn map of Crystal City internment camp, Texas",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:49477",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1945",
@@ -11,10 +11,9 @@
   "dc_format_s": "PDF",
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/49477\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/49477/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Texas",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:43Z",
+  "layer_modified_dt": "2023-03-14T19:52:01Z",
   "dc_language_sm": [
     "eng"
   ],

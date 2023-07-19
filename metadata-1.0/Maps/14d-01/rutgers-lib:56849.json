@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3JH3QHS",
   "dc_rights_s": "Public",
   "dc_title_s": "Topographical Survey Portion Hamilton Township",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56849",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.6846,-74.5673,40.3431,40.2417)",
   "solr_year_i": "1936",
   "dc_description_s": "Map 1: Map covers area from Moon Island to Brook Road and includes Crosswicks Creek. Map shows the numbered divisions of land and serves as a key for the other maps in the series.|Map 2: Map covers area from the Delaware River to Reed Avenue along Lalor Street. Map shows the varying land elevations in Hamilton Township as well as the wood and swamp areas.|Map 3: Map covers area from Marshall Avenue to Thropp Avenue along Watsons Creek. Map shows the varying land elevations in Hamilton Township as well as the wood and swamp areas. Map also shows the road layout and the Pennsylvania and Newark RR.|Map 4: Map covers area from the disposal plant in Trenton to the wood and swamp areas. Map shows the varying land elevations in Hamilton Township.",
   "dc_format_s": "PDF",
@@ -14,19 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56849\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56849/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Hamilton (Mercer County, New Jersey : Township)Mercer County",
-    "Trenton, New Jersey",
-    "Mercer County",
-    "Burlington, New Jersey",
-    "Mercer County",
-    "West Windsor Township, New JerseyMercer County",
-    "Washington (Mercer County, New Jersey : Township)Mercer County",
-    "Monmouth, New Jersey",
-    "Pennsylvania",
+    "New Jersey--Mercer County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:57Z",
+  "layer_modified_dt": "2023-03-14T19:54:16Z",
   "dc_language_sm": [
     "eng"
   ],

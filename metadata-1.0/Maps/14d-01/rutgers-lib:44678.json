@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T38K77G8",
   "dc_rights_s": "Public",
   "dc_title_s": "Public Service Railway Co., Department of Maintenance of Way, Survey of Bergen Turnpike, Little Ferry and Ridgefield Park, Sheets 4-6",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44678",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
   "solr_year_i": "1911",
   "dc_description_s": "Sheets 4-6 in a survey of Bergen Turnpike, showing the bridge and railroads over the Hackensack River passing through Little Ferry and Ridgefield Park|Traced from map marked \"Property of Samuel J. Shaw, Jr., Ridgefield Park, N.J.|Date used is that on map however map is a tracing|Made by W.H.F.; Traced by C.T.; Checked by F.F.B.|Drawing No. 9488",
   "dc_format_s": "PDF",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44678\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44678/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Little Ferry, New Jersey",
-    "Bergen County",
-    "Ridgefield Township, New Jersey",
+    "United States--Hackensack River",
+    "New Jersey--Little Ferry",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:41Z",
+  "layer_modified_dt": "2023-03-14T19:53:14Z",
   "dc_language_sm": [
     "eng"
   ],

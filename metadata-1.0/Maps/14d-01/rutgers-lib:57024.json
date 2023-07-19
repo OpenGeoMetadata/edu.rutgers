@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3WH2T92",
   "dc_rights_s": "Public",
   "dc_title_s": "The Vaughn Property",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57024",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.4341,-74.0869,39.9403,39.7962)",
   "solr_year_i": "1900",
   "dc_description_s": "There are 4 sheets for this map. 3 sheets of cross sections and one of the piers for the cross sections. The existing steel bulkhead is drawn on the map. The present ground line, proposed dredged bottom, and the measurements for the structure are marked on the three pages of cross sections.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57024\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57024/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Ocean County",
-    "Lacey Township, New Jersey",
+    "New Jersey--Ocean County",
+    "New Jersey--Lacey Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:01Z",
+  "layer_modified_dt": "2023-03-14T19:54:15Z",
   "dc_language_sm": [
     "eng"
   ],

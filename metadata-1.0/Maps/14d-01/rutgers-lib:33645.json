@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3PR7VBC",
   "dc_rights_s": "Public",
   "dc_title_s": "Map prepared for Thoroughfare Avenue Extension",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33645",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.5229,-74.4906,39.3448,39.3169)",
   "solr_year_i": "1929",
   "dc_description_s": "Map shows water depths and estimated intervals of Beach Thoroughfare in Margate City. Map depicts bulkhead and Margate City Hall. Map covers area from 34th Avenue to Benson Avenue.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33645\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33645/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Beach Thoroughfare",
-    "Atlantic County",
-    "Margate City, New Jersey",
+    "New Jersey--Atlantic County",
+    "New Jersey--Margate City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:03Z",
+  "layer_modified_dt": "2023-03-14T19:52:23Z",
   "dc_language_sm": [
     "eng"
   ],

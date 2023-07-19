@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3SX6HHR",
   "dc_rights_s": "Public",
   "dc_title_s": "Bridge No. 178 over Passaic River, C.R.R. Co. of NJ",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56695",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.377391,-74.112787,40.90889,40.674368)",
   "solr_year_i": "1911",
   "dc_description_s": "Map shows location and plans for reconstruction of bridge across the Passaic River on the line of the Newark and New York Branch of the Central Railroad of New Jersey and also shows lines for solid filling, areas to be dredged, and soundings",
   "dc_format_s": "PDF",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56695\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56695/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "M & E CanalEssex County",
-    "Newark, New Jersey",
+    "New Jersey--Newark",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:55Z",
+  "layer_modified_dt": "2023-03-14T19:51:23Z",
   "dc_language_sm": [
     "eng"
   ],

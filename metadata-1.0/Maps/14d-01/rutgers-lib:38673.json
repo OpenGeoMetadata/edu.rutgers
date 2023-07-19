@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3J9655R",
   "dc_rights_s": "Public",
   "dc_title_s": "Inland waterway from Cape May to Bay Head - Sheet II",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:38673",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
   "solr_year_i": "1900",
   "dc_description_s": "Broad scope map showing water depth data and plans for dredging channels in Atlantic County, NJ|No date given. Date range estimated on H.B. Kummel's tenure.",
   "dc_format_s": "JPEG",
@@ -14,17 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38673/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38673/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38673\"}",
   "dct_spatial_sm": [
-    "Atlantic County",
-    "Atlantic City, New Jersey",
-    "Atlantic County",
-    "Ocean City, New Jersey",
-    "Atlantic County",
-    "Cape May (N.J)",
-    "Atlantic County",
-    "Absecon, New Jersey",
+    "New Jersey--Atlantic County",
+    "New Jersey--Atlantic City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:44Z",
+  "layer_modified_dt": "2023-03-14T19:52:05Z",
   "dc_language_sm": [
     "eng"
   ],

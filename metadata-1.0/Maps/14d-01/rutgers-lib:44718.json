@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3V69H0J",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian map of properties throughout Bergen and Hudson Counties, New Jersey along the Hudson River, 1890",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44718",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1890",
@@ -14,19 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44718\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44718/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Ridgefield Township, New JerseyBergen County",
-    "Englewood Township, New Jersey",
-    "Hudson County",
-    "Weehawken, New Jersey",
-    "Hudson County",
-    "Union (",
-    "Hudson County, New Jersey : Township)",
-    "Hudson County",
-    "North Bergen, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Bergen County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:41Z",
+  "layer_modified_dt": "2023-03-14T19:53:35Z",
   "dc_language_sm": [
     "eng"
   ],

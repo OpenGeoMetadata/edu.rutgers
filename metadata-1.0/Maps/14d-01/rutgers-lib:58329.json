@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3R78JRV",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead line on Beach Creek, Pecks Bay and Beach Thoroughfare in the Township of Upper in the County of Cape May",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58329",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.168462,-74.46493,39.324375,38.788657)",
   "solr_year_i": "1926",
   "dc_description_s": "Map showing pierhead and bulkhead line on Beach Creek, Pecks Bay and Beach Thoroughfare in the Township of Upper in the County of Cape May. Board of Commerce and Navigation Map No. 214.",
   "dc_format_s": "PDF",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58329\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58329/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Beach Creek",
-    "Cape May County",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:13Z",
+  "layer_modified_dt": "2023-03-14T19:52:26Z",
   "dc_language_sm": [
     "eng"
   ],

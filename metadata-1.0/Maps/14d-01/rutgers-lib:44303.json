@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3XG9PG8",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing property lines in Passaic, NJ along the Passaic River, plates 1,2, and 4-6",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44303",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.503212,-74.106786,41.203241,40.819938)",
   "solr_year_i": "1900",
   "dc_description_s": "Map showing property lines along the Passaic River in Passaic, NJ in a collection of five separate plates, representing five areas of the town.|Source map supplied by New Jersey Department of Environmental Protection|No date given|Plate number three is missing.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44303\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44303/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Passaic River",
-    "Passaic (Passaic County, New Jersey)Passaic County",
-    "Passaic River, New Jersey",
+    "New Jersey--Passaic River",
+    "New Jersey--Passaic County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:40Z",
+  "layer_modified_dt": "2023-03-14T19:52:37Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3J67K8D",
   "dc_rights_s": "Public",
   "dc_title_s": "Mystic Island, Little Egg Harbor Township, Ocean County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51752",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1955",
   "dc_description_s": "This is a map of Mystic Island displaying property lots and recreational areas like country clubs, amusement areas, and public beaches.|Source map supplied by New Jersey Department of Environmental Protection|Pieced together from different panels with scotch tape, one redundant strip also in drawer, separated from map",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51752\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51752/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Great Bay, New Jersey",
-    "Ocean County",
-    "Little Egg Harbor, New Jersey",
+    "New Jersey--Great Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:43Z",
+  "layer_modified_dt": "2023-03-14T19:52:44Z",
   "dc_language_sm": [
     "eng"
   ],

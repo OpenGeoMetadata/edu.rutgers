@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T36H4MSD",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan for the improvement of the easterly front of the Jersey Flats, adjoining the deep water of the Bay of New York between the terminus of the Central Railroad of New Jersey in Jersey City and Constables Hook in the City of Bayonne",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57092",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1890",
   "dc_description_s": "Map depicts the plan for connecting NY Bay with Jersey City and Bayonne by means of railroad tresslers; map shows various channels connecting easterly NJ and NY, including Bergen Pt. Channel and Presby Channel; map also shows Ellis Island and Bedloe's Island.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57092\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57092/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Jersey City, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Jersey City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:02Z",
+  "layer_modified_dt": "2023-03-14T19:53:05Z",
   "dc_language_sm": [
     "eng"
   ],

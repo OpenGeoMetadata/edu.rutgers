@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T36M35W1",
   "dc_rights_s": "Public",
   "dc_title_s": "Mullica River - Great Bay estuary distribution and abundance of the hard clam, Mercenaria mercenaria",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:36709",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1988",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
@@ -13,20 +13,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36709/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36709/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/36709\"}",
   "dct_spatial_sm": [
-    "Great Bay",
-    "Oysterbed Point",
-    "Graveling Point",
-    "Deep Point",
-    "Cape Horn",
-    "Seven Island",
-    "Oyster Creek",
-    "Little Egg Harbor, New Jersey",
-    "Little Beach",
-    "Ocean County",
-    "Mullica River, New Jersey",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:42Z",
+  "layer_modified_dt": "2023-03-14T19:52:44Z",
   "dc_language_sm": [
     "eng"
   ],

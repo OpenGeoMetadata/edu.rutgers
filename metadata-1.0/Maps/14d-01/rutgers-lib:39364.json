@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3XS5T41",
   "dc_rights_s": "Public",
   "dc_title_s": "New Egypt, Plumstead Township, Ocean County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:39364",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.5531,-74.4233,40.1286,39.9731)",
   "solr_year_i": "1939",
   "dc_description_s": "This is one in a series of 455 mid 20th century fire insurance maps produced by the Fire Insurance Rating Organization of New Jersey.|Municipal Fire Insurance Maps",
   "dc_format_s": "PDF",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39364\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39364/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Ocean County",
-    "New Egypt, New Jersey",
-    "Ocean County",
-    "Plumsted Township, New Jersey",
+    "New Jersey--Ocean County",
+    "New Jersey--New Egypt",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:08Z",
+  "layer_modified_dt": "2023-03-14T19:52:45Z",
   "dc_language_sm": [
     "eng"
   ],

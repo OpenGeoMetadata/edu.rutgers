@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3XW4PBQ",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead lines on Shark River in the Township of Wall and the Township of Neptune - County of Monmouth",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58312",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1926",
@@ -15,13 +15,10 @@
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58312\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58312/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
     "New York",
-    " and Long Branch Railroad",
-    "Belmar, New Jersey",
-    "Wall Township, New JerseyAvon by the Sea, New Jersey",
-    "Neptune Township, New Jersey",
+    "New Jersey--Belmar",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:13Z",
+  "layer_modified_dt": "2023-03-14T19:52:32Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3WW7N13",
   "dc_rights_s": "Public",
   "dc_title_s": "Raccoon Creek, New Jersey from Swedesboro to Springer's Wharf",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56826",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.3202,-75.3011,39.7556,39.7322)",
   "solr_year_i": "1913",
   "dc_description_s": "Map 1: Raccoon Creek from Molonox Shoal to Swedesboro. |Map shows Raccoon Creek with soundings, the 7 foot curve and 4 foot curve, the mean low water line, proposed improvements and jetty. There is a diagram of the New Highway Draw Bridge, a detail of survey near the new highway draw bridge, and a locality sketch. |Map 2: Raccoon Creek from Springer's Bar to Shorn's Wharf. |Map shows Raccoon Creek with soundings and some wharfs along the creek. |Map 3: Raccoon Creek from Delaware River to Potato Hills Shoal. |Map shows soundings of Delaware River and Raccoon Creek. Also shows Raccoon Island.",
   "dc_subject_sm": [
@@ -13,11 +13,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56826\"}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Swedesboro, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Swedesboro",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:31Z",
+  "layer_modified_dt": "2023-03-14T19:53:14Z",
   "dc_language_sm": [
     "eng"
   ],

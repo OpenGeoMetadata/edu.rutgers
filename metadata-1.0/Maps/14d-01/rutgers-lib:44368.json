@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3SF2TH4",
   "dc_rights_s": "Public",
   "dc_title_s": "Suvey of Overpeck Creek, adjacent to the Louis A. Eucker Property",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44368",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
   "solr_year_i": "1900",
   "dc_description_s": "Riparian map of Eucker property adjacent to Overpeck Creek, featuring mean low water lines|Source map supplied by New Jersey Department of Environmental Protection|No date provided",
   "dc_format_s": "PDF",
@@ -14,12 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44368\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44368/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Overpeck Creek",
-    ", New Jersey",
-    "Bergen County",
+    "New Jersey--Bergen County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:40Z",
+  "layer_modified_dt": "2023-03-14T19:54:14Z",
   "dc_language_sm": [
     "eng"
   ],

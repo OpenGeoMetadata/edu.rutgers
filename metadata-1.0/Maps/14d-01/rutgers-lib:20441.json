@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3N01725",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Gloucester County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:20441",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.429061,-74.87726,39.888317,39.514967)",
   "solr_year_i": "1976",
   "dc_description_s": "A large map of Gloucester County, New Jersey the legend shows major roads only. Location table on the bottom right is devided by town and shows the location of local roads.",
   "dc_format_s": "JPEG",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20441/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20441/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20441\"}",
   "dct_spatial_sm": [
-    "Gloucester County",
+    "New Jersey--Gloucester County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:02Z",
+  "layer_modified_dt": "2023-03-14T19:52:15Z",
   "dc_publisher_s": "The Board of Chosen Freeholders",
   "dct_issued_s": "1976"
 }

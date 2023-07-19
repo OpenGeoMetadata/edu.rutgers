@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3028Q5R",
   "dc_rights_s": "Public",
   "dc_title_s": "North Wildwood City, Cape May County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:40090",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.168462,-74.46493,39.324375,38.788657)",
   "solr_year_i": "1949",
   "dc_description_s": "This is one in a series of 455 mid 20th century fire insurance maps produced by the Fire Insurance Rating Organization of New Jersey.|Municipal Fire Insurance Maps",
   "dc_format_s": "PDF",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40090\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40090/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cape May County",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:24Z",
+  "layer_modified_dt": "2023-03-14T19:52:50Z",
   "dc_language_sm": [
     "eng"
   ],

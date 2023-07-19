@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3F19304",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing property of the Wildwood Crest Company in the Borough of Wildwood Crest, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56475",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.9729,-74.8305,39.0397,38.9313)",
   "solr_year_i": "1900",
   "dc_description_s": "Map showing property of the Wildwood Crest Company in the Borough of Wildwood Crest, New Jersey. Includes riparian grant showing bulkhead and real estate. Map area covers North Grassy Sound Channel, South Swain's Channel, West State Inland Waterway, and East Atlantic Ocean.",
   "dc_format_s": "PDF",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56475\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56475/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cape May County",
-    "Lower Township, New Jersey",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:50Z",
+  "layer_modified_dt": "2023-03-14T19:52:37Z",
   "dc_language_sm": [
     "eng"
   ],

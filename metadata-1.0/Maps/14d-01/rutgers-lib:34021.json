@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3MS3S25",
   "dc_rights_s": "Public",
   "dc_title_s": "Delanco Burlington Co. N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:34021",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.059913,-74.389708,40.183651,39.541198)",
   "solr_year_i": "1888",
   "dc_description_s": "Delanco at Orchard Street and Rancocas Avenue and Washington Street|\"Condition: Fair|Map shows the land owned by Kelly. Includes lots 0 to 3. The map also shows the N.A. Bauer Lot. The Rancocas River and its low water mark is shown. The map is connected to two papers: 1) lined paper showing math work, and 2) a rough sketch of the maps\"",
   "dc_format_s": "PDF",
@@ -14,11 +14,13 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/34021\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/34021/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Rancocas River, New Jersey",
-    "Burlington County",
-    "Delanco, New Jersey",
+    "New Jersey--Rancocas River",
+    "New Jersey--Burlington County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:07Z",
+  "layer_modified_dt": "2023-03-14T19:51:41Z",
+  "dc_language_sm": [
+    "eng"
+  ],
   "dct_issued_s": "1888"
 }

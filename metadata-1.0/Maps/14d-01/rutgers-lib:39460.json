@@ -3,21 +3,19 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T35Q4TSN",
   "dc_rights_s": "Public",
   "dc_title_s": "New Barbadoes Neck \"lately the townships of Harrison and Kearney (1872)\"",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:39460",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1947",
   "dc_description_s": "Indian name - Mighgecticock",
   "dc_format_s": "PDF",
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39460\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39460/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Hudson River (N.Y. and New Jersey)",
-    "Hudson County",
-    "Bayonne, New Jersey",
+    "United States--Hackensack River",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:08Z",
+  "layer_modified_dt": "2023-03-14T19:52:44Z",
   "dc_language_sm": [
     "eng"
   ],

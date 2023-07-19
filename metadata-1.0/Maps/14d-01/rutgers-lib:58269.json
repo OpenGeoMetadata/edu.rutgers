@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T38G8Q78",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead lines on Salem Creek partly in the Township of Mannington and partly in the Township of Upper Penns Neck and the Township of Pilesgrove in the County of Salem",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58269",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.4912,-75.3202,39.6785,39.5572)",
   "solr_year_i": "1931",
   "dc_description_s": "Map showing pierhead and bulkhead lines on Salem Creek in the Townships of Mannington, Upper Penns Neck and Pilesgrove. Board of Commerce and Navigation map number 327.",
   "dc_format_s": "PDF",
@@ -14,14 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58269\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58269/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Salem River, New Jersey",
-    "Salem County",
-    "Mannington Township, New JerseySalem County",
-    "Upper Penns Neck (New Jersey: Township)Salem County",
-    "Pilesgrove, New Jersey",
+    "New Jersey--Salem River",
+    "New Jersey--Salem County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:11Z",
+  "layer_modified_dt": "2023-03-14T19:52:32Z",
   "dc_language_sm": [
     "eng"
   ],

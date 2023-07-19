@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3B56N4V",
   "dc_rights_s": "Public",
   "dc_title_s": "Subdivision of property of James A. and Charles W. Jones in Brick Township, Ocean County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51811",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1607,-74.0499,40.1372,40.0011)",
   "solr_year_i": "1926",
   "dc_description_s": "This is a blueprint map of property along the Metedeconk River belonging to James A. and Charles W. Jones subdivided into housing lots and labelled with their respective owners.|Source map supplied by New Jersey Department of Environmental Protection|Blueprint, Roy Theodore Havens, Engineer & Surveyor",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51811\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51811/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
-    "Brick Township, New Jersey",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:44Z",
+  "layer_modified_dt": "2023-03-14T19:54:12Z",
   "dc_language_sm": [
     "eng"
   ],

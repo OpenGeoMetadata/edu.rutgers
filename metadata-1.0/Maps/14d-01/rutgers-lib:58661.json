@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3KP85R7",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead lines on Cape Island Creek & Spicers Creek at Cape May - County of Cape May",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58661",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.168462,-74.46493,39.324375,38.788657)",
   "solr_year_i": "1941",
   "dc_description_s": "Map showing pierhead and bulkhead lines on Cape Island Creek and Spicers Creek in Cape May. Board of Commerce and Navigation map number 482.",
   "dc_format_s": "PDF",
@@ -14,12 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58661\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58661/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cape Island Creek",
-    "Cape May County",
-    "Cape May (N.J)",
+    "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:19Z",
+  "layer_modified_dt": "2023-03-14T19:52:31Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T34X5C4W",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing high water line in front of Dryden Property",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56905",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1607,-74.0499,40.1372,40.0011)",
   "solr_year_i": "1929",
   "dc_description_s": "Map covers the area of the Metedeconk River in front of Dryden Property. Map shows water depths of the Metedeconk River as well as high and low water lines and pierhead/bulkhead lines.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56905\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56905/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Metedeconk River, New Jersey",
-    "Ocean County",
-    "Brick Township, New Jersey",
+    "New Jersey--Metedeconk River",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:59Z",
+  "layer_modified_dt": "2023-03-14T19:52:24Z",
   "dc_language_sm": [
     "eng"
   ],

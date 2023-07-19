@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T36M3BF8",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead line on Staten Island Sound in the City of Linden - County of Union",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58645",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.463291,-74.135775,40.73964,40.591925)",
   "solr_year_i": "1938",
   "dc_description_s": "Map showing pierhead and bulkhead line on the Staten Island Sound in the City of Linden. Board of Commerce and Navigation map number 463.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58645\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58645/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Staten Island, New York",
-    "Union County",
-    "Linden, New Jersey",
+    "New York--Staten Island",
+    "New Jersey--Union County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:19Z",
+  "layer_modified_dt": "2023-03-14T19:52:30Z",
   "dc_language_sm": [
     "eng"
   ],

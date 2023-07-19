@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3WD4465",
   "dc_rights_s": "Public",
   "dc_title_s": "Pierhead and bulkhead lines - Raritan River, N.J. - Edgars Dock to Albany Street Bridge",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58780",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1934",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58780\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58780/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Raritan RiverNew Brunswick, New Jersey",
-    "Piscataway, New Jersey",
+    "New Jersey--New Brunswick",
+    "New Jersey--Raritan River",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:21Z",
+  "layer_modified_dt": "2023-03-14T19:53:01Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3Q52T01",
   "dc_rights_s": "Public",
   "dc_title_s": "Historical Geology Sheet, New Jersey - New York, Staten Island Quadrangle",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57121",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.463291,-74.135775,40.73964,40.591925)",
   "solr_year_i": "1901",
   "dc_description_s": "Map depicts area from Kearney in the north to Woodbridge in the south, map focuses on Staten Island. Map illustrates subterranean rock formations as of 1900.",
   "dc_format_s": "PDF",
@@ -14,13 +14,12 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57121\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57121/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Newark Bay, New Jersey",
-    "Union County",
+    "New Jersey--Newark Bay",
+    "New Jersey--Union County",
     "New York",
-    "Staten Island, New York",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:03Z",
+  "layer_modified_dt": "2023-03-14T19:52:03Z",
   "dc_language_sm": [
     "eng"
   ],

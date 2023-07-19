@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3J67HV6",
   "dc_rights_s": "Public",
   "dc_title_s": "Sussex County zinc mines map 1867",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:15921",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.992015,-74.36751,41.357607,40.899165)",
   "solr_year_i": "1867",
   "dc_description_s": "This map of zinc mines Sussex County was part of an 1867 geological survey of New Jersey under the direction of Gerge H. Cook, State Geologist and John C. Smock, Assistant Geologist. Topographical heights are also noted. Map is color coded into red for gneiss, yellow for white limestone and blue for blue limestone.",
   "dc_format_s": "JPEG",
@@ -14,9 +14,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15921/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15921/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15921\"}",
   "dct_spatial_sm": [
-    "Sussex County",
+    "New Jersey--Sussex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:33:38Z",
+  "layer_modified_dt": "2023-03-14T19:54:14Z",
   "dct_issued_s": "1867"
 }

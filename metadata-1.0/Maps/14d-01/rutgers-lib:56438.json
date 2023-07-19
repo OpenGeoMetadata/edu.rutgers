@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3Z89GPQ",
   "dc_rights_s": "Public",
   "dc_title_s": "Profile of Rio Grande Road from new pumping at Fishing Creek to Holly Beach",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56438",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.9365,-74.7156,39.1794,38.9911)",
   "solr_year_i": "1910",
   "dc_description_s": "Map shows Rio Grande Road with Richardson's Channel, Grassy Sound and Holly Beach.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56438\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56438/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Rio Grande Road",
-    "Cape May County",
-    "Middle Township, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--Middle Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:49Z",
+  "layer_modified_dt": "2023-03-14T19:53:12Z",
   "dc_language_sm": [
     "eng"
   ],

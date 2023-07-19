@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T32N55KV",
   "dc_rights_s": "Public",
   "dc_title_s": "Delaware River Channel Examination Gloucester to Edgemoor",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56817",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.429061,-74.87726,39.888317,39.514967)",
   "solr_year_i": "1969",
   "dc_description_s": "Map covers the Delaware River from Gloucester to Edgemoor. |Map shows soundings from West Horse Shoe Range, Horseshoe Bend, Reach M, Billingsport Range, Mifflin Range, Tinicum Range, Chester Range, Eddystone Range, Marcus Hook Range, and Bellvue Range.",
   "dc_format_s": "PDF",
@@ -14,10 +14,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56817\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56817/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "West Horseshoe RangeGloucester County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:57Z",
+  "layer_modified_dt": "2023-03-14T19:51:42Z",
   "dc_language_sm": [
     "eng"
   ],

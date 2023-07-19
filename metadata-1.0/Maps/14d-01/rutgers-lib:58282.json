@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3KS6W27",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead lines on Parker's Creak & Oceanport Creek",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58282",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.0512,-73.9954,40.3422,40.2986)",
   "solr_year_i": "1924",
   "dc_description_s": "Map showing pierhead and bulkhead lines on Parker's Creak & Oceanport Creek . Board of Commerce and Navigation Map No. 179.",
   "dc_format_s": "PDF",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58282\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58282/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Parker's Creek",
-    "Oceanport, New Jersey",
+    "New Jersey--Oceanport",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:12Z",
+  "layer_modified_dt": "2023-03-14T19:52:32Z",
   "dc_language_sm": [
     "eng"
   ],

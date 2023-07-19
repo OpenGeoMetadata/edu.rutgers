@@ -3,12 +3,12 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3W37WW8",
   "dc_rights_s": "Public",
   "dc_title_s": "Middlesex County, New Jersey, engineering soil map 2",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:19667",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1953",
   "dc_creator_sm": [
-    "New Jersey State Highway Department"
+    "New Jersey. State Highway Department"
   ],
   "dc_description_s": "Sheet 2 of 3 in an engineering soil map prepared by the Joint Highway Research Project, New Jersey State Highway Department and Rutgers University in cooperation with the Bureau of Public Roads, U.S. Department of Commerce utilizing a base map of Middlesex County, New Jersey. Inset key maps of all three sheets and of the state. Indicates boundaries for soil groups, county, state and municipal.|Noticeable fading of text.",
   "dc_format_s": "JPEG",
@@ -17,9 +17,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/19667/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/19667/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/19667\"}",
   "dct_spatial_sm": [
-    "Middlesex",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:33:54Z",
+  "layer_modified_dt": "2023-03-14T19:52:41Z",
   "dct_issued_s": "1953"
 }

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3NK3JB3",
   "dc_rights_s": "Public",
   "dc_title_s": "Big Timber Creek",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56803",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.1453,-75.1126,39.8876,39.8562)",
   "solr_year_i": "1931",
   "dc_description_s": "Map 1: Shows area from Delaware River to Marters Wharf, including Big Timber Creek and Little Timber Creek. Map also shows water depths for Big Timber Creek, disposal site between Big Timber Creek and Little Timber Creek, mean low water and proposal for dredging of Big Timber Creek.|Map 2: Map shows area from the Delaware River to Marters Wharf including Big Timber Creek. Map shows water depths for Big Timber Creek as well as buildings, West Jersey and Seashore Railroad, and Westville Highway Bridge. Map also shows mean low water and proposed dredging of Big Timber Creek.|Map 3: Map shows area from Delaware River to Marters Wharf. In addition to water depths, map shows disposal buildings along Big Timber Creek. Map also shows mean low water and proposed dredging of Big Timber Creek.|Map 4: Map includes proposed cut offs 1 and 2 just before Marter's Wharf. Map shows disposal area between cut off 1 and cut off 2, mean low water line, and proposed dredging of Big Timber Creek.|Map 5: Map covers area of Marter's Wharf on Big Timber Creek. Map includes proposed cut off No. 2, disposal area, low mean water line and proposed dredging of Big Timber Creek.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56803\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56803/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Westville, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Westville",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:56Z",
+  "layer_modified_dt": "2023-03-14T19:51:20Z",
   "dc_language_sm": [
     "eng"
   ],

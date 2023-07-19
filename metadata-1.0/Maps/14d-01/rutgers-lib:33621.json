@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3KW5FD0",
   "dc_rights_s": "Public",
   "dc_title_s": "Survey of property of same at Shooters Island, N.Y. showing depths of water in Newark Bay on the north and west sides of the island",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33621",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1916",
   "dc_description_s": "Scale: 1:960|January 15-24, 1916",
   "dc_format_s": "JPEG",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33621/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33621/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33621\"}",
   "dct_spatial_sm": [
-    "Staten Island, New York",
-    "Shooters Island",
-    "Hudson County",
-    "Newark Bay, New Jersey",
+    "New York--Staten Island",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:37Z",
+  "layer_modified_dt": "2023-03-14T19:54:14Z",
   "dc_language_sm": [
     "eng"
   ],

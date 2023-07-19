@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T35D8W5T",
   "dc_rights_s": "Public",
   "dc_title_s": "Erie Railroad Encroachment",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56824",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1900",
   "dc_description_s": "Set of two maps of the Erie Railroad encroachment in Jersey City. Map one shows the bulkhead in process of construction, Gregory's Dock, the Commissioner's line for solid filling and the high water line. Map two shows the crib work secured by piles, solid filling, and the Commissioner's exterior line for solid filling.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56824\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56824/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Gregory's Dock",
-    "Hudson County",
-    "Jersey City, New Jersey",
+    "New Jersey--Hudson County",
+    "New Jersey--Jersey City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:57Z",
+  "layer_modified_dt": "2023-03-14T19:51:48Z",
   "dc_language_sm": [
     "eng"
   ],

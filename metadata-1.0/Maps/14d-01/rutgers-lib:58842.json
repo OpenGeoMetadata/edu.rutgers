@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3TX3K01",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead lines on Great Egg Harbor River in the Township of Hamilton in the County of Atlantic",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58842",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
   "solr_year_i": "1954",
   "dc_description_s": "Two copies of map showing pierhead and bulkhead lines on Great Egg Harbor River. Bureau of Navigation map number 510.",
   "dc_format_s": "PDF",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58842\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58842/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Great Egg Harbor River, New Jersey",
-    "Atlantic County",
-    "Hamilton (",
-    "Atlantic County, New Jersey : Township)",
+    "New Jersey--Great Egg Harbor River",
+    "New Jersey--Atlantic County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:23Z",
+  "layer_modified_dt": "2023-03-14T19:52:31Z",
   "dc_language_sm": [
     "eng"
   ],

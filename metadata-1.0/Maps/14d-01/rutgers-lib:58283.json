@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3G164CN",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead lines on Navesink or North Shrewsbury River adopted July 21, 1924",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58283",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1924",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58283\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58283/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "North Shrewsbury River, New Jersey",
-    "Shrewsbury, New Jersey",
+    "New Jersey--North Shrewsbury River",
+    "New Jersey--Shrewsbury",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:12Z",
+  "layer_modified_dt": "2023-03-14T19:52:32Z",
   "dc_language_sm": [
     "eng"
   ],

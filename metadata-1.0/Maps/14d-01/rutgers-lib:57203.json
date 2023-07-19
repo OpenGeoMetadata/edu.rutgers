@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3959MZ1",
   "dc_rights_s": "Public",
   "dc_title_s": "Sketch of Sea Wall on Bedlow's Island with Various Lines to Show Different Proposed Prolongation of it to the Old Wharf",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57203",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1860",
   "dc_description_s": "Map is of Fort Wood with the low and high water lines, the temporary wharf and lines representing the different sites of proposed extensions of sea wall; from the national archives.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57203\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57203/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Bedlow's Island",
-    "Hudson County",
+    "New Jersey--Hudson County",
     "New York",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:05Z",
+  "layer_modified_dt": "2023-03-14T19:53:40Z",
   "dc_language_sm": [
     "eng"
   ],

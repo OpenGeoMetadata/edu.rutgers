@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T30G3MRC",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the Village of Passaic, 1872.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:3985",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1872",
@@ -14,7 +14,7 @@
     "New Jersey--Passaic",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:46Z",
+  "layer_modified_dt": "2023-03-14T19:52:22Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3F47MZ5",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of Ocean View Atlantic County N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:38587",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
   "solr_year_i": "1882",
   "dc_description_s": "Map of Ocean View property development along the Absecon Channel|Map has inset showing location within a larger context including the railroads and Delaware River, possibly to illustrate routes for trade and commerce.",
   "dc_format_s": "JPEG",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38587/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38587/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38587\"}",
   "dct_spatial_sm": [
-    "Abescon Channel, New Jersey",
-    "Absecon Inlet",
-    "Ocean View,, New Jersey",
-    "Atlantic County",
+    "New Jersey--Abescon Channel",
+    "New Jersey--Ocean View",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:43Z",
+  "layer_modified_dt": "2023-03-14T19:53:06Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T398879M",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Bergen County, New Jersey.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:24768",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
   "solr_year_i": "1938",
   "dc_description_s": "3813/B40/030/1938AA",
   "dc_format_s": "JPEG",
@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24768/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24768/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/24768\"}",
   "dct_spatial_sm": [
-    "Bergen County",
+    "New Jersey--Bergen County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:07Z",
+  "layer_modified_dt": "2023-03-14T19:52:13Z",
   "dc_language_sm": [
     "eng"
   ],

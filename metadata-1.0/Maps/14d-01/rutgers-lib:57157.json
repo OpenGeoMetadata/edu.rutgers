@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T34X5C5B",
   "dc_rights_s": "Public",
   "dc_title_s": "Revised Plan presented to the Harbor Line Board",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57157",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1891",
   "dc_description_s": "Map shows the boundary line between N.Y. and N.J., C.R.R. of N.J., pile bridges connecting R.R. from mainland to areas filled in N.Y. Bay, and the hydrology of the water between Ellis Island and Bedloes Island. |NOTE: Map is NOT to SCALE",
   "dc_format_s": "PDF",
@@ -14,18 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57157\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57157/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "East River (N.Y.)",
-    "Hudson CountyJersey City, New Jersey",
-    "Bayonne, New Jersey",
-    "New York",
-    "New York",
-    " (N.Y.)",
-    "New York",
-    "Brook",
-    "lyn",
+    "New Jersey--Hudson County",
+    "New Jersey--Bayonne",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:04Z",
+  "layer_modified_dt": "2023-03-14T19:53:16Z",
   "dc_language_sm": [
     "eng"
   ],

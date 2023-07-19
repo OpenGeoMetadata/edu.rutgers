@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3QZ2F63",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing a portion of Beach Thoroughfare adjoining Atlantic City, NJ I",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56208",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.5013,-74.4060,39.4176,39.3427)",
   "solr_year_i": "1887",
   "dc_description_s": "Map covers area from Brighton Avenue to Penrose Canal along Beach Thoroughfare. Map shows exterior lines for piers, grants, properties, and railroads.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56208\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56208/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Grant to Frederick Hemsley September 20, 1900",
-    "Atlantic County",
-    "Atlantic City, New Jersey",
+    "New Jersey--Atlantic County",
+    "New Jersey--Atlantic City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:46Z",
+  "layer_modified_dt": "2023-03-14T19:52:23Z",
   "dc_language_sm": [
     "eng"
   ],

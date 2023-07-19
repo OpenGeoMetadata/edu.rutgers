@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T33X8B7N",
   "dc_rights_s": "Public",
   "dc_title_s": "Pierhead and bulkhead lines - Arthur Kill, N.Y. & N.J. - Chelsea, Staten Island, to Newark Bay: Linden to Elizabeth, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58786",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.463291,-74.135775,40.73964,40.591925)",
   "solr_year_i": "1942",
   "dc_description_s": "Two copies of a map showing pierhead and bulkhead lines along the Arthur Kill, N.Y. and N.J.",
   "dc_format_s": "PDF",
@@ -14,18 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58786\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58786/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Arthur Kill (New Jersey and New York",
-    ")Union County",
-    "Linden, New Jersey",
-    "Union County",
-    "Elizabeth, New Jersey",
-    "New York",
-    "Richmond County",
-    "Staten Island, New York",
-    "Chelsea",
+    "Atlantic Ocean--Arthur Kill (Newark Bay)",
+    "New Jersey--Union County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:21Z",
+  "layer_modified_dt": "2023-03-14T19:53:00Z",
   "dc_language_sm": [
     "eng"
   ],

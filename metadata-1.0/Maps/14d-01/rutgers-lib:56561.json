@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T36113KJ",
   "dc_rights_s": "Public",
   "dc_title_s": "Official map of North Wildwood, New Jersey I",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56561",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.168462,-74.46493,39.324375,38.788657)",
   "solr_year_i": "1931",
   "dc_description_s": "Map of North Wildwood, NJ showing real estate plots and the high water line along with the exterior riparian line.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56561\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56561/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hereford Inlet Channel",
-    "Cape May County",
-    "North Wildwood, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--North Wildwood",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:52Z",
+  "layer_modified_dt": "2023-03-14T19:52:53Z",
   "dc_language_sm": [
     "eng"
   ],

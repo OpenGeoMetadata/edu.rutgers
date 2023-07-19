@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3B27ZKR",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the Counties of Salem and Gloucester New Jersey 1848",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56815",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.1727,-75.0750,39.8635,39.7682)",
   "solr_year_i": "1848",
   "dc_description_s": "Sheet 2: Gloucester County from Deptford Township to Harrison Township. Map shows Deptford, Harrison, and East Greenwich. Also shows a plan of the town of Salem. |Sheet 3: Salem County from Mannington to Lower Alloway Creek. Map shows municipalities of Lower Penns Neck, Mannington, Pilesgrove, Elsinborough, Upper Alloways Creek, Lower Alloways Creek.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56815\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56815/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware BayGloucester County",
-    "Deptford Township, New JerseySalem County",
-    "Pilesgrove, New Jersey",
+    "New Jersey--Salem County",
+    "New Jersey--Pilesgrove",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:57Z",
+  "layer_modified_dt": "2023-03-14T19:52:21Z",
   "dc_language_sm": [
     "eng"
   ],

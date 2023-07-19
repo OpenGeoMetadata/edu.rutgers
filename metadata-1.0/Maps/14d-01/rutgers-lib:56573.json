@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3N3017K",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing the new exterior line on the easterly side of Beach Thoroughfare at Ocean City, between North Street and Eighteenth Street: Sheet no. 2",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56573",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.6554,-74.5402,39.3101,39.2068)",
   "solr_year_i": "1903",
   "dc_description_s": "Map of Ocean City showing Riparian Commission exterior line.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56573\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56573/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Beach Thoroughfare",
-    "Cape May County",
-    "Ocean City, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--Ocean City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:52Z",
+  "layer_modified_dt": "2023-03-14T19:52:38Z",
   "dc_language_sm": [
     "eng"
   ],

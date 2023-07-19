@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T31N84RH",
   "dc_rights_s": "Public",
   "dc_title_s": "Pierhead and bulkhead lines - Passaic River, N.J. - Montclair and Greenwood Lake R.R. Bridge to Wall St. Bridge, Passaic - In 3 sheets",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58825",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.2377,-74.1825,40.8611,40.7881)",
   "solr_year_i": "1928",
   "dc_description_s": "Pierhead and bulkhead lines - Passaic River, N.J. - Montclair and Greenwood Lake R.R. Bridge to Wall St. Bridge, Passaic - In 3 sheets.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58825\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58825/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Passaic River",
-    "Montclair, New Jersey",
+    "New Jersey--Passaic River",
+    "New Jersey--Montclair",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:23Z",
+  "layer_modified_dt": "2023-03-14T19:53:01Z",
   "dc_language_sm": [
     "eng"
   ],

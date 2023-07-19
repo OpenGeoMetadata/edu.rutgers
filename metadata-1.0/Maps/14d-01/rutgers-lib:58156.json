@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3HT2SWZ",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead line on Cooper River in the Borough of Collingswood in the County of Camden",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58156",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1927",
@@ -14,11 +14,9 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58156\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58156/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cooper River",
-    "Collingswood",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:09Z",
+  "layer_modified_dt": "2023-03-14T19:52:27Z",
   "dc_language_sm": [
     "eng"
   ],

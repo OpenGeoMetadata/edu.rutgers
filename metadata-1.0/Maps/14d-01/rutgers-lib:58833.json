@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T30P13N4",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing modified bulkhead line on Staten Island Sound in city of Elizabeth in the county of Union",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58833",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.463291,-74.135775,40.73964,40.591925)",
   "solr_year_i": "1948",
   "dc_description_s": "Map showing modified bulkhead line on the Staten Island Sound.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58833\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58833/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Staten Island, New York",
-    "Union County",
-    "Elizabeth, New Jersey",
+    "New York--Staten Island",
+    "New Jersey--Union County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:23Z",
+  "layer_modified_dt": "2023-03-14T19:52:24Z",
   "dc_language_sm": [
     "eng"
   ],

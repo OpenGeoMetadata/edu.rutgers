@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3NK3JHB",
   "dc_rights_s": "Public",
   "dc_title_s": "Revised pierhead and bulkhead lines for southerly shore of Staten Island New York Oakwood to Wards Point Borough of Richmond, New York City",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57976",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1922",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57976\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57976/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Staten Island, New York",
+    "New York--Staten Island",
     "New York",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:07Z",
+  "layer_modified_dt": "2023-03-14T19:53:16Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/t3-ebet-9514",
   "dc_rights_s": "Public",
   "dc_title_s": "State of New Jersey Department of Environmental Protection Powell Creek - Marmora",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:63432",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.8822,-74.6008,39.3249,39.1688)",
   "solr_year_i": "1977",
   "dc_description_s": "Aerial photographic map of Powell Creek - Marmora in accordance with The Wetlands Act of 1970.",
   "dc_format_s": "JPEG",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63432/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63432/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63432\"}",
   "dct_spatial_sm": [
-    "Cape May County",
-    "Upper Township, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--Upper Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:48Z",
+  "layer_modified_dt": "2023-03-14T19:54:04Z",
   "dc_language_sm": [
     "eng"
   ],

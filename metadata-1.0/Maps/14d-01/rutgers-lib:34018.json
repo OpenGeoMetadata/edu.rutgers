@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T37M078Z",
   "dc_rights_s": "Public",
   "dc_title_s": "Bordentown-Trenton Delaware River Bordentown-Hutchinsons Pond Sea Level Project between Bordentown Cheesequake Creek",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:34018",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.7750,-74.6741,40.1837,40.1131)",
   "solr_year_i": "1911",
   "dc_description_s": "Area from Bordentown to Hutchinsons Pond|\"sheet number: 5|scale: 1 inch = 1000 feet|Date: October4, 1911|Condition: Good|Map shows contour lines, monuments, triangulation, boring, and low water locations. Woods, cultivated, concrete, marsh and trees, and brush areas. Soundings for the Delaware River. The Delaware River and Crosswicks Creek, and Carlyle Creek are shown. There are two tables: 1) info about borings, 2) about triangulation and benchmarks\"",
   "dc_format_s": "PDF",
@@ -14,12 +14,13 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/34018\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/34018/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Bordentown Township, New Jersey",
-    "Mercer County",
-    "Whitehorse",
+    "United States--Delaware River",
+    "New Jersey--Bordentown Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:07Z",
+  "layer_modified_dt": "2023-03-14T19:51:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
   "dct_issued_s": "1911-10-04"
 }

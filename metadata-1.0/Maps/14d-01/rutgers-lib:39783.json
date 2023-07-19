@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3ZP44TM",
   "dc_rights_s": "Public",
   "dc_title_s": "City of Absecon, Atlantic County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:39783",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
   "solr_year_i": "1941",
   "dc_description_s": "This is one in a series of 455 mid 20th century fire insurance maps produced by the Fire Insurance Rating Organization of New Jersey.|Municipal Fire Insurance Maps",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39783\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39783/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Atlantic County",
-    "Absecon, New Jersey",
+    "New Jersey--Atlantic County",
+    "New Jersey--Absecon",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:20Z",
+  "layer_modified_dt": "2023-03-14T19:51:30Z",
   "dc_language_sm": [
     "eng"
   ],

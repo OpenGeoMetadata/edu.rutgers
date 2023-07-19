@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3H41VS5",
   "dc_rights_s": "Public",
   "dc_title_s": "Port Facilities at Port of New York - Hudson River - New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57051",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.0439,-74.0203,40.7589,40.7334)",
   "solr_year_i": "1934",
   "dc_description_s": "Map covers area from Verona Avenue to 4th Avenue along Passaic River in Kearny. Map depicts water depths, roads, and businesses along Passaic River.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57051\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57051/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Hoboken, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Hoboken",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:01Z",
+  "layer_modified_dt": "2023-03-14T19:53:09Z",
   "dc_language_sm": [
     "eng"
   ],

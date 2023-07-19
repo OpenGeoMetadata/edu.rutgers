@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3RJ4P1P",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead lines on Rancocas River in the Townships of Riverside and Delanco in the County of Burlington",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58633",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.9730,-74.9368,40.0445,40.0239)",
   "solr_year_i": "1934",
   "dc_description_s": "Map showing pierhead and bulkhead lines on the Rancocas River in Riverside and Delanco. Board of Commerce and Navigation map number 450.",
   "dc_format_s": "PDF",
@@ -14,14 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58633\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58633/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Rancocas River",
-    "Burlington County",
-    "Riverside Township, New Jersey",
-    "Burlington County",
-    "Delanco, New Jersey",
+    "New Jersey--Burlington County",
+    "New Jersey--Riverside Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:19Z",
+  "layer_modified_dt": "2023-03-14T19:52:32Z",
   "dc_language_sm": [
     "eng"
   ],

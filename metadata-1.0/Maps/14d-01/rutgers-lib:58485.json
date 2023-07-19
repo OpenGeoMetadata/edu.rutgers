@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T32R3W7B",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead line on Lake's Bay in the Township of Egg Harbor in the County of Atlantic",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58485",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
   "solr_year_i": "1927",
   "dc_description_s": "Map showing pierhead and bulkhead line on Lake's Bay in the Township of Egg Harbor in the County of Atlantic. Board of Commerce and Navigation Map No. 249.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58485\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58485/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Lake's Bay",
-    "Atlantic County",
-    "Egg Harbor (New Jersey: Township)",
+    "New Jersey--Atlantic County",
+    "New Jersey--Egg Harbor (Township)",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:16Z",
+  "layer_modified_dt": "2023-03-14T19:52:28Z",
   "dc_language_sm": [
     "eng"
   ],

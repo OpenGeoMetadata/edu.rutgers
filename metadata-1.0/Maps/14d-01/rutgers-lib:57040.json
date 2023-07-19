@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3XD151H",
   "dc_rights_s": "Public",
   "dc_title_s": "Delaware River Front of Salem County",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57040",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.5340,-75.4593,39.5783,39.4941)",
   "solr_year_i": "1883",
   "dc_description_s": "Sheet 1: Map covers area from Oldmans Creek to Penns Neck. Map depicts low/high water lines: lines of 6 feet in blue and lines of 12 feet in green. Map also includes Bradways Creek and Bout Creek.|Sheet 2: Map covers area from Penns Neck on North to Hope Creek on South. Map depicts high/low water lines of the Delaware River: lines of 6 feet in blue and lines of 12 feet in green.|Sheet 3: Map covers area from Stony Point to Stow Creek along the Delaware River. Map depicts high/low water lines of the Delaware River: lines of 6 feet in blue and lines of 12 feet in green.Map includes Stow Creek, Stony Inlet, and Hope Creek.",
   "dc_format_s": "PDF",
@@ -14,17 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57040\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57040/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Pennsville, New Jersey",
-    "Salem County",
-    "Penns Grove, New Jersey",
-    "Gloucester CountySalem County",
-    "Elsinboro Township, New JerseyMercer County",
-    "Penns Neck (Mercer County, New Jersey)",
-    "Cumberland County",
+    "United States--Delaware River",
+    "New Jersey--Pennsville",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:01Z",
+  "layer_modified_dt": "2023-03-14T19:51:43Z",
   "dc_language_sm": [
     "eng"
   ],

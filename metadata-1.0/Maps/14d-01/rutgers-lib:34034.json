@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T35T3JS0",
   "dc_rights_s": "Public",
   "dc_title_s": "Land use/land cover map for Township of Old Bridge",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:34034",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
   "solr_year_i": "1993",
   "dc_description_s": "Map showing land use/land cover in Old Bridge Township.|Prepared for the Old Bridge Township Environmental Commission with a grant from the New Jersey Department of Environmental Protection, Office of Environmental Services.|Job No. 93207G|Scale: 1:24000|Dec. 13, 1993",
   "dc_format_s": "PDF",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/34034\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/34034/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Middlesex County, New Jersye",
-    "Old Bridge (Middlesex County, New Jersey : Township)",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:07Z",
+  "layer_modified_dt": "2023-03-14T19:52:07Z",
   "dc_language_sm": [
     "eng"
   ],

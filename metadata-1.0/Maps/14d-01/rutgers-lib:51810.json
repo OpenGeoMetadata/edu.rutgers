@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3FX7CVV",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of West Point Islands, Dover Township, Ocean County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51810",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.5791,-74.5380,40.9043,40.8726)",
   "solr_year_i": "1926",
   "dc_description_s": "This is a map of property lots along Barnegat Bay in West Point Islands. The blocks and individual lots are numbered and major roads are labelled. The blocks across the harbor in the Borough of Lavallette are also outlined but the property lots are not labelled.|Source map supplied by New Jersey Department of Environmental Protection",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51810\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51810/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
-    "Dover Township, New Jersey",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:44Z",
+  "layer_modified_dt": "2023-03-14T19:53:08Z",
   "dc_language_sm": [
     "eng"
   ],

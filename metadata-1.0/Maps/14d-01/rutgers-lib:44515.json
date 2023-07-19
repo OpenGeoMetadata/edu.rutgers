@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3H70D5C",
   "dc_rights_s": "Public",
   "dc_title_s": "Survey of lot 230, Area 1 80/100, map no. 2 of the estate of Albert B. Christie, Ridgefield Park, Bergen County, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44515",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
   "solr_year_i": "1907",
   "dc_description_s": "Map showing a survey of the estate of Albert B. Christie along the Overpeck Creek|Source map supplied by New Jersey Department of Environmental Protection|For Mr. L. Bausoack, J. Kistner, and Others.|No 1975, Survey Book 55 pages, 46, etc., Deed Book, 564 pages 307, etc.",
   "dc_format_s": "PDF",
@@ -14,13 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44515\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44515/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Overpeck Creek",
-    ", New Jersey",
-    "Bergen County",
-    "Ridgefield Park, New Jersey",
+    "New Jersey--Bergen County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:41Z",
+  "layer_modified_dt": "2023-03-14T19:54:13Z",
   "dc_language_sm": [
     "eng"
   ],

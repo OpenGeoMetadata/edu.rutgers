@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3FT8Q95",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the south point division of Sea Isle City",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56497",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.7184,-74.6698,39.1834,39.1179)",
   "solr_year_i": "1883",
   "dc_description_s": "Map of the South Point Division of Sea Isle City, NJ showing Holly Avenue to the North, Inlet Avenue to the south, the Atlantic Ocean to the east and Thoroughfare to the west. Includes an engineer's report of Sea Isle City, Ludlam Island, NJ.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56497\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56497/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cape May County",
-    "Sea Isle City, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--Sea Isle City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:51Z",
+  "layer_modified_dt": "2023-03-14T19:52:22Z",
   "dc_language_sm": [
     "eng"
   ],

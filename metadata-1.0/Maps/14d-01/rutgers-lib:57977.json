@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3HT2SVH",
   "dc_rights_s": "Public",
   "dc_title_s": "Pierhead and bulkhead lines Arthur Kill, N.Y. & N.J. Chelsea Staten Island, to Newark Bay: Linden to Elizabeth, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57977",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1942",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57977\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57977/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Arthur Kill (New Jersey and New York",
-    ")Elizabeth, New Jersey",
-    "Linden, New Jersey",
+    "Atlantic Ocean--Arthur Kill (Newark Bay)",
+    "New Jersey--Elizabeth",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:07Z",
+  "layer_modified_dt": "2023-03-14T19:53:01Z",
   "dc_language_sm": [
     "eng"
   ],

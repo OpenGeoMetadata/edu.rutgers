@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3WW7N6B",
   "dc_rights_s": "Public",
   "dc_title_s": "Modification in the pierhead line for the west shore of the Arthur Kill, New Jersey, from Smith Street, Perth Amboy, north to Ploughshare Point",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57999",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
   "solr_year_i": "1892",
   "dc_description_s": "Two copies of a map showing modifications in the pierhead line for the West Shore of the Arthur Kill.",
   "dc_format_s": "PDF",
@@ -14,15 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57999\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57999/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Arthur Kill (New Jersey and New York",
-    ")Middlesex County, New Jersye",
-    "Perth Amboy, New Jersey",
-    "New York",
-    "Staten Island, New York",
-    "Tottenville",
+    "Atlantic Ocean--Arthur Kill (Newark Bay)",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:08Z",
+  "layer_modified_dt": "2023-03-14T19:52:41Z",
   "dc_language_sm": [
     "eng"
   ],

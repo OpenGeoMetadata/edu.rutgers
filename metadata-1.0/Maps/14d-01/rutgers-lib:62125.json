@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/t3-nj2x-9266",
   "dc_rights_s": "Public",
   "dc_title_s": "Year 2000 land use & open space plan, adopted October 1979",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:62125",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1979",
@@ -18,7 +18,7 @@
     "Delaware",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:23Z",
+  "layer_modified_dt": "2023-03-14T19:54:22Z",
   "dc_language_sm": [
     "eng"
   ],

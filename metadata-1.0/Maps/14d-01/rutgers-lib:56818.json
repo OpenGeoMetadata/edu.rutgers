@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3XW4P41",
   "dc_rights_s": "Public",
   "dc_title_s": "Delaware River Harbor Lines: Pennsylvania Shore from mouth of Schuykill River to Greenwich Point, New Jersey Shore from Red Bank to Newton Creek",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56818",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.0890,-74.9681,39.8529,39.7256)",
   "solr_year_i": "1920",
   "dc_description_s": "Area along Delaware River from Red Bank to Newton Creek in New Jersey to Newton Creek in New Jersey and and Schuylkill River to Greenwich in Pennsylvania. |Map shows parts of League Island, Hopewell Cove, Big Timber Creek, Schuylkill River, Horseshoe Shoal, Newton Creek. Map also has detailed sketches showing locations of stations and a table of courses, bearings, and distances.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56818\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56818/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Delaware River",
-    "Gloucester Township, New Jersey",
+    "United States--Delaware River",
+    "New Jersey--Gloucester County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:57Z",
+  "layer_modified_dt": "2023-03-14T19:51:43Z",
   "dc_language_sm": [
     "eng"
   ],

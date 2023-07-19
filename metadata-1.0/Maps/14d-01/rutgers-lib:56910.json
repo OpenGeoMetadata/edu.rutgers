@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3057K83",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Lots in Vicinity of Wooleys Grave Yard and Lands of Harvey Saylor & Wife",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56910",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1607,-74.0499,40.1372,40.0011)",
   "solr_year_i": "1900",
   "dc_description_s": "Map covers area from Wooleys Grave Yard to the Road to Lucy's Cove. Map shows the properties of Charles W. Jones and James A. Jones as well as Harvey Salylor and Wife.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56910\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56910/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Wooley's Grave Yard",
-    "Ocean County",
-    "Brick Township, New Jersey",
+    "New Jersey--Ocean County",
+    "New Jersey--Brick Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:59Z",
+  "layer_modified_dt": "2023-03-14T19:52:16Z",
   "dc_language_sm": [
     "eng"
   ],

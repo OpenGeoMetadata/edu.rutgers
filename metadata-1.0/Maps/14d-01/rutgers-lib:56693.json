@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T32B929F",
   "dc_rights_s": "Public",
   "dc_title_s": "Plans for rebuilding the Holly Beach Turnpike extending from Rio Grande to Holly Beach, Cape May County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56693",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.9365,-74.7156,39.1794,38.9911)",
   "solr_year_i": "1909",
   "dc_description_s": "There are twelve sheets in this map packet. Maps show the plans for the Holly Beach Turnpike including detailed sketches of certain points along the road. The packet contains a map of location, five sheets of cross sections, four pages of profiles, and one page of bulkhead elevation.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56693\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56693/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Richardson's Channel",
-    "Cape May County",
-    "Middle Township, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--Middle Township",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:55Z",
+  "layer_modified_dt": "2023-03-14T19:53:08Z",
   "dc_language_sm": [
     "eng"
   ],

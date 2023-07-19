@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T37W6GQQ",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead line and bulkhead line Mullica River in the Township of Washington in the County of Burlington",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58242",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.059913,-74.389708,40.183651,39.541198)",
   "solr_year_i": "1931",
   "dc_description_s": "Map showing pierhead line and bulkhead line on Mullica River in the Township of Washington. Board of Commerce and Navigation map number 316.",
   "dc_format_s": "PDF",
@@ -14,12 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58242\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58242/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Mullica River",
-    "Burlington County",
-    "Washington",
+    "New Jersey--Burlington County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:11Z",
+  "layer_modified_dt": "2023-03-14T19:52:33Z",
   "dc_language_sm": [
     "eng"
   ],

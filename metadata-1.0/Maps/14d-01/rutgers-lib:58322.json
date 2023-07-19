@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3NG4V6C",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead line on Hackensack River in the City of Jersey City in the County of Hudson - Adopted April 19, 1926",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58322",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1926",
   "dc_description_s": "Map showing pierhead and bulkhead line on Hackensack River in the City of Jersey City in the County of Hudson - Adopted April 19, 1926. Board of Commerce and Navigation Map No. 211.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58322\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58322/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Jersey City, New Jersey",
+    "United States--Hackensack River",
+    "New Jersey--Jersey City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:13Z",
+  "layer_modified_dt": "2023-03-14T19:52:27Z",
   "dc_language_sm": [
     "eng"
   ],

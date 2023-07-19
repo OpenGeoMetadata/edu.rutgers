@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3TX3JRG",
   "dc_rights_s": "Public",
   "dc_title_s": "Sketch of proposed dry dock improvements between Ellis and Bedloes Islands, New York Harbor",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57228",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1900",
   "dc_description_s": "Map shows plans for the area between Bedloes and Ellis Islands. Includes bulkheads, areas to be dredged, and inset of typical section of dry dock.",
   "dc_format_s": "PDF",
@@ -15,12 +15,10 @@
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57228\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57228/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
     "New York",
-    " Bay (N.Y. and New Jersey)",
-    "Hudson County",
-    "Jersey City, New Jersey",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:05Z",
+  "layer_modified_dt": "2023-03-14T19:53:39Z",
   "dc_language_sm": [
     "eng"
   ],

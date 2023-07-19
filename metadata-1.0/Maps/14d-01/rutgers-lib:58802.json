@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3W66QC4",
   "dc_rights_s": "Public",
   "dc_title_s": "Tentative layout for pierhead & bulkhead lines in the city of Brigantine on Wading Thorofare and Obe's Thorofare",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58802",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
   "solr_year_i": "1930",
   "dc_description_s": "Map showing tentative layout for pierhead and bulkhead lines on Wading Thorofare and Obe's Thorofare in Brigantine.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58802\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58802/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Obe's Thorofare",
-    "Atlantic County",
-    "Brigantine, New Jersey",
+    "New Jersey--Atlantic County",
+    "New Jersey--Brigantine",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:22Z",
+  "layer_modified_dt": "2023-03-14T19:54:15Z",
   "dc_language_sm": [
     "eng"
   ],

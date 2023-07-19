@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3KS6PS5",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the property of the Water-Front Realty Company, situated in the Boroughs of Edgewater and Cliffside, Bergen Co., N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:43406",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
   "solr_year_i": "1905",
   "dc_description_s": "Map showing the property lines of the Water-Front Realty Company, and the pierhead and bulkhead lines extending into the Hudson River|Source map supplied by New Jersey Department of Environmental Protection",
   "dc_format_s": "PDF",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43406\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43406/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Edgewater, New Jersey",
-    "Bergen County",
-    "Cliffside",
+    "United States--Hudson River",
+    "New Jersey--Edgewater",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:39Z",
+  "layer_modified_dt": "2023-03-14T19:52:22Z",
   "dc_language_sm": [
     "eng"
   ],

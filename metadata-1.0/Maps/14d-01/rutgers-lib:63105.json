@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/t3-78ew-tj68",
   "dc_rights_s": "Public",
   "dc_title_s": "State of New Jersey Department of Environmental Protection Potato Island - Stone Harbor",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:63105",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.7894,-74.7468,39.0677,39.0153)",
   "solr_year_i": "1971",
   "dc_description_s": "Aerial photographic map of Potato Island - Stone Harbor in accordance with The Wetlands Act of 1970.",
   "dc_subject_sm": [
@@ -13,10 +13,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63105\"}",
   "dct_spatial_sm": [
-    "Stone Harbor, New Jersey",
+    "New Jersey--Stone Harbor",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:30Z",
+  "layer_modified_dt": "2023-03-14T19:54:03Z",
   "dc_language_sm": [
     "eng"
   ],

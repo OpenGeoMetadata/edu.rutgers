@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3PC31Q2",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the N.Y.L.E & W.D. & Imp. Co's Yard at Weehawken, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33761",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1915",
   "dc_description_s": "Scale: 1:1200|Map data from survey made by the Engineering Department, State Board of Assessors, Oct. 1914.|Dec. 1915|All bearings referred to True North. Survey notes in Book HL 1-1913, pages 42 to 47, and Book HL 2-1913, pages 16 to 24.|Contains sketch showing location of pierhead and bulkhead lines in front of N.Y.L.E. & W.R.R. Yard at Weehawken, N.J. at scale 1:5000.",
   "dc_format_s": "JPEG",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33761/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33761/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33761\"}",
   "dct_spatial_sm": [
-    "Hudson County",
-    "Weehawken, New Jersey",
+    "New Jersey--Hudson County",
+    "New Jersey--Weehawken",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:39Z",
+  "layer_modified_dt": "2023-03-14T19:52:22Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3833W9J",
   "dc_rights_s": "Public",
   "dc_title_s": "Plan of lots of the Avalon Improvement Co. Avalon, N.J. III",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56514",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.168462,-74.46493,39.324375,38.788657)",
   "solr_year_i": "1903",
   "dc_description_s": "Map of Avalon showing grants for real estate lots 25-41 between Twenty Fifth and Forty Second Street. Map covers area from Twenty Fifth Street to the north, Forty Second Street to the south, Fourth Avenue to the west, and Boulevard to the east.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56514\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56514/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cape May County",
-    "Avalon, New Jersey",
+    "New Jersey--Cape May County",
+    "New Jersey--Avalon",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:51Z",
+  "layer_modified_dt": "2023-03-14T19:53:06Z",
   "dc_language_sm": [
     "eng"
   ],

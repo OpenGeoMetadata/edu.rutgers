@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3VM4BKB",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Newark Bay: Portion of exterior lines on the easterly shore",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33685",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1877",
   "dc_description_s": "Dec 30, 1877|Property owners are indicated on the map.",
   "dc_format_s": "JPEG",
@@ -15,16 +15,10 @@
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33685/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33685/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33685\"}",
   "dct_spatial_sm": [
     "New York",
-    " Bay",
-    "Hudson County",
-    "Jersey City, New Jersey",
-    "Hudson County",
-    "Bayonne, New Jersey",
-    "Hudson County",
-    "Newark Bay, New Jersey",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:38Z",
+  "layer_modified_dt": "2023-03-14T19:52:17Z",
   "dc_language_sm": [
     "eng"
   ],

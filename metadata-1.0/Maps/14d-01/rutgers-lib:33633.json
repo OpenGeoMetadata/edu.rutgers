@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T34T6HRZ",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Jersey City, Hoboken, and North Bergen in Hudson County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33633",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
   "solr_year_i": "1890",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
@@ -13,15 +13,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33633/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33633/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33633\"}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Jersey City, New Jersey",
-    "Hudson County",
-    "Hoboken, New Jersey",
-    "Bergen County",
-    "North Bergen, New Jersey",
+    "United States--Hudson River",
+    "New Jersey--Jersey City",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:38Z",
+  "layer_modified_dt": "2023-03-14T19:52:16Z",
   "dc_language_sm": [
     "eng"
   ],

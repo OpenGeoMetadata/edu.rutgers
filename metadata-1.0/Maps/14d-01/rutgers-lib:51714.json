@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T37083SV",
   "dc_rights_s": "Public",
   "dc_title_s": "Deed William J. Wheeler and others to Anna Margaret Reid",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:51714",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1917",
   "dc_description_s": "This 2 page deed includes details about the conveyance of two tracts of land near Barnegat Inlet. The deed is stapled to an accompanying map which illustrates the tracts of land conveyed by the deed.|Source map supplied by New Jersey Department of Environmental Protection|This deed was recorded in Book 504, Page 17 of Deeds of Ocean County.",
   "dc_format_s": "PDF",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51714\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51714/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
-    "Union (",
-    "Ocean County, New Jersey : Township)",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:43Z",
+  "layer_modified_dt": "2023-03-14T19:51:41Z",
   "dc_language_sm": [
     "eng"
   ],

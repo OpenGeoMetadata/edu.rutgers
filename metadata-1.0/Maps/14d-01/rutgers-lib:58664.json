@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T36D5XJB",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead line on Forked River in the Village of Forked River - County of Ocean",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58664",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
   "solr_year_i": "1945",
   "dc_description_s": "Map showing pierhead and bulkhead line on the Forked River in the Village of Forked River. Division of Navigation map number 490.",
   "dc_format_s": "PDF",
@@ -14,12 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58664\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58664/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Forked River",
-    "Ocean County",
-    "Forked River",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:20Z",
+  "layer_modified_dt": "2023-03-14T19:52:27Z",
   "dc_language_sm": [
     "eng"
   ],

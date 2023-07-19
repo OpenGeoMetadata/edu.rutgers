@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3WM1CR5",
   "dc_rights_s": "Public",
   "dc_title_s": "Map accompanying application of the Mayor and Council of the City of Bayonne, N.J. to the Board of Riparian Commissioners of the State of New Jersey for grant of lands under water in Newark Bay, City of Bayonne, Hudson County, New Jersey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:33693",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1897",
   "dc_description_s": "Scale: 1:1200|October 15, 1897|Property owners are indicated on the map.",
   "dc_format_s": "JPEG",
@@ -14,13 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33693/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33693/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33693\"}",
   "dct_spatial_sm": [
-    "Hudson County",
-    "Bayonne, New Jersey",
-    "Hudson County",
-    "Newark Bay, New Jersey",
+    "New Jersey--Hudson County",
+    "New Jersey--Bayonne",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:38Z",
+  "layer_modified_dt": "2023-03-14T19:52:10Z",
   "dc_language_sm": [
     "eng"
   ],

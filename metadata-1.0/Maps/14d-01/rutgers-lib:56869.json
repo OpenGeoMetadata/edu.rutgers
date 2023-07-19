@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3ZK5M00",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the Perth Amboy Shore of Staten Island Sound from Fayette Street to Buckingham Avenue Locating the existing Pierhead and Bulkhead Lines with reference to High Street",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56869",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
   "solr_year_i": "1910",
   "dc_description_s": "Map labels the various companies located along the waters edge including Raritan Dry Dock Co., Perth Amboy Dry Dock Co., Standard Oil Co., Merritt's Wharf, and Raritan Mercantile Co.|Map was traced from blueprint Sep. 27, 1917 by H.R. Tooker.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56869\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56869/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Staten Island, New York",
-    "Middlesex County, New Jersye",
-    "Perth Amboy, New Jersey",
+    "New York--Staten Island",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:58Z",
+  "layer_modified_dt": "2023-03-14T19:52:22Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -3,19 +3,19 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3BG2MQN",
   "dc_rights_s": "Public",
   "dc_title_s": "Maps of property belonging to the Estate of J.R. Schuyler, dec'd.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:39469",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1888",
   "dc_description_s": "Present street names marked on this map within parentheses, are shown in RED on original maps.",
   "dc_format_s": "PDF",
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39469\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39469/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson County",
-    "Bayonne, New Jersey",
+    "New Jersey--Hudson County",
+    "New Jersey--Bayonne",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:09Z",
+  "layer_modified_dt": "2023-03-14T19:52:39Z",
   "dc_language_sm": [
     "eng"
   ],

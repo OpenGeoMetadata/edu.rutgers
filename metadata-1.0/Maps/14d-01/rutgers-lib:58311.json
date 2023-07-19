@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3V40ZRP",
   "dc_rights_s": "Public",
   "dc_title_s": "Map showing pierhead and bulkhead line around Pelican Island situate in Barnegat Bay in the Township of Dover - County of Ocean",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:58311",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.5791,-74.5380,40.9043,40.8726)",
   "solr_year_i": "1926",
   "dc_description_s": "Map showing pierhead and bulkhead line around Pelican Island situate in Barnegat Bay in the Township of Dover - County of Ocean. Board of Commerce and Navigation Map No. 205.",
   "dc_format_s": "PDF",
@@ -14,12 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58311\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58311/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Barnegat Bay, New Jersey",
-    "Ocean County",
-    "Dover Township, New Jersey",
+    "New Jersey--Barnegat Bay",
+    "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:13Z",
+  "layer_modified_dt": "2023-03-14T19:52:25Z",
   "dc_language_sm": [
     "eng"
   ],

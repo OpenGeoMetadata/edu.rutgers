@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3BC3WWJ",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian map of the Hudson River line along Hudson and Bergen County, New Jersey, and the corresponding New York City shoreline",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:44356",
   "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
   "solr_year_i": "1906",
@@ -14,21 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44356\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/44356/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Hudson River",
-    "Weehawken, New Jersey",
-    "Hudson County",
-    "Guttenberg, New Jersey",
-    "Hudson County",
-    "Bulls FerryBergen County",
-    "Edgewater, New Jersey",
-    "Bergen County",
-    "Fort Lee (New Jersey : Borough)",
-    "New York",
-    "New York",
-    " (N.Y.)",
+    "United States--Hudson River",
+    "New Jersey--Weehawken",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:40Z",
+  "layer_modified_dt": "2023-03-14T19:53:35Z",
   "dc_language_sm": [
     "eng"
   ],

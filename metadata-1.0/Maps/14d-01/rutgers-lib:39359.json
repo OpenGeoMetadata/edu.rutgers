@@ -3,19 +3,19 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3930RWP",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of property surveyed for Park-Place Homes Inc. Bayonne, N.J.",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:39359",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1941",
   "dc_description_s": "Map showing the dedication of Park Side Lane and 18th St. between Hudson Boulevard and Avenue A north of West 16th St.in accordance with an ordinance passed by the Board of Commissioners of the City of Bayonne, N.J. October 7th 1941.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39359/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39359/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39359\"}",
   "dct_spatial_sm": [
-    "Hudson County",
-    "Bayonne, New Jersey",
+    "New Jersey--Hudson County",
+    "New Jersey--Bayonne",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:45Z",
+  "layer_modified_dt": "2023-03-14T19:52:19Z",
   "dc_language_sm": [
     "eng"
   ],

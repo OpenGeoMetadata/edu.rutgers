@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3S46W87",
   "dc_rights_s": "Public",
   "dc_title_s": "Cooper River from 19th Street to 15th Street",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:56510",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.1371,-75.0661,39.9695,39.8984)",
   "solr_year_i": "1881",
   "dc_description_s": "Map shows area along Cooper River from 19th Street to 15th Street. Map shows land granted by the Board of Commerce and Navigation to the State Highway Commission, lands to be deeded to the Board of Commerce and Navigation by the State Highway Commission, and lands granted to individuals prior to State Highway Construction.",
   "dc_format_s": "PDF",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56510\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56510/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Cooper River",
-    "Camden, New Jersey",
+    "New Jersey--Camden County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:51Z",
+  "layer_modified_dt": "2023-03-14T19:51:35Z",
   "dc_language_sm": [
     "eng"
   ],

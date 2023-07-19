@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3MW2FB8",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the city of Paterson, N.J., from surveys by city surveyor, J.H. Gotschius, C.E., 1871",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:43367",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.2063,-74.1281,40.9419,40.8885)",
   "solr_year_i": "1871",
   "dc_description_s": "Map of Paterson, N.J. from Boyd's Paterson Directory containing personal notes, possibly by a surveyor|Source map supplied by New Jersey Department of Environmental Protection|Personal notes and manicule added regarding lots, etc.|Creases, stains and tears present, significant condition issues|Logo of Boyd's Directory Corps and label of of 'Boyd's Paterson Directory' are printed in upper left corner.",
   "dc_format_s": "PDF",
@@ -14,11 +14,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43367\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/43367/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Passaic River",
-    "Paterson, New Jersey",
+    "New Jersey--Passaic River",
+    "New Jersey--Paterson",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:35:39Z",
+  "layer_modified_dt": "2023-03-14T19:52:21Z",
   "dc_language_sm": [
     "eng"
   ],

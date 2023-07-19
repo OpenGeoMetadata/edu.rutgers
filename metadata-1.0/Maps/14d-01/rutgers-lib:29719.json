@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3FQ9WFC",
   "dc_rights_s": "Public",
   "dc_title_s": "Riparian & stream survey",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:29719",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-75.059913,-74.389708,40.183651,39.541198)",
   "solr_year_i": "1936",
   "dc_description_s": "Project: S-F2-198|Scale: Horizontal 1:1200, Vertical 1:36|Drainage basin: Delaware River|Image is from a copy of the original on Mylar.|Drawn by E.S. Becker|Date July 1936 Approved",
   "dc_format_s": "JPEG",
@@ -14,14 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29719/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29719/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29719\"}",
   "dct_spatial_sm": [
-    "Rancocas Creek",
-    " New Jersey",
-    "Burlington County",
-    "Rancocas Creek",
-    ", New Jersey",
+    "New Jersey--Burlington County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:34:33Z",
+  "layer_modified_dt": "2023-03-14T19:53:23Z",
   "dc_language_sm": [
     "eng"
   ],

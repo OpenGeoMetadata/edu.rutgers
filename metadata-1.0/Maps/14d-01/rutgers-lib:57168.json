@@ -3,9 +3,9 @@
   "dc_identifier_s": "https://doi.org/doi:10.7282/T3QR51H7",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Bedlow's Island New York Harbor",
-  "dct_provenance_s": "Rutgers University",
+  "dct_provenance_s": "Rutgers University-New Brunswick",
   "layer_slug_s": "rutgers-lib:57168",
-  "solr_geom": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
+  "solr_geom": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
   "solr_year_i": "1886",
   "dc_description_s": "Sheet 1: There is a description of proposed light house reservation, the buildings on the island are shown, proposed sea wall, old sea wall, the low water line of December 20, 1850, the present high water line, the high water line, and the pedestal of the statue of liberty.|Sheet 2: Map shows the buildings and their uses, the foot print for the statue of liberty, a proposed sea wall, the low and high water line, the current sea wall, a profile of the statue of liberty with materials and a measurement of the platform.|Sheet 3: Buildings on the island are shown, proposed sea wall, the old sea wall, low water line of December 20 1850, the present high water line and the high water line, and the pedestal of the statue of liberty.",
   "dc_format_s": "PDF",
@@ -14,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57168\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/57168/PDF/1/play/\"}]}",
   "dct_spatial_sm": [
-    "Bedlow's Island",
-    "Hudson County",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "layer_modified_dt": "2022-09-29T21:36:04Z",
+  "layer_modified_dt": "2023-03-14T19:52:13Z",
   "dc_language_sm": [
     "eng"
   ],
