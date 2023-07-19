@@ -4,7 +4,7 @@
     "Map of Glenwood, Short Hills (now Millburn), N.J. which at the time was owned by Tuscan Company.",
     "Gift of the Montagu Hankin estate."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -14,7 +14,8 @@
   "dcat_keyword_sm": [
     "IIIF in process",
     "property",
-    "streets"
+    "streets",
+    "Short Hills--Essex County"
   ],
   "dct_issued_s": "1927",
   "gbl_indexYear_im": [
@@ -24,8 +25,7 @@
     "[1927 TO 1927]"
   ],
   "dct_spatial_sm": [
-    "Short Hills",
-    "Essex",
+    "New Jersey--Essex County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3PC32ZM"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:53Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

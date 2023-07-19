@@ -9,7 +9,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -21,7 +21,13 @@
     "Environmental data",
     "Shellfish",
     "Rivers",
-    "Water"
+    "Water--Shrewsbury River--Atlantic County--Longport",
+    "Monmouth County--Sandy Hook",
+    "Monmouth County--Long Branch",
+    "Monmouth County--Monmouth Beach",
+    "Monmouth County--Sea Bright",
+    "Monmouth County--Monmouth Beach",
+    "Monmouth County--Navesink River"
   ],
   "dct_issued_s": "1963",
   "gbl_indexYear_im": [
@@ -31,21 +37,8 @@
     "[1963 TO 1963]"
   ],
   "dct_spatial_sm": [
-    "Shrewsbury River, New Jersey",
-    "Atlantic County",
-    "Longport, New Jersey",
-    "Monmouth County",
-    "Sandy Hook, New Jersey",
-    "Monmouth County",
-    "Long Branch, New Jersey",
-    "Monmouth County",
-    "Monmouth Beach, New Jersey",
-    "Monmouth County",
-    "Sea Bright, New Jersey",
-    "Monmouth County",
-    "Monmouth Beach, New Jersey",
-    "Monmouth County",
-    "Navesink River, New Jersey",
+    "New Jersey--Shrewsbury River",
+    "New Jersey--Atlantic County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -70,6 +63,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T30V8BS6"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:41Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

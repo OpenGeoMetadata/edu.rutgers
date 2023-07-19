@@ -7,7 +7,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,8 @@
     "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
-    "Road maps"
+    "Road maps",
+    "metadataSprint_2022-11--Bergen County--Fair Lawn"
   ],
   "dct_issued_s": "1947-03-31",
   "gbl_indexYear_im": [
@@ -28,13 +29,13 @@
     "[1947 TO 1947]"
   ],
   "dct_spatial_sm": [
-    "Bergen County",
-    "Fair Lawn, New Jersey",
+    "New Jersey--Bergen County",
+    "New Jersey--Fair Lawn",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.272226 41.133714, -73.893628 41.133714, -73.893628 40.76159, -74.272226 40.76159, -74.272226 41.133714))",
+  "dcat_bbox": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
+  "dcat_centroid": "40.947652,-74.08292700000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3SJ1J7W"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:25Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

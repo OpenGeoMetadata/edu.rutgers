@@ -7,7 +7,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,16 +18,8 @@
     "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
-    "Road maps"
-  ],
-  "dct_issued_s": "1952-03-15",
-  "gbl_indexYear_im": [
-    "1952"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1952 TO 1952]"
-  ],
-  "dct_spatial_sm": [
+    "Road maps",
+    "metadataSprint_2022-11",
     "Bissel",
     "Cokesbury",
     "Fairmount",
@@ -37,13 +29,21 @@
     "Mountainville",
     "Oldwick",
     "Pottersville",
-    "VernoyHunterdon County",
-    "Tewksbury Township, New Jersey",
+    "VernoyHunterdon County--Tewksbury Township"
+  ],
+  "dct_issued_s": "1952-03-15",
+  "gbl_indexYear_im": [
+    "1952"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1952]"
+  ],
+  "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.8464 40.7431, -74.7155 40.7431, -74.7155 40.6251, -74.8464 40.6251, -74.8464 40.7431))",
+  "dcat_bbox": "ENVELOPE(-74.8464,-74.7155,40.7431,40.6251)",
+  "dcat_centroid": "40.6841,-74.78095",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -63,6 +63,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3CN72H8"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:33Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,7 +6,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -16,7 +16,8 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Tidelands",
-    "Geographic Information Systems"
+    "Geographic Information Systems",
+    "metadataSprint_2022-11--Camden County--Woodbury--Camden County--Berlin--Camden County--Westville--Camden County--Kirkwood--Camden County--Blackwood--Camden County--Gloucester County"
   ],
   "dct_issued_s": "1900",
   "gbl_indexYear_im": [
@@ -26,23 +27,13 @@
     "[1900 TO 1900]"
   ],
   "dct_spatial_sm": [
-    "Camden County",
-    "Woodbury, New Jersey",
-    "Camden County",
-    "Berlin, New Jersey",
-    "Camden County",
-    "Westville, New Jersey",
-    "Camden County",
-    "Kirkwood, New Jersey",
-    "Camden County",
-    "Blackwood, New Jersey",
-    "Camden County",
-    "Gloucester Township, New Jersey",
+    "New Jersey--Camden County",
+    "New Jersey--Woodbury",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-75.0890 39.8529, -74.9681 39.8529, -74.9681 39.7256, -75.0890 39.7256, -75.0890 39.8529))",
+  "dcat_bbox": "ENVELOPE(-75.0890,-74.9681,39.8529,39.7256)",
+  "dcat_centroid": "39.789249999999996,-75.02855",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -62,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3MK6H6Q"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:51Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

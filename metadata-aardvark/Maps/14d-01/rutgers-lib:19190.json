@@ -4,7 +4,7 @@
     "Map of Pennsylvania Railroad and it's connections in the states of Pennsylvania and New Jersey along with an inset of lines in Virginia.",
     "Fraying and tears along sides."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -13,7 +13,8 @@
   ],
   "dcat_keyword_sm": [
     "IIIF in process",
-    "railroads"
+    "railroads",
+    "Pennsylvania"
   ],
   "dct_issued_s": "1911",
   "gbl_indexYear_im": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3445N3T"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:52Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

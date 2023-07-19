@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "A descriptive paragraph details the previous maps dating back to 1804 that were utilized to compile the contemporary version. There is also data on assignment of lot numbers and owners of some of these lots. At the bottom right is an artists depiction of the city from the shore of the Cunard Docks by D. H. Arnot."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -13,7 +13,10 @@
   "dcat_keyword_sm": [
     "IIIF in process",
     "city map",
-    "Lot number"
+    "Lot number",
+    "metadataSprint_2022-11",
+    "Jersey City",
+    "Hudson"
   ],
   "dct_issued_s": "1848",
   "gbl_indexYear_im": [
@@ -23,14 +26,12 @@
     "[1848 TO 1848]"
   ],
   "dct_spatial_sm": [
-    "Expansion and Reform (1801-1861)",
-    "Jersey City",
-    "Hudson",
+    "New Jersey--Hudson County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.1166 40.7692, -74.0262 40.7692, -74.0262 40.6668, -74.1166 40.6668, -74.1166 40.7692))",
+  "dcat_bbox": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
+  "dcat_centroid": "40.718,-74.07140000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3MG7QHK"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:34Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -4,7 +4,7 @@
     "Map of the town of Phillipsburg, Warren County, New Jersey, originally created in 1923 and revised in 1939, 1950 and 1951.",
     "Upper corner comprising about 1/8 of the entire map is torn off and missing. Other significant pieces also missing."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -14,7 +14,10 @@
   "dcat_keyword_sm": [
     "IIIF in process",
     "streets",
-    "waterways"
+    "waterways",
+    " Delaware River",
+    "Phillipsburg",
+    "Warren"
   ],
   "dct_issued_s": "1951",
   "gbl_indexYear_im": [
@@ -24,9 +27,7 @@
     "[1951 TO 1951]"
   ],
   "dct_spatial_sm": [
-    "Delaware River",
-    "Phillipsburg",
-    "Warren",
+    "United States--Delaware River",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T30K2947"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:56Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

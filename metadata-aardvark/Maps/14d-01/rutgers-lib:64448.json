@@ -6,7 +6,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,9 @@
     "Tidelands",
     "Geographic Information Systems",
     "Coastal zone",
-    "Wetlands"
+    "Wetlands",
+    "metadataSprint_2022-11",
+    "Dividing Creek--Cumberland County"
   ],
   "dct_issued_s": "1972-07-22",
   "gbl_indexYear_im": [
@@ -28,13 +30,12 @@
     "[1972 TO 1972]"
   ],
   "dct_spatial_sm": [
-    "Dividing Creek",
-    "Cumberland County",
+    "New Jersey--Cumberland County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-75.444751 39.568746, -74.851794 39.568746, -74.851794 39.056179, -75.444751 39.056179, -75.444751 39.568746))",
+  "dcat_bbox": "ENVELOPE(-75.444751,-74.851794,39.568746,39.056179)",
+  "dcat_centroid": "39.312462499999995,-75.14827249999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/t3-t41n-qp89"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:36:29Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -4,9 +4,9 @@
     "Plate 9 from F. Robinson's Atlas of Morris County, N.J. 1887. Attribution states map was entered according to Act of Congress in 1887 by F. Robinson, in the office of the Librarian of Congress, Washington D.C. Color map shows names of property owners, local parks and cemeteries and a segment of the Morris and Essex railroad line."
   ],
   "dct_creator_sm": [
-    "Robinson, F."
+    "Robinson, E. (Elisha)"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,9 @@
     "IIIF in process",
     "cemeteries",
     "parks",
-    "railroads"
+    "railroads",
+    "2022-creator-sprint",
+    "Madison--Morris County"
   ],
   "dct_issued_s": "1887",
   "gbl_indexYear_im": [
@@ -27,8 +29,7 @@
     "[1887 TO 1887]"
   ],
   "dct_spatial_sm": [
-    "Madison",
-    "Morris",
+    "New Jersey--Morris County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3S46SVM"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:44Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

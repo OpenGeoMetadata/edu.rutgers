@@ -4,9 +4,9 @@
     "Important farmlands in Morris County. Map color coded by prime and other (miscellaneous) farmland, water areas and urban and built-up areas. Land data derived from an interim soil survey report published in 1976 by USDA Soil Conservation Service."
   ],
   "dct_creator_sm": [
-    "U. S. Department of Agriculture - Soil Conservation Service"
+    "United States. Soil Conservation Service"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,8 @@
     "IIIF in process",
     "farms",
     "geology",
-    "waterways"
+    "waterways",
+    "2022-creator-sprint--Morris County"
   ],
   "dct_issued_s": "1981",
   "gbl_indexYear_im": [
@@ -27,7 +28,7 @@
     "[1981 TO 1981]"
   ],
   "dct_spatial_sm": [
-    "Morris",
+    "New Jersey--Morris County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3RR1ZSS"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:02Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -3,7 +3,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -15,9 +15,6 @@
     "Environmental data",
     "Land",
     "Protected areas"
-  ],
-  "gbl_dateRange_drsim": [
-    "[* TO *]"
   ],
   "dct_spatial_sm": [
     "New Jersey"
@@ -44,6 +41,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/t3-w955-nn07"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:36:30Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

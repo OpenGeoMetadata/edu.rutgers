@@ -4,9 +4,10 @@
     "Map of the town of Boonton showing portions of the first thorugh fourth wards. Numbered legend in bottom left corner showing 36 different points of interest including cemeteries, churches, libraries, schools and municipal buildings."
   ],
   "dct_creator_sm": [
-    "Boonton Area Chamber of Commerce and League of Women Voters of Boonton"
+    "Boonton Area Chamber of Commerce",
+    "League of Women Voters of Boonton"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -19,7 +20,9 @@
     "churches",
     "libraries",
     "schools",
-    "town maps"
+    "town maps",
+    "2022-creator-sprint",
+    "Boonton--Morris County"
   ],
   "dct_issued_s": "1951",
   "gbl_indexYear_im": [
@@ -29,8 +32,7 @@
     "[1951 TO 1951]"
   ],
   "dct_spatial_sm": [
-    "Boonton",
-    "Morris",
+    "New Jersey--Morris County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -55,6 +57,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3B85911"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:39Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -4,7 +4,7 @@
     "Verso of South Brunswick map. This side features inset maps of Kendall Park, Brunswick Acres, Kingston, High Ridge and Monmouth Junction along with a street index for Kendall Park.",
     "Significant damage and discoloration from moisture."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -13,7 +13,8 @@
   ],
   "dcat_keyword_sm": [
     "IIIF in process",
-    "streets"
+    "streets",
+    "South Brunswick--Middlesex County"
   ],
   "dct_issued_s": "1974",
   "gbl_indexYear_im": [
@@ -23,8 +24,7 @@
     "[1974 TO 1974]"
   ],
   "dct_spatial_sm": [
-    "South Brunswick",
-    "Middlesex",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3HX1DJK"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:44Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

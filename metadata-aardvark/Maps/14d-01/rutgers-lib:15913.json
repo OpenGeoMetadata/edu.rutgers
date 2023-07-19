@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "City map of Summit NJ."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3251K36"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:37Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

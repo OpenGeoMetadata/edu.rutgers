@@ -9,7 +9,7 @@
   "dct_publisher_sm": [
     "[s.n.]"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,9 @@
     "Historical Maps of New Jersey"
   ],
   "dcat_keyword_sm": [
-    "IIIF in process"
+    "IIIF in process",
+    "metadataSprint_2022-11",
+    "Monmouth County--Sea Girt"
   ],
   "dct_issued_s": "1884",
   "gbl_indexYear_im": [
@@ -27,13 +29,13 @@
     "[1884 TO 1884]"
   ],
   "dct_spatial_sm": [
-    "Monmouth County",
-    "Sea Girt, New Jersey",
+    "New Jersey--Monmouth County",
+    "New Jersey--Sea Girt",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.614576 40.519095, -73.88506 40.519095, -73.88506 40.07913, -74.614576 40.07913, -74.614576 40.519095))",
+  "dcat_bbox": "ENVELOPE(-74.614576,-73.88506,40.519095,40.07913)",
+  "dcat_centroid": "40.2991125,-74.249818",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T34M94VT"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:06Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

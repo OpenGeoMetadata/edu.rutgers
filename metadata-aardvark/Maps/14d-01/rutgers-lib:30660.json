@@ -9,7 +9,7 @@
   "dct_publisher_sm": [
     "Not given"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -22,7 +22,9 @@
     "Land",
     "Landscape",
     "Water",
-    "Geography"
+    "Geography",
+    "metadataSprint_2022-11",
+    "Warren County--White Township"
   ],
   "dct_issued_s": "2006",
   "gbl_indexYear_im": [
@@ -32,13 +34,13 @@
     "[2006 TO 2006]"
   ],
   "dct_spatial_sm": [
-    "Warren County",
-    "White Township, New Jersey",
+    "New Jersey--Warren County",
+    "New Jersey--White Township",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-75.1120 40.8764, -74.9527 40.8764, -74.9527 40.7679, -75.1120 40.7679, -75.1120 40.8764))",
+  "dcat_bbox": "ENVELOPE(-75.1120,-74.9527,40.8764,40.7679)",
+  "dcat_centroid": "40.82214999999999,-75.03235",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +60,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3CN73KK"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:19Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

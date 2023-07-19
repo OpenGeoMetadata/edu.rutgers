@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Base map of Bergen County. Sheet four of an 11 plate map. Prepared by the New Jersey State Highway Department, Division of Planning in cooperation with the U. S. Department of Commerce, Bureau of Public Roads. Culture, county roads and municipal streets are as of 1953."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,7 @@
     "population",
     "railroads",
     "tunnels",
-    "water"
+    "water--Bergen County"
   ],
   "dct_issued_s": "1965",
   "gbl_indexYear_im": [
@@ -27,7 +27,7 @@
     "[1965 TO 1965]"
   ],
   "dct_spatial_sm": [
-    "Bergen",
+    "New Jersey--Bergen County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3CJ8FBX"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:42Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

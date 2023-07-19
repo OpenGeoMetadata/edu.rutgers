@@ -7,7 +7,7 @@
   "dct_publisher_sm": [
     "Sanborn Map Company"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,8 @@
     "IIIF in process",
     "churches",
     "fire",
-    "streets"
+    "streets",
+    "metadataSprint_2022-11--Paterson--Passaic River"
   ],
   "dct_issued_s": "1902",
   "gbl_indexYear_im": [
@@ -28,15 +29,19 @@
     "[1902 TO 1902]"
   ],
   "dct_spatial_sm": [
-    "Paterson, New Jersey",
-    "Passaic",
+    "New Jersey--Paterson",
+    "New Jersey--Passaic River",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.2063 40.9419, -74.1281 40.9419, -74.1281 40.8885, -74.2063 40.8885, -74.2063 40.9419))",
+  "dcat_bbox": "ENVELOPE(-74.2063,-74.1281,40.9419,40.8885)",
+  "dcat_centroid": "40.9152,-74.16720000000001",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "14d-01"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3DV1KFP"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:57Z",
+  "gbl_mdModified_dt": "2023-04-14T01:03:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

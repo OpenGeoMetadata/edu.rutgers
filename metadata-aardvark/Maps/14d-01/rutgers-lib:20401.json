@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Verso of a map of the County of Middlesex in the Province of New Jersey during the American Revolution compiled by John E. Brush of the Rutgers University Department of Geography for the Middlesex County Cultural and Heritage Commission. Features table of populations of each township and tax ratables as of 1782 at top followed by a history of the political division of the county and finally, nine lithographed illustrations and descriptions of historical buildings and landmarks."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -13,7 +13,8 @@
   "dcat_keyword_sm": [
     "IIIF in process",
     "Real property",
-    "Historic sites"
+    "Historic sites",
+    "metadataSprint_2022-11--Middlesex County--Middlesex County"
   ],
   "dct_issued_s": "1960",
   "gbl_indexYear_im": [
@@ -23,13 +24,13 @@
     "[1960 TO 1960]"
   ],
   "dct_spatial_sm": [
-    "Middlesex County, New Jersye",
-    "Middlesex",
+    "New Jersey--Middlesex County",
+    "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.631036 40.608683, -74.203605 40.608683, -74.203605 40.251122, -74.631036 40.251122, -74.631036 40.608683))",
+  "dcat_bbox": "ENVELOPE(-74.631036,-74.203605,40.608683,40.251122)",
+  "dcat_centroid": "40.4299025,-74.41732049999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3Z89CZ2"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:02Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

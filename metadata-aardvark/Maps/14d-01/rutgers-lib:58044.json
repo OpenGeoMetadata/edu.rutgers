@@ -6,7 +6,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -16,7 +16,8 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Bulkheads",
-    "Piers"
+    "Piers",
+    " Hudson River"
   ],
   "dct_issued_s": "1913",
   "gbl_indexYear_im": [
@@ -26,7 +27,7 @@
     "[1913 TO 1913]"
   ],
   "dct_spatial_sm": [
-    "Hudson River",
+    "United States--Hudson River",
     "New York",
     "New Jersey"
   ],
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3Q243RX"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:36:09Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

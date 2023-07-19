@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Map of Delaware River and water front along Gloucester County, NJ. along with the water front of Pennsylvania. Map includes water depths in feet."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -13,7 +13,7 @@
   "dcat_keyword_sm": [
     "IIIF in process",
     "Delaware River",
-    "Shore front map"
+    "Shore front map--Gloucester County"
   ],
   "dct_issued_s": "1877",
   "gbl_indexYear_im": [
@@ -23,7 +23,7 @@
     "[1877 TO 1877]"
   ],
   "dct_spatial_sm": [
-    "Gloucester",
+    "New Jersey--Gloucester County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3GQ6ZSV"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:34Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

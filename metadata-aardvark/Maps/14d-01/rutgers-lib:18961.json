@@ -4,7 +4,7 @@
     "A geological map of New Jersey by Henry D. Rogers, professor of Geology in University of Pennsylvania \"to accompany the Report on the Geology of New Jersey.\" Map color coded by type of rock or sediment including types of limestone, sandstone and ore.",
     "Minor moisture which caused ink to run in small patches."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -26,7 +26,6 @@
     "[1839 TO 1839]"
   ],
   "dct_spatial_sm": [
-    "Expansion and Reform (1801-1861)",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -51,6 +50,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3KH0P0T"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:51Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

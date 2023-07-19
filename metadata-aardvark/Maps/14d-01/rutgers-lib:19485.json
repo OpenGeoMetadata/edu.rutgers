@@ -4,7 +4,7 @@
     "Inland watery from Cape May to Bay Head crossing through the New Jersey counties of Cape May, Atlantic and Ocean. This map consists of sheets one and two in a four sheet series.",
     "Noticeable indentations from paper clips."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -47,6 +47,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3T72J1S"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:53Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

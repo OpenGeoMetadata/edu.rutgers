@@ -7,7 +7,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,8 +18,10 @@
     "IIIF in process",
     "Coastal zone",
     "Beach",
-    "Egg Harbor (N.J.)",
-    "River surveys"
+    "Egg Harbor  N.J. ",
+    "River surveys",
+    "metadataSprint_2022-11",
+    "Middle River--Atlantic County--Egg Harbor  Township --Atlantic County--Weymouth Township"
   ],
   "dct_issued_s": "1883-12-12",
   "gbl_indexYear_im": [
@@ -29,16 +31,13 @@
     "[1883 TO 1883]"
   ],
   "dct_spatial_sm": [
-    "Middle River",
-    "Atlantic County",
-    "Egg Harbor (New Jersey: Township)",
-    "Atlantic County",
-    "Weymouth Township, New Jersey",
+    "New Jersey--Atlantic County",
+    "New Jersey--Egg Harbor (Township)",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.8584 39.4464, -74.7131 39.4464, -74.7131 39.3807, -74.8584 39.3807, -74.8584 39.4464))",
+  "dcat_bbox": "ENVELOPE(-74.8584,-74.7131,39.4464,39.3807)",
+  "dcat_centroid": "39.41355,-74.78575000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +57,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3X9294V"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:43Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -12,7 +12,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -20,7 +20,7 @@
     "New Jersey Environmental Digital Library"
   ],
   "dcat_keyword_sm": [
-    "IIIF in process"
+    "IIIF in process--Camden County--Haddonfield--Bergen County --Fairview  Bergen County"
   ],
   "dct_issued_s": "1938",
   "gbl_indexYear_im": [
@@ -30,10 +30,8 @@
     "[1938 TO 1938]"
   ],
   "dct_spatial_sm": [
-    "Camden County",
-    "Haddonfield, New Jersey",
-    "Bergen County",
-    "Fairview (Bergen County, New Jersey)",
+    "New Jersey--Camden County",
+    "New Jersey--Haddonfield",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -58,6 +56,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3RV0NBW"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:34:37Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,7 +6,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -16,7 +16,8 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Tidelands",
-    "Geographic Information Systems"
+    "Geographic Information Systems",
+    "metadataSprint_2022-11--Passaic River--Newark--Essex County--Essex County--Union City--Essex County--Belleville--Essex County--East Orange--Hudson County"
   ],
   "dct_issued_s": "1899",
   "gbl_indexYear_im": [
@@ -26,21 +27,13 @@
     "[1899 TO 1899]"
   ],
   "dct_spatial_sm": [
-    "Passaic River",
-    "Newark, New Jersey",
-    "Essex County",
-    "Clinton (Essex County, New Jersey)Essex County",
-    "Union City, New Jersey",
-    "Essex County",
-    "Belleville, New Jersey",
-    "Essex County",
-    "East Orange, New Jersey",
-    "Hudson County",
+    "New Jersey--Passaic River",
+    "New Jersey--Newark",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.0458 40.7829, -74.0148 40.7829, -74.0148 40.7501, -74.0458 40.7501, -74.0458 40.7829))",
+  "dcat_bbox": "ENVELOPE(-74.0458,-74.0148,40.7829,40.7501)",
+  "dcat_centroid": "40.7665,-74.0303",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -60,6 +53,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T39P34Z4"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:56Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

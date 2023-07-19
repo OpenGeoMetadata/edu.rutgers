@@ -6,7 +6,7 @@
   "dct_publisher_sm": [
     "INROADS, Inc."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,8 @@
     "advertisements",
     "business",
     "roads",
-    "streets"
+    "streets",
+    "Hunterdon"
   ],
   "dct_issued_s": "1989",
   "gbl_indexYear_im": [
@@ -28,7 +29,7 @@
     "[1989 TO 1989]"
   ],
   "dct_spatial_sm": [
-    "Hunterdon",
+    "New Jersey--Hunterdon County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3513ZRK"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:55Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

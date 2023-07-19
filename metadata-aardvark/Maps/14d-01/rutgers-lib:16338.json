@@ -3,7 +3,7 @@
   "dct_description_sm": [
     "Election District map of Ramsey includes street index along right side and descriptions of the areas covered by each of the borough five districts."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -12,7 +12,8 @@
   ],
   "dcat_keyword_sm": [
     "IIIF in process",
-    "Election districts--New Jersey--Ramsey"
+    "Election districts----Ramsey",
+    "Ramsey--Bergen County"
   ],
   "dct_issued_s": "1960",
   "gbl_indexYear_im": [
@@ -22,8 +23,7 @@
     "[1960 TO 1960]"
   ],
   "dct_spatial_sm": [
-    "Ramsey",
-    "Bergen",
+    "New Jersey--Bergen County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3TM7C0Z"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:41Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

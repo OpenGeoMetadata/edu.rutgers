@@ -3,7 +3,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -47,6 +47,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/t3-d8a7-y535"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:17Z",
+  "gbl_mdModified_dt": "2023-03-14T19:51:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

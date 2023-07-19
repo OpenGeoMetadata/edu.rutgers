@@ -7,7 +7,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,8 @@
     "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
-    "Road maps"
+    "Road maps",
+    "metadataSprint_2022-11--Mercer County--Hamilton"
   ],
   "dct_issued_s": "1943-09-30",
   "gbl_indexYear_im": [
@@ -28,13 +29,13 @@
     "[1943 TO 1943]"
   ],
   "dct_spatial_sm": [
-    "Mercer County",
-    "Hamilton (Mercer County, New Jersey : Township)",
+    "New Jersey--Mercer County",
+    "New Jersey--Hamilton",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.942909 40.424156, -74.481095 40.424156, -74.481095 40.136771, -74.942909 40.136771, -74.942909 40.424156))",
+  "dcat_bbox": "ENVELOPE(-74.942909,-74.481095,40.424156,40.136771)",
+  "dcat_centroid": "40.2804635,-74.712002",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3W094KV"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:23Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

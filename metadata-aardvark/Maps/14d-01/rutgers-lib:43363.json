@@ -8,7 +8,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,10 @@
   "dcat_keyword_sm": [
     "IIIF active",
     "Rivers",
-    "Sewer design"
+    "Sewer design",
+    "metadataSprint_2022-11",
+    " Hackensack River",
+    "Midland TownshipBergen County  [to 1930]--Riverside  Bergen County"
   ],
   "dct_issued_s": "1900",
   "gbl_indexYear_im": [
@@ -28,14 +31,12 @@
     "[1900 TO 1900]"
   ],
   "dct_spatial_sm": [
-    "Hackensack River",
-    "Midland TownshipBergen County",
-    "Riverside (Bergen County, New Jersey) [to 1930]",
+    "United States--Hackensack River",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-74.272226 41.133714, -73.893628 41.133714, -73.893628 40.76159, -74.272226 40.76159, -74.272226 41.133714))",
+  "dcat_bbox": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
+  "dcat_centroid": "40.947652,-74.08292700000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +56,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T34X561G"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:38Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

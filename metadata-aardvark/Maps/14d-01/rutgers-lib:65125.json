@@ -3,7 +3,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -12,7 +12,8 @@
   ],
   "dcat_keyword_sm": [
     "IIIF active",
-    "Coastal zone"
+    "Coastal zone",
+    " Hudson River"
   ],
   "dct_issued_s": "1911",
   "gbl_indexYear_im": [
@@ -22,7 +23,7 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "Hudson River",
+    "United States--Hudson River",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -46,6 +47,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/t3-qc9f-5118"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:36:31Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

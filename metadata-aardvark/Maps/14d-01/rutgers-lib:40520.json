@@ -7,7 +7,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,10 @@
     "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
-    "Road maps"
+    "Road maps",
+    "metadataSprint_2022-11",
+    "West Collingswood Heights",
+    "Haddon TownshipCamden County"
   ],
   "dct_issued_s": "1940-10-31",
   "gbl_indexYear_im": [
@@ -28,13 +31,11 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "West Collingswood Heights",
-    "Haddon TownshipCamden County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-75.1040 39.9262, -75.0375 39.9262, -75.0375 39.8884, -75.1040 39.8884, -75.1040 39.9262))",
+  "dcat_bbox": "ENVELOPE(-75.1040,-75.0375,39.9262,39.8884)",
+  "dcat_centroid": "39.9073,-75.07075",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3RR1WVV"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:35:32Z",
+  "gbl_mdModified_dt": "2023-03-14T19:54:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

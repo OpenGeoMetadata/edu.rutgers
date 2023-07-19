@@ -6,7 +6,7 @@
   "dct_creator_sm": [
     "Government Consulting Service - University of Pennsylvania"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -17,7 +17,9 @@
     "IIIF in process",
     "Polling places",
     "Schools",
-    "Voting"
+    "Voting",
+    "2022-creator-sprint",
+    "Haddonfield--Camden County"
   ],
   "dct_issued_s": "1960",
   "gbl_indexYear_im": [
@@ -27,8 +29,7 @@
     "[1960 TO 1960]"
   ],
   "dct_spatial_sm": [
-    "Haddonfield",
-    "Camden",
+    "New Jersey--Camden County",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3QV3NDM"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:40Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

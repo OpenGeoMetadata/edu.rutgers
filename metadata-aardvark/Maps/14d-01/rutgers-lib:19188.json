@@ -4,7 +4,7 @@
     "Water shed of Passaic River, extending through Passaic, Sussex, Morris, Essex, Bergen, Union and Somerset counties. Map part of geological survey performed by George H. Cook, state geologist and John C. Smock, assistant geologist.",
     "Significant fraying along edges and interior. Noticeable discoloration from adhesive tape marks."
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3WM1F21"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:52Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -3,7 +3,7 @@
   "dct_language_sm": [
     "eng"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -23,8 +23,6 @@
   ],
   "dct_spatial_sm": [
     "New York",
-    "New York",
-    " (N.Y.)",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/t3-a1py-0k97"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:36:30Z",
+  "gbl_mdModified_dt": "2023-03-14T19:52:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

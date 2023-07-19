@@ -4,9 +4,9 @@
     "Inside of brochure published by the New Jersey Department of Conservation and Economic Development of Ringwood Manor. Features a pictoral map indicating streams, museum park office, gardens, trails and other landmarks. Two photographic illustrations and descriptions of parkland."
   ],
   "dct_creator_sm": [
-    "New Jersey Department of Conservation and Economic Development"
+    "New Jersey. Department of Conservation and Economic Development"
   ],
-  "schema_provider_s": "Rutgers University",
+  "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
@@ -18,7 +18,9 @@
     "gardens",
     "museums",
     "parks",
-    "trails"
+    "trails",
+    "2022-creator-sprint",
+    "Ringwood Manor--Passaic River"
   ],
   "dct_issued_s": "1962",
   "gbl_indexYear_im": [
@@ -28,8 +30,7 @@
     "[1962 TO 1962]"
   ],
   "dct_spatial_sm": [
-    "Ringwood Manor",
-    "Passaic",
+    "New Jersey--Passaic River",
     "New Jersey"
   ],
   "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3571CX3"
   ],
-  "gbl_mdModified_dt": "2022-09-29T21:33:43Z",
+  "gbl_mdModified_dt": "2023-03-14T19:53:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }
