@@ -13,16 +13,11 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Tidelands",
     "Geographic Information Systems",
-    "metadataSprint_2022-11",
-    "Delaware River Township-- ",
-    "Mercer County--Hamilton  ",
+    "Delaware River Township--",
+    "Mercer County--Hamilton",
     "Mercer County--Trenton--Mercer County--Burlington--Mercer County--Mercer County--Monmouth",
     "Pennsylvania"
   ],
@@ -37,9 +32,9 @@
     "New Jersey--Mercer County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.6846 40.3431, -74.5673 40.3431, -74.5673 40.2417, -74.6846 40.2417, -74.6846 40.3431))",
-  "dcat_bbox": "ENVELOPE(-74.6846,-74.5673,40.3431,40.2417)",
-  "dcat_centroid": "40.2924,-74.62595",
+  "locn_geometry": "POLYGON((-74.685 40.343, -74.567 40.343, -74.567 40.242, -74.685 40.242, -74.685 40.343))",
+  "dcat_bbox": "ENVELOPE(-74.685,-74.567,40.343,40.242)",
+  "dcat_centroid": "40.292500000000004,-74.626",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56849\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56849/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56849\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/56849/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:56849",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3JH3QHS"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:54:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,14 +10,9 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "landscapes",
     "townships",
-    "metadataSprint_2022-11",
     "Monroe Township--Gloucester County"
   ],
   "dct_issued_s": "1972",
@@ -31,9 +26,9 @@
     "New Jersey--Gloucester County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.4913 40.3856, -74.3523 40.3856, -74.3523 40.2511, -74.4913 40.2511, -74.4913 40.3856))",
-  "dcat_bbox": "ENVELOPE(-74.4913,-74.3523,40.3856,40.2511)",
-  "dcat_centroid": "40.318349999999995,-74.42179999999999",
+  "locn_geometry": "POLYGON((-74.491 40.386, -74.352 40.386, -74.352 40.251, -74.491 40.251, -74.491 40.386))",
+  "dcat_bbox": "ENVELOPE(-74.491,-74.352,40.386,40.251)",
+  "dcat_centroid": "40.3185,-74.42150000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +43,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20587/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20587/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20587\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20587\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20587/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20587/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:20587",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3JS9QZN"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:54:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

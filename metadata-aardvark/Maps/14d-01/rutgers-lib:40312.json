@@ -11,15 +11,11 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11--Mercer County--Hamilton"
+    "--Mercer County--Hamilton"
   ],
   "dct_issued_s": "1952-11-15",
   "gbl_indexYear_im": [
@@ -33,9 +29,9 @@
     "New Jersey--Hamilton",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.942909 40.424156, -74.481095 40.424156, -74.481095 40.136771, -74.942909 40.136771, -74.942909 40.424156))",
-  "dcat_bbox": "ENVELOPE(-74.942909,-74.481095,40.424156,40.136771)",
-  "dcat_centroid": "40.2804635,-74.712002",
+  "locn_geometry": "POLYGON((-74.943 40.424, -74.481 40.424, -74.481 40.137, -74.943 40.137, -74.943 40.424))",
+  "dcat_bbox": "ENVELOPE(-74.943,-74.481,40.424,40.137)",
+  "dcat_centroid": "40.2805,-74.71199999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40312\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40312/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40312\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40312/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:40312",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3J38R5G"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

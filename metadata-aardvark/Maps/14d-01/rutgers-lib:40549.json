@@ -11,15 +11,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11",
     "Bedminster",
     "Burnt Mill",
     "Greater Cross Roads",
@@ -38,9 +33,9 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.7310 40.7302, -74.6239 40.7302, -74.6239 40.6158, -74.7310 40.6158, -74.7310 40.7302))",
-  "dcat_bbox": "ENVELOPE(-74.7310,-74.6239,40.7302,40.6158)",
-  "dcat_centroid": "40.673,-74.67745",
+  "locn_geometry": "POLYGON((-74.731 40.730, -74.624 40.730, -74.624 40.616, -74.731 40.616, -74.731 40.730))",
+  "dcat_bbox": "ENVELOPE(-74.731,-74.624,40.730,40.616)",
+  "dcat_centroid": "40.673,-74.6775",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,11 +50,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40549\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40549/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40549\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40549/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:40549",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3H993ST"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:51:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

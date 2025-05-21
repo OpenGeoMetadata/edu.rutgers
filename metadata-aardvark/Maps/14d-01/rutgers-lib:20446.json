@@ -8,15 +8,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "colleges and universities",
     "dwellings",
     "topography",
-    "metadataSprint_2022-11",
     "Piscataway Township--Middlesex County"
   ],
   "dct_issued_s": "1963",
@@ -30,9 +25,9 @@
     "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.5198 40.5974, -74.4085 40.5974, -74.4085 40.5056, -74.5198 40.5056, -74.5198 40.5974))",
-  "dcat_bbox": "ENVELOPE(-74.5198,-74.4085,40.5974,40.5056)",
-  "dcat_centroid": "40.551500000000004,-74.46415",
+  "locn_geometry": "POLYGON((-74.520 40.597, -74.409 40.597, -74.409 40.506, -74.520 40.506, -74.520 40.597))",
+  "dcat_bbox": "ENVELOPE(-74.520,-74.409,40.597,40.506)",
+  "dcat_centroid": "40.551500000000004,-74.4645",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +42,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20446/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20446/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20446\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20446\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20446/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20446/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:20446",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T34X589W"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

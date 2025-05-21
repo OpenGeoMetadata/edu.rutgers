@@ -11,15 +11,11 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11--Bergen County--Oakland"
+    "--Bergen County--Oakland"
   ],
   "dct_issued_s": "1945-09-29",
   "gbl_indexYear_im": [
@@ -33,9 +29,9 @@
     "New Jersey--Oakland",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.272226 41.133714, -73.893628 41.133714, -73.893628 40.76159, -74.272226 40.76159, -74.272226 41.133714))",
-  "dcat_bbox": "ENVELOPE(-74.272226,-73.893628,41.133714,40.76159)",
-  "dcat_centroid": "40.947652,-74.08292700000001",
+  "locn_geometry": "POLYGON((-74.272 41.134, -73.894 41.134, -73.894 40.762, -74.272 40.762, -74.272 41.134))",
+  "dcat_bbox": "ENVELOPE(-74.272,-73.894,41.134,40.762)",
+  "dcat_centroid": "40.948,-74.083",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40393\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40393/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40393\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40393/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:40393",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3VT1QQM"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,16 +10,12 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Coastal zone",
     "Beach",
     "Road maps",
     "Property",
-    "metadataSprint_2022-11--Atlantic County--Ventnor City"
+    "--Atlantic County--Ventnor City"
   ],
   "dct_issued_s": "1905",
   "gbl_indexYear_im": [
@@ -33,9 +29,9 @@
     "New Jersey--Ventnor City",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.5064 39.3586, -74.4640 39.3586, -74.4640 39.3305, -74.5064 39.3305, -74.5064 39.3586))",
-  "dcat_bbox": "ENVELOPE(-74.5064,-74.4640,39.3586,39.3305)",
-  "dcat_centroid": "39.34455,-74.48519999999999",
+  "locn_geometry": "POLYGON((-74.506 39.359, -74.464 39.359, -74.464 39.331, -74.506 39.331, -74.506 39.359))",
+  "dcat_bbox": "ENVELOPE(-74.506,-74.464,39.359,39.331)",
+  "dcat_centroid": "39.345,-74.485",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38668/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38668/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38668\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38668\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38668/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38668/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:38668",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3WM1C60"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

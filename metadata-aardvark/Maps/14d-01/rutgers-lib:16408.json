@@ -11,14 +11,8 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "elections",
-    "metadataSprint_2022-11",
-    "2022-creator-sprint",
     "Edison Township--Middlesex County"
   ],
   "dct_issued_s": "1954",
@@ -32,9 +26,9 @@
     "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.4401 40.6058, -74.3158 40.6058, -74.3158 40.4712, -74.4401 40.4712, -74.4401 40.6058))",
-  "dcat_bbox": "ENVELOPE(-74.4401,-74.3158,40.6058,40.4712)",
-  "dcat_centroid": "40.5385,-74.37795",
+  "locn_geometry": "POLYGON((-74.440 40.606, -74.316 40.606, -74.316 40.471, -74.440 40.471, -74.440 40.606))",
+  "dcat_bbox": "ENVELOPE(-74.440,-74.316,40.606,40.471)",
+  "dcat_centroid": "40.5385,-74.378",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +43,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16408/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16408/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16408\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16408\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16408/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16408/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:16408",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3D50NT5"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

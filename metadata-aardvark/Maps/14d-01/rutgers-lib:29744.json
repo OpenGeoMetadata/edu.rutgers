@@ -12,19 +12,14 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Rivers",
-    "metadataSprint_2022-11",
-    " Delaware River--Mercer County",
-    "Monmouth County--Washington  ",
+    "Delaware River--Mercer County",
+    "Monmouth County--Washington",
     "Mercer County",
     "Burlington County",
-    "Mercer County Township-- ",
-    "Mercer County--Lawrence  ",
+    "Mercer County Township--",
+    "Mercer County--Lawrence",
     "Mercer County--Trenton"
   ],
   "dct_issued_s": "1936",
@@ -39,9 +34,9 @@
     "New Jersey--Mercer County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.6846 40.3431, -74.5673 40.3431, -74.5673 40.2417, -74.6846 40.2417, -74.6846 40.3431))",
-  "dcat_bbox": "ENVELOPE(-74.6846,-74.5673,40.3431,40.2417)",
-  "dcat_centroid": "40.2924,-74.62595",
+  "locn_geometry": "POLYGON((-74.685 40.343, -74.567 40.343, -74.567 40.242, -74.685 40.242, -74.685 40.343))",
+  "dcat_bbox": "ENVELOPE(-74.685,-74.567,40.343,40.242)",
+  "dcat_centroid": "40.292500000000004,-74.626",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29744/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29744/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29744\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29744\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29744/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/29744/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:29744",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3PC3259"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:54:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

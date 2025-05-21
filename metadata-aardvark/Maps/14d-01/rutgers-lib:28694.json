@@ -15,13 +15,8 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Rivers",
-    "metadataSprint_2022-11",
     "Rancocas Creek--Burlington County--Mount Laurel--Burlington County--Rancocas--Burlington County",
     "Rancocas Creek--Burlington County--Hainsport--Burlington County--Willingboro Township"
   ],
@@ -36,9 +31,9 @@
     "New Jersey--Burlington County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.9323 40.0578, -74.8514 40.0578, -74.8514 39.9976, -74.9323 39.9976, -74.9323 40.0578))",
-  "dcat_bbox": "ENVELOPE(-74.9323,-74.8514,40.0578,39.9976)",
-  "dcat_centroid": "40.027699999999996,-74.89185",
+  "locn_geometry": "POLYGON((-74.932 40.058, -74.851 40.058, -74.851 39.998, -74.932 39.998, -74.932 40.058))",
+  "dcat_bbox": "ENVELOPE(-74.932,-74.851,40.058,39.998)",
+  "dcat_centroid": "40.028,-74.89150000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28694/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28694/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28694\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28694\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28694/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28694/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:28694",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3Q24052"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

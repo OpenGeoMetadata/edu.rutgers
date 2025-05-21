@@ -11,15 +11,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11",
     "Matawan Borough",
     "Monmouth County"
   ],
@@ -34,9 +29,9 @@
     "New Jersey--Monmouth County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.2495 40.4305, -74.2217 40.4305, -74.2217 40.3907, -74.2495 40.3907, -74.2495 40.4305))",
-  "dcat_bbox": "ENVELOPE(-74.2495,-74.2217,40.4305,40.3907)",
-  "dcat_centroid": "40.4106,-74.2356",
+  "locn_geometry": "POLYGON((-74.249 40.431, -74.222 40.431, -74.222 40.391, -74.249 40.391, -74.249 40.431))",
+  "dcat_bbox": "ENVELOPE(-74.249,-74.222,40.431,40.391)",
+  "dcat_centroid": "40.411,-74.2355",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40494\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40494/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40494\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40494/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:40494",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3D7991T"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

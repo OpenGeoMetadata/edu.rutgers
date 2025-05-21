@@ -11,15 +11,11 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11--Morris County--Montville Township"
+    "--Morris County--Montville Township"
   ],
   "dct_issued_s": "1951-11-30",
   "gbl_indexYear_im": [
@@ -33,9 +29,9 @@
     "New Jersey--Montville Township",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.4045 40.9595, -74.3170 40.9595, -74.3170 40.8437, -74.4045 40.8437, -74.4045 40.9595))",
-  "dcat_bbox": "ENVELOPE(-74.4045,-74.3170,40.9595,40.8437)",
-  "dcat_centroid": "40.9016,-74.36075",
+  "locn_geometry": "POLYGON((-74.404 40.959, -74.317 40.959, -74.317 40.844, -74.404 40.844, -74.404 40.959))",
+  "dcat_bbox": "ENVELOPE(-74.404,-74.317,40.959,40.844)",
+  "dcat_centroid": "40.9015,-74.3605",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40552\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40552/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40552\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40552/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:40552",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3WM1C09"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

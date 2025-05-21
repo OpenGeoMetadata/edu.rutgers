@@ -10,14 +10,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Bulkheads",
     "Piers",
-    "metadataSprint_2022-11--Shark River",
+    "--Shark River",
     "Monmouth County--Belmar",
     "Monmouth County--Wall Township"
   ],
@@ -33,9 +29,9 @@
     "New Jersey--Monmouth County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.1419 40.2510, -74.0288 40.2510, -74.0288 40.0978, -74.1419 40.0978, -74.1419 40.2510))",
-  "dcat_bbox": "ENVELOPE(-74.1419,-74.0288,40.2510,40.0978)",
-  "dcat_centroid": "40.1744,-74.08535",
+  "locn_geometry": "POLYGON((-74.142 40.251, -74.029 40.251, -74.029 40.098, -74.142 40.098, -74.142 40.251))",
+  "dcat_bbox": "ENVELOPE(-74.142,-74.029,40.251,40.098)",
+  "dcat_centroid": "40.174499999999995,-74.0855",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58270\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58270/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58270\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58270/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:58270",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T34Q7ZJ0"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

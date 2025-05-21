@@ -10,16 +10,11 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "camping",
     "fishing",
     "parks",
     "picnics",
-    "metadataSprint_2022-11",
     "Old Bridge Township--Middlesex County"
   ],
   "dct_issued_s": "1962",
@@ -33,9 +28,9 @@
     "New Jersey--Middlesex County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.3831 40.4640, -74.2226 40.4640, -74.2226 40.3247, -74.3831 40.3247, -74.3831 40.4640))",
-  "dcat_bbox": "ENVELOPE(-74.3831,-74.2226,40.4640,40.3247)",
-  "dcat_centroid": "40.39435,-74.30285",
+  "locn_geometry": "POLYGON((-74.383 40.464, -74.223 40.464, -74.223 40.325, -74.383 40.325, -74.383 40.464))",
+  "dcat_bbox": "ENVELOPE(-74.383,-74.223,40.464,40.325)",
+  "dcat_centroid": "40.3945,-74.303",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/17154/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/17154/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/17154\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/17154\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/17154/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/17154/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:17154",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3C24X6K"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:51:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

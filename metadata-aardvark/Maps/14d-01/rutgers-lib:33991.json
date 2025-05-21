@@ -11,15 +11,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Tidelands",
     "Geographic Information Systems",
-    "metadataSprint_2022-11",
-    " Delaware River--Palmyra"
+    "Delaware River--Palmyra"
   ],
   "dct_issued_s": "1913",
   "gbl_indexYear_im": [
@@ -33,9 +28,9 @@
     "New Jersey--Palmyra",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.0605 40.0163, -75.0103 40.0163, -75.0103 39.9909, -75.0605 39.9909, -75.0605 40.0163))",
-  "dcat_bbox": "ENVELOPE(-75.0605,-75.0103,40.0163,39.9909)",
-  "dcat_centroid": "40.003600000000006,-75.03540000000001",
+  "locn_geometry": "POLYGON((-75.061 40.016, -75.010 40.016, -75.010 39.991, -75.061 39.991, -75.061 40.016))",
+  "dcat_bbox": "ENVELOPE(-75.061,-75.010,40.016,39.991)",
+  "dcat_centroid": "40.0035,-75.03550000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33991\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33991/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33991\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33991/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:33991",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3W37VNQ"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

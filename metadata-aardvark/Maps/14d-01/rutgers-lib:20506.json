@@ -13,14 +13,9 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "landscapes",
     "townships",
-    "metadataSprint_2022-11",
     "Mansfield Township--Burlington County"
   ],
   "dct_issued_s": "1972",
@@ -34,9 +29,9 @@
     "New Jersey--Burlington County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.9830 40.8583, -74.8295 40.8583, -74.8295 40.7517, -74.9830 40.7517, -74.9830 40.8583))",
-  "dcat_bbox": "ENVELOPE(-74.9830,-74.8295,40.8583,40.7517)",
-  "dcat_centroid": "40.805,-74.90625",
+  "locn_geometry": "POLYGON((-74.983 40.858, -74.829 40.858, -74.829 40.752, -74.983 40.752, -74.983 40.858))",
+  "dcat_bbox": "ENVELOPE(-74.983,-74.829,40.858,40.752)",
+  "dcat_centroid": "40.805,-74.906",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20506/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20506/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20506\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20506\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20506/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20506/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:20506",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3Q81DMS"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:51:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

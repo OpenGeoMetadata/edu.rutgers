@@ -10,14 +10,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Bulkheads",
     "Piers",
-    "metadataSprint_2022-11--Salem River--Salem County--Salem County",
+    "--Salem River--Salem County--Salem County",
     "Upper Penns Neck  : Township Salem County--Pilesgrove"
   ],
   "dct_issued_s": "1931-02-16",
@@ -32,9 +28,9 @@
     "New Jersey--Salem County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.4912 39.6785, -75.3202 39.6785, -75.3202 39.5572, -75.4912 39.5572, -75.4912 39.6785))",
-  "dcat_bbox": "ENVELOPE(-75.4912,-75.3202,39.6785,39.5572)",
-  "dcat_centroid": "39.617850000000004,-75.4057",
+  "locn_geometry": "POLYGON((-75.491 39.678, -75.320 39.678, -75.320 39.557, -75.491 39.557, -75.491 39.678))",
+  "dcat_bbox": "ENVELOPE(-75.491,-75.320,39.678,39.557)",
+  "dcat_centroid": "39.6175,-75.40549999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58269\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58269/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58269\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58269/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:58269",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T38G8Q78"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

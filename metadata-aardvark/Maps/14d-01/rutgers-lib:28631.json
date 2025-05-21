@@ -14,12 +14,7 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Trentoniana Historic Map Collection"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
-    "metadataSprint_2022-11",
     "Anchor",
     "Brunswick",
     "Burgner",
@@ -50,9 +45,9 @@
     "New Jersey--Brunswick",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.7221 40.3910, -74.6173 40.3910, -74.6173 40.3048, -74.7221 40.3048, -74.7221 40.3910))",
-  "dcat_bbox": "ENVELOPE(-74.7221,-74.6173,40.3910,40.3048)",
-  "dcat_centroid": "40.347899999999996,-74.6697",
+  "locn_geometry": "POLYGON((-74.722 40.391, -74.617 40.391, -74.617 40.305, -74.722 40.305, -74.722 40.391))",
+  "dcat_bbox": "ENVELOPE(-74.722,-74.617,40.391,40.305)",
+  "dcat_centroid": "40.348,-74.6695",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -67,11 +62,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28631/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28631/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28631\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28631\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28631/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28631/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:28631",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3K0747T"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:50:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

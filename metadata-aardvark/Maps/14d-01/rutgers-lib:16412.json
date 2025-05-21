@@ -10,13 +10,8 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "streets",
-    "metadataSprint_2022-11",
     "Bernards Township--Somerset County"
   ],
   "dct_issued_s": "1967",
@@ -30,9 +25,9 @@
     "New Jersey--Somerset County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.6314 40.7418, -74.5133 40.7418, -74.5133 40.6104, -74.6314 40.6104, -74.6314 40.7418))",
-  "dcat_bbox": "ENVELOPE(-74.6314,-74.5133,40.7418,40.6104)",
-  "dcat_centroid": "40.6761,-74.57235",
+  "locn_geometry": "POLYGON((-74.631 40.742, -74.513 40.742, -74.513 40.610, -74.631 40.610, -74.631 40.742))",
+  "dcat_bbox": "ENVELOPE(-74.631,-74.513,40.742,40.610)",
+  "dcat_centroid": "40.676,-74.572",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +42,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16412/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16412/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16412\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16412\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16412/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16412/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:16412",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3FN1739"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:51:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

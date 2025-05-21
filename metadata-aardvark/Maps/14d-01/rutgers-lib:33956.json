@@ -12,16 +12,11 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Rivers",
     "Land",
     "Landscape",
-    "metadataSprint_2022-11",
-    " Hudson River",
+    "Hudson River",
     "Hackensack River  New York",
     "Newark Bay--Hudson County--Jersey City--Hudson County--Hoboken"
   ],
@@ -36,9 +31,9 @@
     "United States--Hudson River",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.1166 40.7692, -74.0262 40.7692, -74.0262 40.6668, -74.1166 40.6668, -74.1166 40.7692))",
-  "dcat_bbox": "ENVELOPE(-74.1166,-74.0262,40.7692,40.6668)",
-  "dcat_centroid": "40.718,-74.07140000000001",
+  "locn_geometry": "POLYGON((-74.117 40.769, -74.026 40.769, -74.026 40.667, -74.117 40.667, -74.117 40.769))",
+  "dcat_bbox": "ENVELOPE(-74.117,-74.026,40.769,40.667)",
+  "dcat_centroid": "40.718,-74.0715",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33956/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33956/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33956\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33956\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33956/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33956/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:33956",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3GQ6X3G"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:54:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -11,15 +11,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11",
     "Pine Hill Borough",
     "Pine Valley BoroughCamden County"
   ],
@@ -33,9 +28,9 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.0236 39.8056, -74.9477 39.8056, -74.9477 39.7668, -75.0236 39.7668, -75.0236 39.8056))",
-  "dcat_bbox": "ENVELOPE(-75.0236,-74.9477,39.8056,39.7668)",
-  "dcat_centroid": "39.7862,-74.98564999999999",
+  "locn_geometry": "POLYGON((-75.024 39.806, -74.948 39.806, -74.948 39.767, -75.024 39.767, -75.024 39.806))",
+  "dcat_bbox": "ENVELOPE(-75.024,-74.948,39.806,39.767)",
+  "dcat_centroid": "39.786500000000004,-74.98599999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40545\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40545/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40545\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40545/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:40545",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T30C4TC8"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

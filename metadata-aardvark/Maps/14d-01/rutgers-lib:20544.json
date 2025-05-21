@@ -10,14 +10,9 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "landscapes",
     "waterways",
-    "metadataSprint_2022-11",
     "Commercial Township",
     "Cumberland"
   ],
@@ -32,9 +27,9 @@
     "New Jersey--Cumberland County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.1172 39.3480, -74.9781 39.3480, -74.9781 39.2107, -75.1172 39.2107, -75.1172 39.3480))",
-  "dcat_bbox": "ENVELOPE(-75.1172,-74.9781,39.3480,39.2107)",
-  "dcat_centroid": "39.27935,-75.04765",
+  "locn_geometry": "POLYGON((-75.117 39.348, -74.978 39.348, -74.978 39.211, -75.117 39.211, -75.117 39.348))",
+  "dcat_bbox": "ENVELOPE(-75.117,-74.978,39.348,39.211)",
+  "dcat_centroid": "39.2795,-75.0475",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20544/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20544/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20544\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20544\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20544/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20544/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:20544",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3959J2J"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

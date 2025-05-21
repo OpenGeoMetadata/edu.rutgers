@@ -10,11 +10,7 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Tidelands",
     "Geographic Information Systems",
     "Coastal zone",
@@ -35,9 +31,9 @@
     "New Jersey--Margate City",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.5229 39.3448, -74.4906 39.3448, -74.4906 39.3169, -74.5229 39.3169, -74.5229 39.3448))",
-  "dcat_bbox": "ENVELOPE(-74.5229,-74.4906,39.3448,39.3169)",
-  "dcat_centroid": "39.33085,-74.50675000000001",
+  "locn_geometry": "POLYGON((-74.523 39.345, -74.491 39.345, -74.491 39.317, -74.523 39.317, -74.523 39.345))",
+  "dcat_bbox": "ENVELOPE(-74.523,-74.491,39.345,39.317)",
+  "dcat_centroid": "39.331,-74.507",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38574/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38574/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38574\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38574\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38574/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/38574/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:38574",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3RF5SV1"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

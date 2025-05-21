@@ -3,15 +3,14 @@
   "dct_description_sm": [
     "Southern half of a map commissioned by the U. S. Department of Agriculture Soil Conservation Service showing all areas of important farmland in Burlington County. Water and urban areas are also shown. Map includes an explanation of the soil survey process used to determine the different topographic features."
   ],
+  "dct_creator_sm": [
+    "United States. Soil Conservation Service"
+  ],
   "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "county maps",
     "farms",
     "soil survey--Burlington County"
@@ -27,10 +26,11 @@
     "New Jersey--Burlington County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.5634 41.3573, -73.8936 41.3573, -73.8936 38.7911, -75.5634 38.7911, -75.5634 41.3573))",
-  "dcat_bbox": "ENVELOPE(-75.5634,-73.8936,41.3573,38.7911)",
-  "dcat_centroid": "40.074200000000005,-74.7285",
+  "locn_geometry": "POLYGON((-75.563 41.357, -73.894 41.357, -73.894 38.791, -75.563 38.791, -75.563 41.357))",
+  "dcat_bbox": "ENVELOPE(-75.563,-73.894,41.357,38.791)",
+  "dcat_centroid": "40.074,-74.7285",
   "pcdm_memberOf_sm": [
+    "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16334/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16334/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16334\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16334\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16334/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16334/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:16334",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3BK1D80"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:51:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

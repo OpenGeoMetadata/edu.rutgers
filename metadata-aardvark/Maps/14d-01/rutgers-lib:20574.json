@@ -11,14 +11,9 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "landscapes",
     "townships",
-    "metadataSprint_2022-11",
     "Green Township",
     "Warren"
   ],
@@ -32,8 +27,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.8603 41.0059, -74.7407 41.0059, -74.7407 40.9311, -74.8603 40.9311, -74.8603 41.0059))",
-  "dcat_bbox": "ENVELOPE(-74.8603,-74.7407,41.0059,40.9311)",
+  "locn_geometry": "POLYGON((-74.860 41.006, -74.741 41.006, -74.741 40.931, -74.860 40.931, -74.860 41.006))",
+  "dcat_bbox": "ENVELOPE(-74.860,-74.741,41.006,40.931)",
   "dcat_centroid": "40.9685,-74.8005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -49,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20574/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20574/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20574\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20574\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20574/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20574/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:20574",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3SB4688"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:54:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

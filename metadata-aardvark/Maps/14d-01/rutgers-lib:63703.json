@@ -10,16 +10,12 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Tidelands",
     "Geographic Information Systems",
     "Coastal zone",
     "Wetlands",
-    "metadataSprint_2022-11--Salem County--Penns Grove"
+    "--Salem County--Penns Grove"
   ],
   "dct_issued_s": "1977-07-24",
   "gbl_indexYear_im": [
@@ -33,9 +29,9 @@
     "New Jersey--Penns Grove",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.563586 39.796368, -75.061854 39.796368, -75.061854 39.355089, -75.563586 39.355089, -75.563586 39.796368))",
-  "dcat_bbox": "ENVELOPE(-75.563586,-75.061854,39.796368,39.355089)",
-  "dcat_centroid": "39.5757285,-75.31272",
+  "locn_geometry": "POLYGON((-75.564 39.796, -75.062 39.796, -75.062 39.355, -75.564 39.355, -75.564 39.796))",
+  "dcat_bbox": "ENVELOPE(-75.564,-75.062,39.796,39.355)",
+  "dcat_centroid": "39.5755,-75.31299999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63703/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63703/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63703\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63703\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63703/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63703/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:63703",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/t3-rqep-j336"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

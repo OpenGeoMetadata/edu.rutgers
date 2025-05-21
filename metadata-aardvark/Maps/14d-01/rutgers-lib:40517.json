@@ -11,15 +11,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11",
     "North Lavalette",
     "Chadwicks",
     "Deauville Beach",
@@ -36,9 +31,9 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.553105 40.172402, -73.965414 40.172402, -73.965414 39.475198, -74.553105 39.475198, -74.553105 40.172402))",
-  "dcat_bbox": "ENVELOPE(-74.553105,-73.965414,40.172402,39.475198)",
-  "dcat_centroid": "39.8238,-74.2592595",
+  "locn_geometry": "POLYGON((-74.553 40.172, -73.965 40.172, -73.965 39.475, -74.553 39.475, -74.553 40.172))",
+  "dcat_bbox": "ENVELOPE(-74.553,-73.965,40.172,39.475)",
+  "dcat_centroid": "39.823499999999996,-74.259",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40517\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40517/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40517\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40517/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:40517",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3CF9NQP"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

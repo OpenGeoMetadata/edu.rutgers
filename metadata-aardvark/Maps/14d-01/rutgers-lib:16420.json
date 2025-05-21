@@ -7,15 +7,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "elections",
     "roads",
     "streets",
-    "metadataSprint_2022-11",
     "Warren Township--Somerset County"
   ],
   "dct_issued_s": "1970",
@@ -29,9 +24,9 @@
     "New Jersey--Somerset County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.5770 40.6735, -74.4483 40.6735, -74.4483 40.5872, -74.5770 40.5872, -74.5770 40.6735))",
-  "dcat_bbox": "ENVELOPE(-74.5770,-74.4483,40.6735,40.5872)",
-  "dcat_centroid": "40.63035,-74.51265000000001",
+  "locn_geometry": "POLYGON((-74.577 40.673, -74.448 40.673, -74.448 40.587, -74.577 40.587, -74.577 40.673))",
+  "dcat_bbox": "ENVELOPE(-74.577,-74.448,40.673,40.587)",
+  "dcat_centroid": "40.63,-74.51249999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16420/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16420/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16420\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16420\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16420/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16420/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:16420",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3765G6Q"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:54:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

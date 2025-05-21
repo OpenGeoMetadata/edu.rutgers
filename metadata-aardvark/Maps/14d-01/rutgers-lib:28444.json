@@ -15,14 +15,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Water",
     "Creeks",
-    "metadataSprint_2022-11--West Creek--Cape May County--Dennis Township--Cumberland County--Mercer County"
+    "--West Creek--Cape May County--Dennis Township--Cumberland County--Mercer County"
   ],
   "dct_issued_s": "1938",
   "gbl_indexYear_im": [
@@ -36,9 +32,9 @@
     "New Jersey--Cape May County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.9269 39.3088, -74.6918 39.3088, -74.6918 39.1230, -74.9269 39.1230, -74.9269 39.3088))",
-  "dcat_bbox": "ENVELOPE(-74.9269,-74.6918,39.3088,39.1230)",
-  "dcat_centroid": "39.2159,-74.80935",
+  "locn_geometry": "POLYGON((-74.927 39.309, -74.692 39.309, -74.692 39.123, -74.927 39.123, -74.927 39.309))",
+  "dcat_bbox": "ENVELOPE(-74.927,-74.692,39.309,39.123)",
+  "dcat_centroid": "39.215999999999994,-74.8095",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28444/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28444/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28444\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28444\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28444/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28444/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:28444",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T308658S"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

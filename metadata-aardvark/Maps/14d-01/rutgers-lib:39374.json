@@ -11,15 +11,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11",
     "South Hackensack TownshipBergen County"
   ],
   "dct_issued_s": "1946-07-31",
@@ -32,9 +27,9 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.1018 40.8741, -74.0343 40.8741, -74.0343 40.8248, -74.1018 40.8248, -74.1018 40.8741))",
-  "dcat_bbox": "ENVELOPE(-74.1018,-74.0343,40.8741,40.8248)",
-  "dcat_centroid": "40.849450000000004,-74.06805",
+  "locn_geometry": "POLYGON((-74.102 40.874, -74.034 40.874, -74.034 40.825, -74.102 40.825, -74.102 40.874))",
+  "dcat_bbox": "ENVELOPE(-74.102,-74.034,40.874,40.825)",
+  "dcat_centroid": "40.849500000000006,-74.06800000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39374\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39374/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39374\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39374/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:39374",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3765D23"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

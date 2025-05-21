@@ -11,15 +11,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11",
     "Green Pond",
     "Marcella",
     "Beach GlenMorris County--Morris County--Hibernia--Morris County--Mount Hope"
@@ -34,9 +29,9 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.5948 41.0449, -74.4268 41.0449, -74.4268 40.8788, -74.5948 40.8788, -74.5948 41.0449))",
-  "dcat_bbox": "ENVELOPE(-74.5948,-74.4268,41.0449,40.8788)",
-  "dcat_centroid": "40.96185,-74.5108",
+  "locn_geometry": "POLYGON((-74.595 41.045, -74.427 41.045, -74.427 40.879, -74.595 40.879, -74.595 41.045))",
+  "dcat_bbox": "ENVELOPE(-74.595,-74.427,41.045,40.879)",
+  "dcat_centroid": "40.962,-74.511",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40518\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40518/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40518\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40518/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:40518",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3H70DFZ"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

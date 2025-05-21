@@ -11,15 +11,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11",
     "Newfield BoroughGloucester County"
   ],
   "dct_issued_s": "1943-09-15",
@@ -32,9 +27,9 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.0344 39.5606, -75.0023 39.5606, -75.0023 39.5373, -75.0344 39.5373, -75.0344 39.5606))",
-  "dcat_bbox": "ENVELOPE(-75.0344,-75.0023,39.5606,39.5373)",
-  "dcat_centroid": "39.548950000000005,-75.01835",
+  "locn_geometry": "POLYGON((-75.034 39.561, -75.002 39.561, -75.002 39.537, -75.034 39.537, -75.034 39.561))",
+  "dcat_bbox": "ENVELOPE(-75.034,-75.002,39.561,39.537)",
+  "dcat_centroid": "39.549,-75.018",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40492\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40492/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40492\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40492/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:40492",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T34T6H03"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

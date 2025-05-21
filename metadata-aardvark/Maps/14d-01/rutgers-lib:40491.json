@@ -11,15 +11,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11",
     "Harding Township",
     "Green Village",
     "Logansville",
@@ -37,9 +32,9 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.5501 40.7894, -74.4420 40.7894, -74.4420 40.6977, -74.5501 40.6977, -74.5501 40.7894))",
-  "dcat_bbox": "ENVELOPE(-74.5501,-74.4420,40.7894,40.6977)",
-  "dcat_centroid": "40.74355,-74.49605",
+  "locn_geometry": "POLYGON((-74.550 40.789, -74.442 40.789, -74.442 40.698, -74.550 40.698, -74.550 40.789))",
+  "dcat_bbox": "ENVELOPE(-74.550,-74.442,40.789,40.698)",
+  "dcat_centroid": "40.7435,-74.496",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40491\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40491/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40491\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/40491/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:40491",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3125R8P"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

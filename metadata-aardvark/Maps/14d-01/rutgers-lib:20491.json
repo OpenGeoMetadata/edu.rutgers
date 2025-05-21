@@ -13,15 +13,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Historical Maps of New Jersey"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "airports",
     "coastlines",
     "landscapes",
-    "metadataSprint_2022-11",
     "Lawrence Township",
     "Cumberland"
   ],
@@ -36,9 +31,9 @@
     "New Jersey--Cumberland County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.7627 40.3585, -74.6644 40.3585, -74.6644 40.2397, -74.7627 40.2397, -74.7627 40.3585))",
-  "dcat_bbox": "ENVELOPE(-74.7627,-74.6644,40.3585,40.2397)",
-  "dcat_centroid": "40.299099999999996,-74.71355",
+  "locn_geometry": "POLYGON((-74.763 40.358, -74.664 40.358, -74.664 40.240, -74.763 40.240, -74.763 40.358))",
+  "dcat_bbox": "ENVELOPE(-74.763,-74.664,40.358,40.240)",
+  "dcat_centroid": "40.299,-74.71350000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20491/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20491/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20491\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20491\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20491/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/20491/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:20491",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3S18319"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:51:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -16,10 +16,9 @@
     "Cadastral maps"
   ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Landowners --  -- Woodbury -- Maps.",
     "Real property --  -- Woodbury -- Maps.",
-    "metadataSprint_2022-11--Woodbury"
+    "--Woodbury"
   ],
   "dct_issued_s": "1854",
   "gbl_indexYear_im": [
@@ -32,9 +31,9 @@
     "New Jersey--Woodbury",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.1713 39.8552, -75.1349 39.8552, -75.1349 39.8241, -75.1713 39.8241, -75.1713 39.8552))",
-  "dcat_bbox": "ENVELOPE(-75.1713,-75.1349,39.8552,39.8241)",
-  "dcat_centroid": "39.839650000000006,-75.1531",
+  "locn_geometry": "POLYGON((-75.171 39.855, -75.135 39.855, -75.135 39.824, -75.171 39.824, -75.171 39.855))",
+  "dcat_bbox": "ENVELOPE(-75.171,-75.135,39.855,39.824)",
+  "dcat_centroid": "39.8395,-75.153",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,6 +49,5 @@
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3NG4SRQ"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

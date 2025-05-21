@@ -16,13 +16,8 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Rivers",
-    "metadataSprint_2022-11",
     "Rancocas Creek",
     "Delaware--Burlington County--Riverside Township--Burlington County",
     "Rancocas Creek"
@@ -37,9 +32,9 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.9730 40.0445, -74.9368 40.0445, -74.9368 40.0239, -74.9730 40.0239, -74.9730 40.0445))",
-  "dcat_bbox": "ENVELOPE(-74.9730,-74.9368,40.0445,40.0239)",
-  "dcat_centroid": "40.0342,-74.95490000000001",
+  "locn_geometry": "POLYGON((-74.973 40.044, -74.937 40.044, -74.937 40.024, -74.973 40.024, -74.973 40.044))",
+  "dcat_bbox": "ENVELOPE(-74.973,-74.937,40.044,40.024)",
+  "dcat_centroid": "40.034,-74.955",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28689/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28689/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28689\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28689\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28689/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/28689/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:28689",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T32807JJ"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:53:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

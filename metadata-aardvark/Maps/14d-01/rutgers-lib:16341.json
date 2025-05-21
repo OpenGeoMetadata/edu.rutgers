@@ -6,19 +6,18 @@
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "United States. Soil Conservation Service"
+  ],
   "schema_provider_s": "Rutgers University-New Brunswick",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "SPCOL Map Collection"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Farms",
     "Soils",
     "Water",
-    "metadataSprint_2022-11--Atlantic County"
+    "--Atlantic County"
   ],
   "dct_issued_s": "1981",
   "gbl_indexYear_im": [
@@ -31,10 +30,11 @@
     "New Jersey--Atlantic County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.985271 39.729775, -74.232062 39.729775, -74.232062 39.288558, -74.985271 39.288558, -74.985271 39.729775))",
-  "dcat_bbox": "ENVELOPE(-74.985271,-74.232062,39.729775,39.288558)",
-  "dcat_centroid": "39.5091665,-74.6086665",
+  "locn_geometry": "POLYGON((-74.985 39.730, -74.232 39.730, -74.232 39.289, -74.985 39.289, -74.985 39.730))",
+  "dcat_bbox": "ENVELOPE(-74.985,-74.232,39.730,39.289)",
+  "dcat_centroid": "39.5095,-74.60849999999999",
   "pcdm_memberOf_sm": [
+    "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
@@ -48,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16341/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16341/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16341\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16341\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16341/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/16341/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:16341",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3348M8G"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:51:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,15 +10,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Bulkheads",
     "Piers",
-    "metadataSprint_2022-11",
-    " Delaware River--Paulsboro"
+    "Delaware River--Paulsboro"
   ],
   "dct_issued_s": "1928-12-17",
   "gbl_indexYear_im": [
@@ -32,9 +27,9 @@
     "New Jersey--Paulsboro",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.2565 39.8585, -75.2228 39.8585, -75.2228 39.8194, -75.2565 39.8194, -75.2565 39.8585))",
-  "dcat_bbox": "ENVELOPE(-75.2565,-75.2228,39.8585,39.8194)",
-  "dcat_centroid": "39.83895,-75.23965000000001",
+  "locn_geometry": "POLYGON((-75.257 39.858, -75.223 39.858, -75.223 39.819, -75.257 39.819, -75.257 39.858))",
+  "dcat_bbox": "ENVELOPE(-75.257,-75.223,39.858,39.819)",
+  "dcat_centroid": "39.838499999999996,-75.24000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58180\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58180/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58180\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/58180/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:58180",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3DV1PC1"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

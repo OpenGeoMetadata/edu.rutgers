@@ -11,15 +11,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11",
     "Moonachie BoroughBergen County"
   ],
   "dct_issued_s": "1946-06-29",
@@ -32,9 +27,9 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.0788 40.8538, -74.0388 40.8538, -74.0388 40.8304, -74.0788 40.8304, -74.0788 40.8538))",
-  "dcat_bbox": "ENVELOPE(-74.0788,-74.0388,40.8538,40.8304)",
-  "dcat_centroid": "40.8421,-74.05879999999999",
+  "locn_geometry": "POLYGON((-74.079 40.854, -74.039 40.854, -74.039 40.830, -74.079 40.830, -74.079 40.854))",
+  "dcat_bbox": "ENVELOPE(-74.079,-74.039,40.854,40.830)",
+  "dcat_centroid": "40.842,-74.059",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39372\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39372/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39372\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39372/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:39372",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3ZS2V6H"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

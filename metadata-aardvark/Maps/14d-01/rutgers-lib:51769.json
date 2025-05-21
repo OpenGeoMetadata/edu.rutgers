@@ -13,15 +13,11 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Coastal zone",
     "Real property",
     "Housing lots",
-    "metadataSprint_2022-11--Barnegat Bay--Ocean County--Stafford Township"
+    "--Barnegat Bay--Ocean County--Stafford Township"
   ],
   "dct_issued_s": "1878",
   "gbl_indexYear_im": [
@@ -35,9 +31,9 @@
     "New Jersey--Ocean County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.3905 39.7744, -74.1501 39.7744, -74.1501 39.6402, -74.3905 39.6402, -74.3905 39.7744))",
-  "dcat_bbox": "ENVELOPE(-74.3905,-74.1501,39.7744,39.6402)",
-  "dcat_centroid": "39.707300000000004,-74.27029999999999",
+  "locn_geometry": "POLYGON((-74.391 39.774, -74.150 39.774, -74.150 39.640, -74.391 39.640, -74.391 39.774))",
+  "dcat_bbox": "ENVELOPE(-74.391,-74.150,39.774,39.640)",
+  "dcat_centroid": "39.707,-74.2705",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51769\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51769/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51769\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/51769/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:51769",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T36Q20M1"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

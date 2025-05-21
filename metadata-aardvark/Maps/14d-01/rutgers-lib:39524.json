@@ -11,15 +11,11 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF active",
     "Fire insurance",
     "Fire insurance maps",
     "Road maps",
-    "metadataSprint_2022-11--Essex County--Caldwell"
+    "--Essex County--Caldwell"
   ],
   "dct_issued_s": "1946-12-16",
   "gbl_indexYear_im": [
@@ -33,9 +29,9 @@
     "New Jersey--Caldwell",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.377391 40.90889, -74.112787 40.90889, -74.112787 40.674368, -74.377391 40.674368, -74.377391 40.90889))",
-  "dcat_bbox": "ENVELOPE(-74.377391,-74.112787,40.90889,40.674368)",
-  "dcat_centroid": "40.791629,-74.24508900000001",
+  "locn_geometry": "POLYGON((-74.377 40.909, -74.113 40.909, -74.113 40.674, -74.377 40.674, -74.377 40.909))",
+  "dcat_bbox": "ENVELOPE(-74.377,-74.113,40.909,40.674)",
+  "dcat_centroid": "40.7915,-74.245",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39524\",\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39524/PDF/1/play/\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39524\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/39524/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:39524",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3P26WV7"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:51:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

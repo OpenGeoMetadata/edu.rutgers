@@ -10,16 +10,12 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Tidelands",
     "Geographic Information Systems",
     "Coastal zone",
     "Wetlands",
-    "metadataSprint_2022-11--Gloucester County--Bridgeport"
+    "--Gloucester County--Bridgeport"
   ],
   "dct_issued_s": "1977-08-25",
   "gbl_indexYear_im": [
@@ -33,9 +29,9 @@
     "New Jersey--Bridgeport",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-75.429061 39.888317, -74.87726 39.888317, -74.87726 39.514967, -75.429061 39.514967, -75.429061 39.888317))",
-  "dcat_bbox": "ENVELOPE(-75.429061,-74.87726,39.888317,39.514967)",
-  "dcat_centroid": "39.701642,-75.15316050000001",
+  "locn_geometry": "POLYGON((-75.429 39.888, -74.877 39.888, -74.877 39.515, -75.429 39.515, -75.429 39.888))",
+  "dcat_bbox": "ENVELOPE(-75.429,-74.877,39.888,39.515)",
+  "dcat_centroid": "39.701499999999996,-75.15299999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63727/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63727/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63727\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63727\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63727/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/63727/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:63727",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/t3-wjz7-1t17"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:54:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

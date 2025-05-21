@@ -10,15 +10,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "SPCOL Map Collection"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Township map",
     "school districts",
     "buildings",
-    "metadataSprint_2022-11",
     "Marlboro Township",
     "Monmouth"
   ],
@@ -33,9 +28,9 @@
     "New Jersey--Monmouth County",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.3275 40.3954, -74.1972 40.3954, -74.1972 40.2781, -74.3275 40.2781, -74.3275 40.3954))",
-  "dcat_bbox": "ENVELOPE(-74.3275,-74.1972,40.3954,40.2781)",
-  "dcat_centroid": "40.33675,-74.26235",
+  "locn_geometry": "POLYGON((-74.328 40.395, -74.197 40.395, -74.197 40.278, -74.328 40.278, -74.328 40.395))",
+  "dcat_bbox": "ENVELOPE(-74.328,-74.197,40.395,40.278)",
+  "dcat_centroid": "40.3365,-74.2625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15806/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15806/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15806\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15806\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15806/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/15806/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:15806",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3NG4RK2"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,13 +7,8 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "New Jersey Environmental Digital Library"
-  ],
   "dcat_keyword_sm": [
-    "IIIF in process",
     "Land",
-    "metadataSprint_2022-11",
     "Coles Estate--Hudson County--Hoboken"
   ],
   "dct_issued_s": "1882",
@@ -28,9 +23,9 @@
     "New Jersey--Hoboken",
     "New Jersey"
   ],
-  "locn_geometry": "POLYGON((-74.166087 40.823582, -73.984739 40.823582, -73.984739 40.64199, -74.166087 40.64199, -74.166087 40.823582))",
-  "dcat_bbox": "ENVELOPE(-74.166087,-73.984739,40.823582,40.64199)",
-  "dcat_centroid": "40.732786000000004,-74.075413",
+  "locn_geometry": "POLYGON((-74.166 40.824, -73.985 40.824, -73.985 40.642, -74.166 40.642, -74.166 40.824))",
+  "dcat_bbox": "ENVELOPE(-74.166,-73.985,40.824,40.642)",
+  "dcat_centroid": "40.733000000000004,-74.0755",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"label\":\"PDF\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33684/PDF/1/play/\"},{\"label\":\"Original JPEG\",\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33684/JPEG/1/play/\"}],\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33684\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33684\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33684/JPEG/1/play/\",\"label\":\"JPEG\"},{\"url\":\"https://rucore.libraries.rutgers.edu/rutgers-lib/33684/PDF/1/play/\",\"label\":\"PDF\"}]}",
   "id": "rutgers-lib:33684",
   "dct_identifier_sm": [
     "https://doi.org/doi:10.7282/T3QV3KVM"
   ],
-  "gbl_mdModified_dt": "2023-03-14T19:52:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }
